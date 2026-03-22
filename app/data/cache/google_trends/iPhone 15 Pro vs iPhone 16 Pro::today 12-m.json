@@ -1,0 +1,1092 @@
+{
+  "query": "iPhone 15 Pro vs iPhone 16 Pro",
+  "date": "today 12-m",
+  "_timeseries": {
+    "interest_over_time": {
+      "timeline_data": [
+        {
+          "date": "Mar 23\u2009\u2013\u200929, 2025",
+          "timestamp": "1742688000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "32",
+              "extracted_value": 32
+            }
+          ]
+        },
+        {
+          "date": "Mar 30\u2009\u2013\u2009Apr 5, 2025",
+          "timestamp": "1743292800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "30",
+              "extracted_value": 30
+            }
+          ]
+        },
+        {
+          "date": "Apr 6\u2009\u2013\u200912, 2025",
+          "timestamp": "1743897600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "35",
+              "extracted_value": 35
+            }
+          ]
+        },
+        {
+          "date": "Apr 13\u2009\u2013\u200919, 2025",
+          "timestamp": "1744502400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "30",
+              "extracted_value": 30
+            }
+          ]
+        },
+        {
+          "date": "Apr 20\u2009\u2013\u200926, 2025",
+          "timestamp": "1745107200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "29",
+              "extracted_value": 29
+            }
+          ]
+        },
+        {
+          "date": "Apr 27\u2009\u2013\u2009May 3, 2025",
+          "timestamp": "1745712000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "27",
+              "extracted_value": 27
+            }
+          ]
+        },
+        {
+          "date": "May 4\u2009\u2013\u200910, 2025",
+          "timestamp": "1746316800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "27",
+              "extracted_value": 27
+            }
+          ]
+        },
+        {
+          "date": "May 11\u2009\u2013\u200917, 2025",
+          "timestamp": "1746921600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "28",
+              "extracted_value": 28
+            }
+          ]
+        },
+        {
+          "date": "May 18\u2009\u2013\u200924, 2025",
+          "timestamp": "1747526400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "27",
+              "extracted_value": 27
+            }
+          ]
+        },
+        {
+          "date": "May 25\u2009\u2013\u200931, 2025",
+          "timestamp": "1748131200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "27",
+              "extracted_value": 27
+            }
+          ]
+        },
+        {
+          "date": "Jun 1\u2009\u2013\u20097, 2025",
+          "timestamp": "1748736000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "30",
+              "extracted_value": 30
+            }
+          ]
+        },
+        {
+          "date": "Jun 8\u2009\u2013\u200914, 2025",
+          "timestamp": "1749340800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "29",
+              "extracted_value": 29
+            }
+          ]
+        },
+        {
+          "date": "Jun 15\u2009\u2013\u200921, 2025",
+          "timestamp": "1749945600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "28",
+              "extracted_value": 28
+            }
+          ]
+        },
+        {
+          "date": "Jun 22\u2009\u2013\u200928, 2025",
+          "timestamp": "1750550400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "27",
+              "extracted_value": 27
+            }
+          ]
+        },
+        {
+          "date": "Jun 29\u2009\u2013\u2009Jul 5, 2025",
+          "timestamp": "1751155200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "28",
+              "extracted_value": 28
+            }
+          ]
+        },
+        {
+          "date": "Jul 6\u2009\u2013\u200912, 2025",
+          "timestamp": "1751760000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "29",
+              "extracted_value": 29
+            }
+          ]
+        },
+        {
+          "date": "Jul 13\u2009\u2013\u200919, 2025",
+          "timestamp": "1752364800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "31",
+              "extracted_value": 31
+            }
+          ]
+        },
+        {
+          "date": "Jul 20\u2009\u2013\u200926, 2025",
+          "timestamp": "1752969600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "33",
+              "extracted_value": 33
+            }
+          ]
+        },
+        {
+          "date": "Jul 27\u2009\u2013\u2009Aug 2, 2025",
+          "timestamp": "1753574400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "38",
+              "extracted_value": 38
+            }
+          ]
+        },
+        {
+          "date": "Aug 3\u2009\u2013\u20099, 2025",
+          "timestamp": "1754179200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "46",
+              "extracted_value": 46
+            }
+          ]
+        },
+        {
+          "date": "Aug 10\u2009\u2013\u200916, 2025",
+          "timestamp": "1754784000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "61",
+              "extracted_value": 61
+            }
+          ]
+        },
+        {
+          "date": "Aug 17\u2009\u2013\u200923, 2025",
+          "timestamp": "1755388800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "54",
+              "extracted_value": 54
+            }
+          ]
+        },
+        {
+          "date": "Aug 24\u2009\u2013\u200930, 2025",
+          "timestamp": "1755993600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "54",
+              "extracted_value": 54
+            }
+          ]
+        },
+        {
+          "date": "Aug 31\u2009\u2013\u2009Sep 6, 2025",
+          "timestamp": "1756598400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "59",
+              "extracted_value": 59
+            }
+          ]
+        },
+        {
+          "date": "Sep 7\u2009\u2013\u200913, 2025",
+          "timestamp": "1757203200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "100",
+              "extracted_value": 100
+            }
+          ]
+        },
+        {
+          "date": "Sep 14\u2009\u2013\u200920, 2025",
+          "timestamp": "1757808000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "77",
+              "extracted_value": 77
+            }
+          ]
+        },
+        {
+          "date": "Sep 21\u2009\u2013\u200927, 2025",
+          "timestamp": "1758412800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "63",
+              "extracted_value": 63
+            }
+          ]
+        },
+        {
+          "date": "Sep 28\u2009\u2013\u2009Oct 4, 2025",
+          "timestamp": "1759017600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "46",
+              "extracted_value": 46
+            }
+          ]
+        },
+        {
+          "date": "Oct 5\u2009\u2013\u200911, 2025",
+          "timestamp": "1759622400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "37",
+              "extracted_value": 37
+            }
+          ]
+        },
+        {
+          "date": "Oct 12\u2009\u2013\u200918, 2025",
+          "timestamp": "1760227200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "36",
+              "extracted_value": 36
+            }
+          ]
+        },
+        {
+          "date": "Oct 19\u2009\u2013\u200925, 2025",
+          "timestamp": "1760832000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "34",
+              "extracted_value": 34
+            }
+          ]
+        },
+        {
+          "date": "Oct 26\u2009\u2013\u2009Nov 1, 2025",
+          "timestamp": "1761436800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "31",
+              "extracted_value": 31
+            }
+          ]
+        },
+        {
+          "date": "Nov 2\u2009\u2013\u20098, 2025",
+          "timestamp": "1762041600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "31",
+              "extracted_value": 31
+            }
+          ]
+        },
+        {
+          "date": "Nov 9\u2009\u2013\u200915, 2025",
+          "timestamp": "1762646400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "34",
+              "extracted_value": 34
+            }
+          ]
+        },
+        {
+          "date": "Nov 16\u2009\u2013\u200922, 2025",
+          "timestamp": "1763251200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "32",
+              "extracted_value": 32
+            }
+          ]
+        },
+        {
+          "date": "Nov 23\u2009\u2013\u200929, 2025",
+          "timestamp": "1763856000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "40",
+              "extracted_value": 40
+            }
+          ]
+        },
+        {
+          "date": "Nov 30\u2009\u2013\u2009Dec 6, 2025",
+          "timestamp": "1764460800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "41",
+              "extracted_value": 41
+            }
+          ]
+        },
+        {
+          "date": "Dec 7\u2009\u2013\u200913, 2025",
+          "timestamp": "1765065600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "41",
+              "extracted_value": 41
+            }
+          ]
+        },
+        {
+          "date": "Dec 14\u2009\u2013\u200920, 2025",
+          "timestamp": "1765670400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "51",
+              "extracted_value": 51
+            }
+          ]
+        },
+        {
+          "date": "Dec 21\u2009\u2013\u200927, 2025",
+          "timestamp": "1766275200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "40",
+              "extracted_value": 40
+            }
+          ]
+        },
+        {
+          "date": "Dec 28, 2025\u2009\u2013\u2009Jan 3, 2026",
+          "timestamp": "1766880000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "42",
+              "extracted_value": 42
+            }
+          ]
+        },
+        {
+          "date": "Jan 4\u2009\u2013\u200910, 2026",
+          "timestamp": "1767484800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "38",
+              "extracted_value": 38
+            }
+          ]
+        },
+        {
+          "date": "Jan 11\u2009\u2013\u200917, 2026",
+          "timestamp": "1768089600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "42",
+              "extracted_value": 42
+            }
+          ]
+        },
+        {
+          "date": "Jan 18\u2009\u2013\u200924, 2026",
+          "timestamp": "1768694400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "37",
+              "extracted_value": 37
+            }
+          ]
+        },
+        {
+          "date": "Jan 25\u2009\u2013\u200931, 2026",
+          "timestamp": "1769299200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "39",
+              "extracted_value": 39
+            }
+          ]
+        },
+        {
+          "date": "Feb 1\u2009\u2013\u20097, 2026",
+          "timestamp": "1769904000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "31",
+              "extracted_value": 31
+            }
+          ]
+        },
+        {
+          "date": "Feb 8\u2009\u2013\u200914, 2026",
+          "timestamp": "1770508800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "30",
+              "extracted_value": 30
+            }
+          ]
+        },
+        {
+          "date": "Feb 15\u2009\u2013\u200921, 2026",
+          "timestamp": "1771113600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "32",
+              "extracted_value": 32
+            }
+          ]
+        },
+        {
+          "date": "Feb 22\u2009\u2013\u200928, 2026",
+          "timestamp": "1771718400",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "32",
+              "extracted_value": 32
+            }
+          ]
+        },
+        {
+          "date": "Mar 1\u2009\u2013\u20097, 2026",
+          "timestamp": "1772323200",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "35",
+              "extracted_value": 35
+            }
+          ]
+        },
+        {
+          "date": "Mar 8\u2009\u2013\u200914, 2026",
+          "timestamp": "1772928000",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "26",
+              "extracted_value": 26
+            }
+          ]
+        },
+        {
+          "date": "Mar 15\u2009\u2013\u200921, 2026",
+          "timestamp": "1773532800",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "24",
+              "extracted_value": 24
+            }
+          ]
+        },
+        {
+          "date": "Mar 22\u2009\u2013\u200928, 2026",
+          "timestamp": "1774137600",
+          "values": [
+            {
+              "query": "iPhone 15 Pro vs iPhone 16 Pro",
+              "value": "21",
+              "extracted_value": 21
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_related_topics": {
+    "related_topics": {
+      "rising": [
+        {
+          "topic": {
+            "value": "/g/11yk55h16v",
+            "title": "iPhone 17 Pro",
+            "type": "Mobile phone"
+          },
+          "value": "Breakout",
+          "extracted_value": 681450,
+          "link": "https://trends.google.com/trends/explore?q=/g/11yk55h16v&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11yk1r43kh",
+            "title": "iPhone 17",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 662850,
+          "link": "https://trends.google.com/trends/explore?q=/g/11yk1r43kh&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/02xx5",
+            "title": "February",
+            "type": "Month"
+          },
+          "value": "Breakout",
+          "extracted_value": 155700,
+          "link": "https://trends.google.com/trends/explore?q=/m/02xx5&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11bc5zy143",
+            "title": "Reuters",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 121150,
+          "link": "https://trends.google.com/trends/explore?q=/g/11bc5zy143&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0ps53",
+            "title": "Reuters",
+            "type": "News agency company"
+          },
+          "value": "Breakout",
+          "extracted_value": 120900,
+          "link": "https://trends.google.com/trends/explore?q=/m/0ps53&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01jdpf",
+            "title": "Interview",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 86650,
+          "link": "https://trends.google.com/trends/explore?q=/m/01jdpf&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11x5hywf31",
+            "title": "Restored Apple iPhone 16 Plus",
+            "type": "Mobile phone"
+          },
+          "value": "Breakout",
+          "extracted_value": 43150,
+          "link": "https://trends.google.com/trends/explore?q=/g/11x5hywf31&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/015www",
+            "title": "Documentation",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 20700,
+          "link": "https://trends.google.com/trends/explore?q=/m/015www&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0ll3",
+            "title": "August",
+            "type": "Month"
+          },
+          "value": "Breakout",
+          "extracted_value": 14150,
+          "link": "https://trends.google.com/trends/explore?q=/m/0ll3&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/03rnh",
+            "title": "Industry",
+            "type": "Economics"
+          },
+          "value": "Breakout",
+          "extracted_value": 12650,
+          "link": "https://trends.google.com/trends/explore?q=/m/03rnh&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/020xwm",
+            "title": "Policy",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 11400,
+          "link": "https://trends.google.com/trends/explore?q=/m/020xwm&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/06cs1",
+            "title": "Research",
+            "type": "Organization type"
+          },
+          "value": "Breakout",
+          "extracted_value": 8500,
+          "link": "https://trends.google.com/trends/explore?q=/m/06cs1&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/07t5cj",
+            "title": "Article",
+            "type": "Publishing"
+          },
+          "value": "Breakout",
+          "extracted_value": 7250,
+          "link": "https://trends.google.com/trends/explore?q=/m/07t5cj&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0z5n",
+            "title": "Application programming interface",
+            "type": "Type of software"
+          },
+          "value": "Breakout",
+          "extracted_value": 6900,
+          "link": "https://trends.google.com/trends/explore?q=/m/0z5n&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11b77d6b6f",
+            "title": "2021",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 6550,
+          "link": "https://trends.google.com/trends/explore?q=/g/11b77d6b6f&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11bxc656v6",
+            "title": "OpenAI",
+            "type": "Artificial intelligence company"
+          },
+          "value": "Breakout",
+          "extracted_value": 6450,
+          "link": "https://trends.google.com/trends/explore?q=/g/11bxc656v6&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/04wzr",
+            "title": "March",
+            "type": "Month"
+          },
+          "value": "Breakout",
+          "extracted_value": 6300,
+          "link": "https://trends.google.com/trends/explore?q=/m/04wzr&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01jwgf",
+            "title": "Product",
+            "type": "Business"
+          },
+          "value": "Breakout",
+          "extracted_value": 5900,
+          "link": "https://trends.google.com/trends/explore?q=/m/01jwgf&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/06d5f",
+            "title": "Risk | Brilliant Math & Science Wiki",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 5800,
+          "link": "https://trends.google.com/trends/explore?q=/m/06d5f&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01kr9k",
+            "title": "Revenue",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 5500,
+          "link": "https://trends.google.com/trends/explore?q=/m/01kr9k&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0168hv",
+            "title": "Cost",
+            "type": "Topic"
+          },
+          "value": "+1,050%",
+          "extracted_value": 1050,
+          "link": "https://trends.google.com/trends/explore?q=/m/0168hv&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/02mz1d",
+            "title": "Review",
+            "type": "Topic"
+          },
+          "value": "+600%",
+          "extracted_value": 600,
+          "link": "https://trends.google.com/trends/explore?q=/m/02mz1d&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0h6955b",
+            "title": "Xiaomi",
+            "type": "Consumer electronics company"
+          },
+          "value": "+550%",
+          "extracted_value": 550,
+          "link": "https://trends.google.com/trends/explore?q=/m/0h6955b&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11b77dhw02",
+            "title": "2024",
+            "type": "Topic"
+          },
+          "value": "+350%",
+          "extracted_value": 350,
+          "link": "https://trends.google.com/trends/explore?q=/g/11b77dhw02&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01d_1l",
+            "title": "Price",
+            "type": "Topic"
+          },
+          "value": "+180%",
+          "extracted_value": 180,
+          "link": "https://trends.google.com/trends/explore?q=/m/01d_1l&date=today+12-m"
+        }
+      ],
+      "top": [
+        {
+          "topic": {
+            "value": "/m/027lnzs",
+            "title": "iPhone",
+            "type": "Mobile phone"
+          },
+          "value": "100",
+          "extracted_value": 100,
+          "link": "https://trends.google.com/trends/explore?q=/m/027lnzs&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11vdlgxz3t",
+            "title": "iPhone 15 Pro",
+            "type": "Mobile phone"
+          },
+          "value": "68",
+          "extracted_value": 68,
+          "link": "https://trends.google.com/trends/explore?q=/g/11vdlgxz3t&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11w8y9nl6l",
+            "title": "iPhone 16 Pro",
+            "type": "Mobile phone"
+          },
+          "value": "67",
+          "extracted_value": 67,
+          "link": "https://trends.google.com/trends/explore?q=/g/11w8y9nl6l&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11lnwsph21",
+            "title": "iPhone 16",
+            "type": "Mobile phone"
+          },
+          "value": "43",
+          "extracted_value": 43,
+          "link": "https://trends.google.com/trends/explore?q=/g/11lnwsph21&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11l2c_4k65",
+            "title": "iPhone 15",
+            "type": "Mobile phone"
+          },
+          "value": "32",
+          "extracted_value": 32,
+          "link": "https://trends.google.com/trends/explore?q=/g/11l2c_4k65&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01d_1l",
+            "title": "Price",
+            "type": "Topic"
+          },
+          "value": "24",
+          "extracted_value": 24,
+          "link": "https://trends.google.com/trends/explore?q=/m/01d_1l&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0k8z",
+            "title": "Apple",
+            "type": "Technology company"
+          },
+          "value": "12",
+          "extracted_value": 12,
+          "link": "https://trends.google.com/trends/explore?q=/m/0k8z&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0dv5r",
+            "title": "Camera",
+            "type": "Topic"
+          },
+          "value": "12",
+          "extracted_value": 12,
+          "link": "https://trends.google.com/trends/explore?q=/m/0dv5r&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/04st9hr",
+            "title": "Apple",
+            "type": "Topic"
+          },
+          "value": "11",
+          "extracted_value": 11,
+          "link": "https://trends.google.com/trends/explore?q=/m/04st9hr&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11s9c6h69c",
+            "title": "iPhone 14 Pro",
+            "type": "Mobile phone"
+          },
+          "value": "8",
+          "extracted_value": 8,
+          "link": "https://trends.google.com/trends/explore?q=/g/11s9c6h69c&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/050k8",
+            "title": "Mobile phone",
+            "type": "Topic"
+          },
+          "value": "8",
+          "extracted_value": 8,
+          "link": "https://trends.google.com/trends/explore?q=/m/050k8&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11bc6hq8w2",
+            "title": "Apple",
+            "type": "Topic"
+          },
+          "value": "7",
+          "extracted_value": 7,
+          "link": "https://trends.google.com/trends/explore?q=/g/11bc6hq8w2&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/02mz1d",
+            "title": "Review",
+            "type": "Topic"
+          },
+          "value": "7",
+          "extracted_value": 7,
+          "link": "https://trends.google.com/trends/explore?q=/m/02mz1d&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01c0z",
+            "title": "Electric battery",
+            "type": "Topic"
+          },
+          "value": "7",
+          "extracted_value": 7,
+          "link": "https://trends.google.com/trends/explore?q=/m/01c0z&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/04zjj11",
+            "title": "Samsung",
+            "type": "Topic"
+          },
+          "value": "7",
+          "extracted_value": 7,
+          "link": "https://trends.google.com/trends/explore?q=/m/04zjj11&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01nn79",
+            "title": "Samsung Electronics",
+            "type": "Consumer electronics corporation"
+          },
+          "value": "7",
+          "extracted_value": 7,
+          "link": "https://trends.google.com/trends/explore?q=/m/01nn79&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11yk55h16v",
+            "title": "iPhone 17 Pro",
+            "type": "Mobile phone"
+          },
+          "value": "7",
+          "extracted_value": 7,
+          "link": "https://trends.google.com/trends/explore?q=/g/11yk55h16v&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11yk1r43kh",
+            "title": "iPhone 17",
+            "type": "Topic"
+          },
+          "value": "7",
+          "extracted_value": 7,
+          "link": "https://trends.google.com/trends/explore?q=/g/11yk1r43kh&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11ptwy_c30",
+            "title": "iPhone 14",
+            "type": "Mobile phone"
+          },
+          "value": "6",
+          "extracted_value": 6,
+          "link": "https://trends.google.com/trends/explore?q=/g/11ptwy_c30&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01jwgf",
+            "title": "Product",
+            "type": "Business"
+          },
+          "value": "6",
+          "extracted_value": 6,
+          "link": "https://trends.google.com/trends/explore?q=/m/01jwgf&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11np0c47tj",
+            "title": "iPhone 13",
+            "type": "Mobile phone"
+          },
+          "value": "6",
+          "extracted_value": 6,
+          "link": "https://trends.google.com/trends/explore?q=/g/11np0c47tj&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11b77dhw02",
+            "title": "2024",
+            "type": "Topic"
+          },
+          "value": "6",
+          "extracted_value": 6,
+          "link": "https://trends.google.com/trends/explore?q=/g/11b77dhw02&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11cn9334_t",
+            "title": "Xiaomi",
+            "type": "Topic"
+          },
+          "value": "5",
+          "extracted_value": 5,
+          "link": "https://trends.google.com/trends/explore?q=/g/11cn9334_t&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0168hv",
+            "title": "Cost",
+            "type": "Topic"
+          },
+          "value": "5",
+          "extracted_value": 5,
+          "link": "https://trends.google.com/trends/explore?q=/m/0168hv&date=today+12-m"
+        }
+      ]
+    }
+  },
+  "_related_queries": {}
+}

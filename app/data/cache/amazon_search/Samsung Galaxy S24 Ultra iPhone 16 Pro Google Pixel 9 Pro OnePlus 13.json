@@ -1,0 +1,2090 @@
+{
+  "search_metadata": {
+    "id": "69c0c5c9079a2b57cac48d12",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sG9q-WbL2zFprMAaRy5Ltw/69c0c5c9079a2b57cac48d12.json",
+    "created_at": "2026-03-23 04:47:05 UTC",
+    "processed_at": "2026-03-23 04:47:05 UTC",
+    "amazon_url": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13",
+    "raw_html_file": "https://serpapi.com/searches/sG9q-WbL2zFprMAaRy5Ltw/69c0c5c9079a2b57cac48d12.html",
+    "total_time_taken": 1.14
+  },
+  "search_parameters": {
+    "engine": "amazon",
+    "k": "Samsung Galaxy S24 Ultra iPhone 16 Pro Google Pixel 9 Pro OnePlus 13",
+    "amazon_domain": "amazon.ca",
+    "device": "desktop"
+  },
+  "search_information": {
+    "total_results": 104,
+    "query_displayed": "Samsung Galaxy S24 Ultra iPhone 16 Pro Google Pixel 9 Pro OnePlus 13",
+    "store": "gateway",
+    "page": 1
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "asin": "B08MT19QVG",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B08MT19QVG",
+            "title": "Black",
+            "link": "https://www.amazon.ca/Zippered-Neoprene-Sleeve-Pocket-OnePlus/dp/B08MT19QVG/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-1"
+          },
+          {
+            "position": 2,
+            "asin": "B08MVJ6LN1",
+            "title": "Gray",
+            "link": "https://www.amazon.ca/Zippered-Neoprene-Sleeve-Pocket-OnePlus/dp/B08MVJ6LN1/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-1"
+          }
+        ]
+      },
+      "title": "Zippered Neoprene Cell Phone Sleeve Mesh Pocket Pouch for iPhone 17 Pro Max Air 16 Plus iPhone 15 14 13 Pro Max 12 Pro Max Google Pixel 10 Pro XL 9 Pro XL 8 Pro OnePlus 13 12 Moto G Play 2024 (Black)",
+      "link": "https://www.amazon.ca/Zippered-Neoprene-Sleeve-Pocket-OnePlus/dp/B08MT19QVG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-1",
+      "link_clean": "https://www.amazon.ca/Zippered-Neoprene-Sleeve-Pocket-OnePlus/dp/B08MT19QVG/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B08MT19QVG&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/718C4ipGzRL._AC_UL320_.jpg",
+      "rating": 4.6,
+      "reviews": 67,
+      "price": "$21.81",
+      "extracted_price": 21.81,
+      "delivery": [
+        "$5.18 delivery Wed, Mar 25"
+      ]
+    },
+    {
+      "position": 2,
+      "asin": "B0CHJQBGSG",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0CHJQBGSG",
+            "title": "Black",
+            "link": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJQBGSG/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-2"
+          },
+          {
+            "position": 2,
+            "asin": "B0CHJTTH2S",
+            "title": "Blue",
+            "link": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJTTH2S/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-2"
+          },
+          {
+            "position": 3,
+            "asin": "B0CHJT7FG2",
+            "title": "Dark Grey",
+            "link": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJT7FG2/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-2"
+          }
+        ]
+      },
+      "title": "Mens Nylon Cell Phone Holster Belt Clip Pouch Purse Waist Bag Compatible for Apple iPhone 16 Pro Max Samsung Galaxy S24 Ultra S24+ A55 A54 A35 A25 A15 Google Pixel 9 Pro OnePlus 12 Open (Black)",
+      "link": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJQBGSG/ref=sr_1_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-2",
+      "link_clean": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJQBGSG/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CHJQBGSG&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81OGBRO+XkL._AC_UL320_.jpg",
+      "rating": 4.6,
+      "reviews": 12,
+      "price": "$17.20",
+      "extracted_price": 17.2,
+      "delivery": [
+        "FREE delivery Sun, Mar 29 on your first order",
+        "Or fastest delivery Tue, Mar 24"
+      ],
+      "stock": "Only 8 left in stock."
+    },
+    {
+      "position": 3,
+      "asin": "B0C544TBQM",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S23-Ultra-Canadian/dp/B0C544TBQM/ref=sr_1_3_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-3",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0C544TBQM",
+            "title": "Phantom Black",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S23-Ultra-Canadian/dp/B0C544TBQM/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-3"
+          },
+          {
+            "position": 2,
+            "asin": "B0C5443MCX",
+            "title": "Green",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S23-Ultra-Canadian/dp/B0C5443MCX/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-3"
+          },
+          {
+            "position": 3,
+            "asin": "B0C543B9DV",
+            "title": "Lavender",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S23-Ultra-Canadian/dp/B0C543B9DV/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-3"
+          }
+        ]
+      },
+      "title": "Samsung Galaxy S23 Ultra 5G, US Version, 256GB, Phantom Black - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S23-Ultra-Canadian/dp/B0C544TBQM/ref=sr_1_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-3",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S23-Ultra-Canadian/dp/B0C544TBQM/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0C544TBQM&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/513vXUcPFrL._AC_UL320_.jpg",
+      "rating": 3.9,
+      "reviews": 2100,
+      "bought_last_month": "200+ bought in past month",
+      "price": "$497.49",
+      "extracted_price": 497.49,
+      "old_price": "$545.74",
+      "extracted_old_price": 545.74,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "more_buying_choices": "$460.00 (10 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0C544TBQM/ref=sr_1_3_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-3"
+    },
+    {
+      "position": 4,
+      "asin": "B0CHJTTH2S",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0CHJTTH2S",
+            "title": "Blue",
+            "link": "https://www.amazon.ca/Holster-Compatible-iPhone-Samsung-OnePlus/dp/B0CHJTTH2S/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-4"
+          },
+          {
+            "position": 2,
+            "asin": "B0CHJQBGSG",
+            "title": "Black",
+            "link": "https://www.amazon.ca/Holster-Compatible-iPhone-Samsung-OnePlus/dp/B0CHJQBGSG/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-4"
+          },
+          {
+            "position": 3,
+            "asin": "B0CHJT7FG2",
+            "title": "Dark Grey",
+            "link": "https://www.amazon.ca/Holster-Compatible-iPhone-Samsung-OnePlus/dp/B0CHJT7FG2/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-4"
+          }
+        ]
+      },
+      "title": "Mens Nylon Cell Phone Holster Belt Clip Pouch Purse Waist Bag Compatible for Apple iPhone 16 Pro Max Samsung Galaxy S24 Ultra S24+ A55 A54 A35 A25 A15 Google Pixel 9 Pro OnePlus 12 Open (Blue)",
+      "link": "https://www.amazon.ca/Holster-Compatible-iPhone-Samsung-OnePlus/dp/B0CHJTTH2S/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-4",
+      "link_clean": "https://www.amazon.ca/Holster-Compatible-iPhone-Samsung-OnePlus/dp/B0CHJTTH2S/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CHJTTH2S&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81Esqt6ZWYL._AC_UL320_.jpg",
+      "rating": 4.6,
+      "reviews": 12,
+      "price": "$17.20",
+      "extracted_price": 17.2,
+      "delivery": [
+        "FREE delivery Sun, Mar 29 on your first order",
+        "Or fastest delivery Tue, Mar 24"
+      ],
+      "stock": "Only 3 left in stock."
+    },
+    {
+      "position": 5,
+      "asin": "B0CHJT7FG2",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0CHJT7FG2",
+            "title": "Dark Grey",
+            "link": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJT7FG2/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-5"
+          },
+          {
+            "position": 2,
+            "asin": "B0CHJQBGSG",
+            "title": "Black",
+            "link": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJQBGSG/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-5"
+          },
+          {
+            "position": 3,
+            "asin": "B0CHJTTH2S",
+            "title": "Blue",
+            "link": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJTTH2S/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-5"
+          }
+        ]
+      },
+      "title": "Mens Nylon Cell Phone Holster Belt Clip Pouch Purse Waist Bag Compatible for Apple iPhone 16 Pro Max Samsung Galaxy S24 Ultra S24+ A55 A54 A35 A25 A15 Google Pixel 9 Pro OnePlus 12 Open (Dark Grey)",
+      "link": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJT7FG2/ref=sr_1_5?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-5",
+      "link_clean": "https://www.amazon.ca/Holster-Compatible-Samsung-Galaxy-OnePlus/dp/B0CHJT7FG2/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CHJT7FG2&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81+BxHEernL._AC_UL320_.jpg",
+      "rating": 4.6,
+      "reviews": 12,
+      "price": "$17.20",
+      "extracted_price": 17.2,
+      "delivery": [
+        "FREE delivery Sun, Mar 29 on your first order",
+        "Or fastest delivery Tue, Mar 24"
+      ],
+      "stock": "Only 2 left in stock."
+    },
+    {
+      "position": 6,
+      "asin": "B0DNG5WCZ8",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Google-Octa-core-Android-Unlocked-Obsidian/dp/B0DNG5WCZ8/ref=sr_1_6_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-6",
+      "title": "Google Pixel 9 Pro 5G | 128GB, 16GB | 6.3\" 120Hz OLED, 50MP 8K Camera, Tensor G4 Octa-core, Android 14 | Fully Unlocked for Canada & Global | Obsidian (Renewed)",
+      "link": "https://www.amazon.ca/Google-Octa-core-Android-Unlocked-Obsidian/dp/B0DNG5WCZ8/ref=sr_1_6?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-6",
+      "link_clean": "https://www.amazon.ca/Google-Octa-core-Android-Unlocked-Obsidian/dp/B0DNG5WCZ8/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DNG5WCZ8&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51KzFEigYtL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 57,
+      "price": "$689.00",
+      "extracted_price": 689.0,
+      "old_price": "$754.99",
+      "extracted_old_price": 754.99,
+      "delivery": [
+        "FREE delivery Mar 25 - 26"
+      ],
+      "stock": "Only 1 left in stock.",
+      "more_buying_choices": "$688.04 (8 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0DNG5WCZ8/ref=sr_1_6_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-6"
+    },
+    {
+      "position": 7,
+      "asin": "B0D8V3N28Z",
+      "options": "3 sizes",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V3N28Z/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0D8V3N28Z",
+            "title": "Obsidian",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V3N28Z/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7"
+          },
+          {
+            "position": 2,
+            "asin": "B0D8V3J2Y4",
+            "title": "Hazel",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V3J2Y4/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7"
+          },
+          {
+            "position": 3,
+            "asin": "B0D8V8M32B",
+            "title": "Porcelain",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V8M32B/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7"
+          },
+          {
+            "position": 4,
+            "asin": "B0D8V4HPS9",
+            "title": "Rose Quartz",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V4HPS9/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7"
+          }
+        ]
+      },
+      "brand": "Google",
+      "title": "Pixel 9 Pro XL - 128 GB - 6.8-inch Display -Unlocked Android Smartphone with Advanced Pixel Camera, 24+ Hour Battery Life, Fast Wireless Charging, Dual SIM, and Powerful Security - Obsidian",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V3N28Z/ref=sr_1_7_mod_primary_new?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V3N28Z/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0D8V3N28Z&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61fKyQOjGQL._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 153,
+      "bought_last_month": "50+ bought in past month",
+      "price": "$797.08",
+      "extracted_price": 797.08,
+      "delivery": [
+        "FREE delivery Sun, Mar 29"
+      ],
+      "stock": "Only 6 left in stock.",
+      "more_buying_choices": "$791.46 (8 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0D8V3N28Z/ref=sr_1_7_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-7"
+    },
+    {
+      "position": 8,
+      "asin": "B09F6Z8V3B",
+      "title": "Nylon Cell Phone Holster Case with Belt Clip Loop Compatible with iPhone 17 Pro Max Galaxy S25 Ultra A16 A26 A36 Motorola razr Moto G Power Play OnePlus 13 Pixel 10 Pro XL Poco F8 Ultra (XL)",
+      "link": "https://www.amazon.ca/Holster-Compatible-Galaxy-Stylus-OnePlus/dp/B09F6Z8V3B/ref=sr_1_8?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-8",
+      "link_clean": "https://www.amazon.ca/Holster-Compatible-Galaxy-Stylus-OnePlus/dp/B09F6Z8V3B/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B09F6Z8V3B&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81MMhJXwq+L._AC_UL320_.jpg",
+      "rating": 4.5,
+      "reviews": 408,
+      "price": "$18.09",
+      "extracted_price": 18.09,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "stock": "Only 10 left in stock."
+    },
+    {
+      "position": 9,
+      "asin": "B0C542J9W8",
+      "title": "Cell Phone Holsters Phone Belt Holder with Card Slot Compatible for Galaxy S25 Ultra S25+ A16 A35 A55 iPhone 16 Pro Max XS Max OnePlus 13 13R Pixel 9 Pro XL Motorola Edge Poco X7 Pro TCL 50 XE (XL)",
+      "link": "https://www.amazon.ca/Holsters-Holder-Compatible-Galaxy-OnePlus/dp/B0C542J9W8/ref=sr_1_9?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-9",
+      "link_clean": "https://www.amazon.ca/Holsters-Holder-Compatible-Galaxy-OnePlus/dp/B0C542J9W8/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0C542J9W8&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81IwJ7V10pL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "reviews": 12,
+      "price": "$20.82",
+      "extracted_price": 20.82,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ]
+    },
+    {
+      "position": 10,
+      "asin": "B0C6LYXXC4",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0C6LYXXC4",
+            "title": "Size XL",
+            "link": "https://www.amazon.ca/Leather-Sleeve-Holster-Samsung-OnePlus/dp/B0C6LYXXC4/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-10"
+          },
+          {
+            "position": 2,
+            "asin": "B0C6M18GMY",
+            "title": "Size L",
+            "link": "https://www.amazon.ca/Leather-Sleeve-Holster-Samsung-OnePlus/dp/B0C6M18GMY/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-10"
+          },
+          {
+            "position": 3,
+            "asin": "B0C6LYR93M",
+            "title": "Size M",
+            "link": "https://www.amazon.ca/Leather-Sleeve-Holster-Samsung-OnePlus/dp/B0C6LYR93M/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-10"
+          }
+        ]
+      },
+      "title": "Ultra Slim Faux Leather Cell Phone Sleeve Belt Loop Holster Pouch Case for iPhone 16 Plus 16 15 14 Pro Max Samsung Galaxy S25 Ultra S24 Ultra A16 A26 A36 A56 OnePlus 13 Google Pixel 8 Pro (Size XL)",
+      "link": "https://www.amazon.ca/Leather-Sleeve-Holster-Samsung-OnePlus/dp/B0C6LYXXC4/ref=sr_1_10?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-10",
+      "link_clean": "https://www.amazon.ca/Leather-Sleeve-Holster-Samsung-OnePlus/dp/B0C6LYXXC4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0C6LYXXC4&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61nhwl2fthL._AC_UL320_.jpg",
+      "rating": 3.5,
+      "reviews": 9,
+      "price": "$19.05",
+      "extracted_price": 19.05,
+      "delivery": [
+        "$5.08 delivery Thu, Mar 26"
+      ],
+      "stock": "Only 6 left in stock."
+    },
+    {
+      "position": 11,
+      "asin": "B09F6YN6JH",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B09F6YN6JH",
+            "title": "Black - Vertical With Swivel Clip",
+            "link": "https://www.amazon.ca/Leather-Holster-Swivel-Compatible-OnePlus/dp/B09F6YN6JH/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-11"
+          },
+          {
+            "position": 2,
+            "asin": "B09F6Y5B34",
+            "title": "Black - Horizontal With Card Slot",
+            "link": "https://www.amazon.ca/Leather-Holster-Swivel-Compatible-OnePlus/dp/B09F6Y5B34/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-11"
+          }
+        ]
+      },
+      "title": "PU Leather Cell Phone Holster Swivel Belt Clip Case Compatible for iPhone 17 Pro Max Galaxy S25 Ultra A36 A26 A16 Moto G Power Play OnePlus 13 12R Pixel 10 Pro XL Xiaomi 17 Pro Max Poco F8 Ultra (XL)",
+      "link": "https://www.amazon.ca/Leather-Holster-Swivel-Compatible-OnePlus/dp/B09F6YN6JH/ref=sr_1_11?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-11",
+      "link_clean": "https://www.amazon.ca/Leather-Holster-Swivel-Compatible-OnePlus/dp/B09F6YN6JH/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B09F6YN6JH&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81MRQR+MPlL._AC_UL320_.jpg",
+      "rating": 4.2,
+      "reviews": 541,
+      "price": "$18.27",
+      "extracted_price": 18.27,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tue, Mar 24"
+      ]
+    },
+    {
+      "position": 12,
+      "asin": "B07PTPXQ6S",
+      "title": "Vertical Cellphone Dual Case Card Slot Belt Clip Holster Pouch Double Decker Fits for iPhone 16 Pro Max Samsung Galaxy S25 Ultra S24 Ultra A15 A25 A35 A16 A26 A36 A56 Google Pixel 8 Pro OnePlus 13 12",
+      "link": "https://www.amazon.ca/Vertical-Cellphone-Holster-Samsung-Motorola/dp/B07PTPXQ6S/ref=sr_1_12?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-12",
+      "link_clean": "https://www.amazon.ca/Vertical-Cellphone-Holster-Samsung-Motorola/dp/B07PTPXQ6S/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B07PTPXQ6S&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61XJd2aVzuL._AC_UL320_.jpg",
+      "rating": 3.6,
+      "reviews": 166,
+      "price": "$16.61",
+      "extracted_price": 16.61,
+      "delivery": [
+        "$5.29 delivery Sat, Mar 28"
+      ],
+      "stock": "Only 3 left in stock."
+    },
+    {
+      "position": 13,
+      "asin": "B0DKLJDJXW",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Google-Unlocked-Smartphone-Advanced-Powerful/dp/B0DKLJDJXW/ref=sr_1_13_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-13",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DKLJDJXW",
+            "title": "Obsidian",
+            "link": "https://www.amazon.ca/Google-Unlocked-Smartphone-Advanced-Powerful/dp/B0DKLJDJXW/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-13"
+          },
+          {
+            "position": 2,
+            "asin": "B0CW222DCW",
+            "title": "Bay",
+            "link": "https://www.amazon.ca/Google-Unlocked-Smartphone-Advanced-Powerful/dp/B0CW222DCW/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-13"
+          }
+        ]
+      },
+      "title": "Google Pixel 8 Pro 128GB Unlocked Android Smartphone with Advanced Pixel Camera, 24-Hour Battery, and Powerful Security (Renewed) (Obsidian)",
+      "link": "https://www.amazon.ca/Google-Unlocked-Smartphone-Advanced-Powerful/dp/B0DKLJDJXW/ref=sr_1_13?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-13",
+      "link_clean": "https://www.amazon.ca/Google-Unlocked-Smartphone-Advanced-Powerful/dp/B0DKLJDJXW/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DKLJDJXW&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Kf6WbQWyL._AC_UL320_.jpg",
+      "rating": 3.7,
+      "reviews": 217,
+      "bought_last_month": "50+ bought in past month",
+      "price": "$348.99",
+      "extracted_price": 348.99,
+      "delivery": [
+        "FREE delivery Mon, Mar 30"
+      ],
+      "more_buying_choices": "$330.75 (12 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0DKLJDJXW/ref=sr_1_13_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-13"
+    },
+    {
+      "position": 14,
+      "asin": "B0DKG7MGQZ",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-128GB-Unlocked/dp/B0DKG7MGQZ/ref=sr_1_14_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-14",
+      "title": "Google Pixel 9 Pro XL Unlocked Android Smartphone with Gemini, Triple Rear Camera System, 24 Hour Battery and 6.8\" Super Actua Display, Obsidian, 128GB Renewed",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-128GB-Unlocked/dp/B0DKG7MGQZ/ref=sr_1_14?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-14",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-128GB-Unlocked/dp/B0DKG7MGQZ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DKG7MGQZ&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71NRTIgZjXL._AC_UL320_.jpg",
+      "rating": 4.5,
+      "reviews": 70,
+      "price": "$726.99",
+      "extracted_price": 726.99,
+      "delivery": [
+        "FREE delivery Fri, Mar 27"
+      ],
+      "more_buying_choices": "$617.71 (6 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0DKG7MGQZ/ref=sr_1_14_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-14"
+    },
+    {
+      "position": 15,
+      "asin": "B0CSSCMVTP",
+      "options": "4 sizes",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSSCMVTP/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-15",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0CSSCMVTP",
+            "title": "Titanium Black",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSSCMVTP/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-15"
+          },
+          {
+            "position": 2,
+            "asin": "B0CSSQ9MG7",
+            "title": "Amber Yellow",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSSQ9MG7/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-15"
+          },
+          {
+            "position": 3,
+            "asin": "B0CSS6LBSZ",
+            "title": "Cobalt Violet",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSS6LBSZ/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-15"
+          },
+          {
+            "position": 4,
+            "asin": "B0CSSXQD9D",
+            "title": "Marble Gray",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSSXQD9D/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-15"
+          },
+          {
+            "position": 5,
+            "asin": "B0CSSLCWYW",
+            "title": "Onyx Black",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSSLCWYW/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-15"
+          },
+          {
+            "position": 6,
+            "asin": "B0CSSFP6GG",
+            "title": "Titanium Gray",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSSFP6GG/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-15"
+          }
+        ],
+        "more_variants": "+2",
+        "more_variants_link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSSCMVTP/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-15"
+      },
+      "title": "Samsung Galaxy S24 Ultra 5G (512GB) AI Enabled, S Pen, 120 Hz AMOLED Display, 200MP Camera, Nightography, Unlocked - Titanium Black (Renewed)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSSCMVTP/ref=sr_1_15?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-15",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CSSCMVTP/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CSSCMVTP&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61IzIJBZafL._AC_UL320_.jpg",
+      "rating": 4.2,
+      "reviews": 310,
+      "price": "$1,036.00",
+      "extracted_price": 1036.0,
+      "delivery": [
+        "FREE delivery Mar 25 - 26"
+      ],
+      "stock": "Only 1 left in stock.",
+      "more_buying_choices": "$1,035.04 (3 new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0CSSCMVTP/ref=sr_1_15_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-15"
+    },
+    {
+      "position": 16,
+      "asin": "B0D362HGNP",
+      "options": "2 sizes",
+      "options_link": "https://www.amazon.ca/SAMSUNG-Galaxy-S24-Ultra-Titanium/dp/B0D362HGNP/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-16",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0D362HGNP",
+            "title": "Titanium Black",
+            "link": "https://www.amazon.ca/SAMSUNG-Galaxy-S24-Ultra-Titanium/dp/B0D362HGNP/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-16"
+          },
+          {
+            "position": 2,
+            "asin": "B0D364P7F4",
+            "title": "Titanium Blue",
+            "link": "https://www.amazon.ca/SAMSUNG-Galaxy-S24-Ultra-Titanium/dp/B0D364P7F4/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-16"
+          },
+          {
+            "position": 3,
+            "asin": "B0D122P523",
+            "title": "Titanium Gray",
+            "link": "https://www.amazon.ca/SAMSUNG-Galaxy-S24-Ultra-Titanium/dp/B0D122P523/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-16"
+          },
+          {
+            "position": 4,
+            "asin": "B0D4S2R961",
+            "title": "Titanium Yellow",
+            "link": "https://www.amazon.ca/SAMSUNG-Galaxy-S24-Ultra-Titanium/dp/B0D4S2R961/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-16"
+          }
+        ]
+      },
+      "title": "Samsung Galaxy S24 Ultra 5G, US Version, 256GB, Titanium Black - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/SAMSUNG-Galaxy-S24-Ultra-Titanium/dp/B0D362HGNP/ref=sr_1_16?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-16",
+      "link_clean": "https://www.amazon.ca/SAMSUNG-Galaxy-S24-Ultra-Titanium/dp/B0D362HGNP/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0D362HGNP&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51A-Q4eMBxL._AC_UL320_.jpg",
+      "rating": 4.2,
+      "reviews": 1000,
+      "price": "$739.96",
+      "extracted_price": 739.96,
+      "delivery": [
+        "FREE delivery Sat, Apr 11"
+      ]
+    },
+    {
+      "position": 17,
+      "asin": "B0D373N9M3",
+      "title": "USB C Earbuds Wired Headphones for iPhone 16 Plus 15 Pro Max 16e iPad Magnetic Type C Corded Ear Buds Earphones Microphone for Android Samsung Galaxy S25 S24 S23 S22 S21 S20 Google Pixel 9 8 Lake Blue",
+      "link": "https://www.amazon.ca/Earbuds-Headphones-Magnetic-Earphones-Microphone/dp/B0D373N9M3/ref=sr_1_17?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-17",
+      "link_clean": "https://www.amazon.ca/Earbuds-Headphones-Magnetic-Earphones-Microphone/dp/B0D373N9M3/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0D373N9M3&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71jelKikpBL._AC_UL320_.jpg",
+      "rating": 4.2,
+      "reviews": 81,
+      "price": "$50.46",
+      "extracted_price": 50.46,
+      "delivery": [
+        "FREE delivery Mar 30 - Apr 7"
+      ],
+      "climate_pledge_friendly": true,
+      "sustainability_features": [
+        {
+          "position": 1,
+          "name": "Carbon impact",
+          "snippet": "Carbon emissions from the lifecycle of this product were measured, reduced and offset.",
+          "thumbnail": "https://m.media-amazon.com/images/I/61sxI+4PZlL._SS200_.png",
+          "certified_by": "ClimeCo Certified",
+          "certified_info": "ClimeCo certifies products whose carbon emissions have been assessed, verified, decarbonized, and are on a committed path towards continual emissions reductions. Companies may pursue emissions reductions for products through various means such as sustainable manufacturing practices, supply chain sustainability, raw materials innovation, renewable energy use, insetting, sustainable transportation and packaging."
+        }
+      ]
+    },
+    {
+      "position": 18,
+      "asin": "B0CW6JDYD4",
+      "title": "USB C Earbuds Wired Headphones for iPhone 16 Plus 15 Pro Max 16e iPad Magnetic Type C Corded Ear Buds Earphones Microphone for Android Samsung Galaxy S25 S24 S23 S22 S21 FE Google Pixel 9 8 7 Mint",
+      "link": "https://www.amazon.ca/Headphones-Earphone-Microphone-Magnetic-Android/dp/B0CW6JDYD4/ref=sr_1_18?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-18",
+      "link_clean": "https://www.amazon.ca/Headphones-Earphone-Microphone-Magnetic-Android/dp/B0CW6JDYD4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CW6JDYD4&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61WW90TL2VL._AC_UL320_.jpg",
+      "rating": 4.1,
+      "reviews": 54,
+      "price": "$50.46",
+      "extracted_price": 50.46,
+      "delivery": [
+        "FREE delivery Mar 30 - Apr 7"
+      ],
+      "climate_pledge_friendly": true,
+      "sustainability_features": [
+        {
+          "position": 1,
+          "name": "Carbon impact",
+          "snippet": "Carbon emissions from the lifecycle of this product were measured, reduced and offset.",
+          "thumbnail": "https://m.media-amazon.com/images/I/61sxI+4PZlL._SS200_.png",
+          "certified_by": "ClimeCo Certified",
+          "certified_info": "ClimeCo certifies products whose carbon emissions have been assessed, verified, decarbonized, and are on a committed path towards continual emissions reductions. Companies may pursue emissions reductions for products through various means such as sustainable manufacturing practices, supply chain sustainability, raw materials innovation, renewable energy use, insetting, sustainable transportation and packaging."
+        }
+      ]
+    },
+    {
+      "position": 19,
+      "asin": "B0FML5LFXC",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0FML5LFXC/ref=sr_1_19_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-19",
+      "title": "Google Pixel 9 Pro - 128 GB - 6.3-inch Display -Unlocked Android Smartphone with Advanced Pixel Camera, 24+ Hour Battery Life, Fast Wireless Charging, Dual SIM, Hazel (Renewed)",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0FML5LFXC/ref=sr_1_19?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-19",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0FML5LFXC/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FML5LFXC&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61T3pJHU+gL._AC_UL320_.jpg",
+      "price": "$758.91",
+      "extracted_price": 758.91,
+      "old_price": "$1,049.99",
+      "extracted_old_price": 1049.99,
+      "delivery": [
+        "FREE delivery Sun, Mar 29"
+      ],
+      "stock": "Only 2 left in stock.",
+      "more_buying_choices": "$757.95 (3 new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0FML5LFXC/ref=sr_1_19_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-19"
+    },
+    {
+      "position": 20,
+      "asin": "B0F6NQK9X9",
+      "title": "Rugged Nylon Belt Clip Phone Pouch Holster Compatible with iPhone 16 15/14/13/12 Pro Max,Compatible with Galaxy S25 S24 S23 S22 S21 Ultra Pixel 9/8/7/6 Pro Carrying Bag",
+      "link": "https://www.amazon.ca/Rugged-Holster-Compatible-iPhone-Carrying/dp/B0F6NQK9X9/ref=sr_1_20?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-20",
+      "link_clean": "https://www.amazon.ca/Rugged-Holster-Compatible-iPhone-Carrying/dp/B0F6NQK9X9/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0F6NQK9X9&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71GF5iJVTfL._AC_UL320_.jpg",
+      "price": "$23.56",
+      "extracted_price": 23.56,
+      "delivery": [
+        "FREE delivery Apr 16 - May 6",
+        "Or fastest delivery Mar 30 - Apr 1"
+      ]
+    },
+    {
+      "position": 21,
+      "asin": "B0C4Q796XC",
+      "options": "2 sizes",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S23-Plus-Canadian/dp/B0C4Q796XC/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-21",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0C4Q796XC",
+            "title": "Phantom Black",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S23-Plus-Canadian/dp/B0C4Q796XC/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-21"
+          },
+          {
+            "position": 2,
+            "asin": "B0C7D91DFZ",
+            "title": "Cream",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S23-Plus-Canadian/dp/B0C7D91DFZ/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-21"
+          },
+          {
+            "position": 3,
+            "asin": "B0C7F3ZC53",
+            "title": "Green",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S23-Plus-Canadian/dp/B0C7F3ZC53/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-21"
+          }
+        ]
+      },
+      "title": "Samsung Galaxy S23+ Plus 5G, US Version, 256GB, Phantom Black - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S23-Plus-Canadian/dp/B0C4Q796XC/ref=sr_1_21?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-21",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S23-Plus-Canadian/dp/B0C4Q796XC/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0C4Q796XC&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51yz4TrDNdL._AC_UL320_.jpg",
+      "rating": 4.2,
+      "reviews": 901,
+      "bought_last_month": "50+ bought in past month",
+      "price": "$374.75",
+      "extracted_price": 374.75,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ]
+    },
+    {
+      "position": 22,
+      "asin": "B0FNB57GJQ",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0FNB57GJQ/ref=sr_1_22_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-22",
+      "title": "Google Pixel 9 Pro 5G (256GB) Gemini AI, Tensor G4, 6.3\u2033 Display, 50MP Triple Rear Camera, Night Sight, Super Res Zoom, 8K Video, Unlocked (with 45W Fast Charger) - Rose Quartz (Renewed)",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0FNB57GJQ/ref=sr_1_22?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-22",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0FNB57GJQ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FNB57GJQ&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/310FqfR1xEL._AC_UL320_.jpg",
+      "price": "$819.00",
+      "extracted_price": 819.0,
+      "old_price": "$1,239.99",
+      "extracted_old_price": 1239.99,
+      "delivery": [
+        "FREE delivery Sun, Mar 29"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 23,
+      "asin": "B0DQQ7GT37",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-Camera-Tensor/dp/B0DQQ7GT37/ref=sr_1_23_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-23",
+      "title": "Google Pixel 9 Pro (128GB, 16GB) 6.3\" 120Hz OLED, 50MP 8K Camera, Tensor G4, Global 4G LTE \u2013 Obsidian (Renewed)",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-Camera-Tensor/dp/B0DQQ7GT37/ref=sr_1_23?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-23",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-Camera-Tensor/dp/B0DQQ7GT37/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DQQ7GT37&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/517Jv7f6mRL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 10,
+      "price": "$699.95",
+      "extracted_price": 699.95,
+      "old_price": "$1,199.00",
+      "extracted_old_price": 1199.0,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "stock": "Only 9 left in stock.",
+      "more_buying_choices": "$690.00 (5 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0DQQ7GT37/ref=sr_1_23_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-23"
+    },
+    {
+      "position": 24,
+      "asin": "B0CVY732J8",
+      "options": "4 sizes",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Renewed/dp/B0CVY732J8/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-24",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0CVY732J8",
+            "title": "Obsidian",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Renewed/dp/B0CVY732J8/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-24"
+          },
+          {
+            "position": 2,
+            "asin": "B0CVYT78VC",
+            "title": "Porcelain",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Renewed/dp/B0CVYT78VC/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-24"
+          }
+        ]
+      },
+      "title": "Google Pixel 8 Pro, 128GB Fully Unlocked Black (Renewed)",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Renewed/dp/B0CVY732J8/ref=sr_1_24?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-24",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Renewed/dp/B0CVY732J8/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CVY732J8&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61aRO4jJM0L._AC_UL320_.jpg",
+      "rating": 4.0,
+      "reviews": 544,
+      "price": "$433.69",
+      "extracted_price": 433.69,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "stock": "Only 7 left in stock.",
+      "more_buying_choices": "$424.74 (13 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0CVY732J8/ref=sr_1_24_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-24"
+    },
+    {
+      "position": 25,
+      "asin": "B0GS4W78RX",
+      "title": "Holster Universal Neoprene Shockproof Pouch Sleeve Bag for iPhone 16/15/14/13/12 Pro Max,for Galaxy S25 S24/S23/S22/S21/S20 Ultra/Pixel 8/7/6 Pro Carry Pouch Case Belt Clip",
+      "link": "https://www.amazon.ca/ZAGLDD-Holster-Universal-Neoprene-Shockproof/dp/B0GS4W78RX/ref=sr_1_25?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-25",
+      "link_clean": "https://www.amazon.ca/ZAGLDD-Holster-Universal-Neoprene-Shockproof/dp/B0GS4W78RX/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0GS4W78RX&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/514pAlRqzFL._AC_UL320_.jpg",
+      "price": "$20.44",
+      "extracted_price": 20.44,
+      "delivery": [
+        "FREE delivery Apr 16 - May 6",
+        "Or fastest delivery Mar 30 - Apr 1"
+      ]
+    },
+    {
+      "position": 26,
+      "asin": "B0GLGJPM7K",
+      "title": "Neoprene Cell Phone Sleeve Zipper Phone Pouch Holder w/ Neck Strap Compatible for iPhone 17 Pro Max Air 16 Plus Galaxy S25 Ultra S25+ S25 FE A26 A36 A56 Oneplus 13R Pixel 10 Poco X7 Pro (Gray, Medium)",
+      "link": "https://www.amazon.ca/Neoprene-Sleeve-Zipper-Compatible-Oneplus/dp/B0GLGJPM7K/ref=sr_1_26?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-26",
+      "link_clean": "https://www.amazon.ca/Neoprene-Sleeve-Zipper-Compatible-Oneplus/dp/B0GLGJPM7K/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0GLGJPM7K&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81RslVH6oPL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "reviews": 15,
+      "price": "$24.94",
+      "extracted_price": 24.94,
+      "delivery": [
+        "$5.23 delivery Apr 2 - 9"
+      ],
+      "more_buying_choices": "$21.02 (1 new offer)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0GLGJPM7K/ref=sr_1_26_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-26"
+    },
+    {
+      "position": 27,
+      "asin": "B0DR9NH7SX",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Google-Octa-core-Android-Unlocked-Obsidian/dp/B0DR9NH7SX/ref=sr_1_27_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-27",
+      "title": "Google Pixel 9 Pro XL 5G (256GB, 16GB) 6.8\" 120Hz OLED, 50MP 8K Camera, Tensor G4 Octa-core, Android 14 (Fully Unlocked)(Renewed)(Obsidian)",
+      "link": "https://www.amazon.ca/Google-Octa-core-Android-Unlocked-Obsidian/dp/B0DR9NH7SX/ref=sr_1_27?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-27",
+      "link_clean": "https://www.amazon.ca/Google-Octa-core-Android-Unlocked-Obsidian/dp/B0DR9NH7SX/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DR9NH7SX&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/41lR6BoEmpL._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 69,
+      "price": "$947.48",
+      "extracted_price": 947.48,
+      "delivery": [
+        "FREE delivery Sun, Mar 29"
+      ],
+      "stock": "Only 2 left in stock.",
+      "more_buying_choices": "$770.17 (5 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0DR9NH7SX/ref=sr_1_27_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-27"
+    },
+    {
+      "position": 28,
+      "asin": "B0GT9SX4GM",
+      "title": "Leather Phone Holster for iPhone 16/15/14/13/12 Pro Max,for Galaxy S24 S23 S22 S21 Ultra Pixel 9 Pro XL/8/7/6 Pro W Card Holder(Brown)",
+      "link": "https://www.amazon.ca/Leather-Holster-iPhone-Galaxy-Holder/dp/B0GT9SX4GM/ref=sr_1_28?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-28",
+      "link_clean": "https://www.amazon.ca/Leather-Holster-iPhone-Galaxy-Holder/dp/B0GT9SX4GM/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0GT9SX4GM&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81k3NJjEheL._AC_UL320_.jpg",
+      "price": "$26.20",
+      "extracted_price": 26.2,
+      "delivery": [
+        "$5.54 delivery Apr 16 - May 6",
+        "Or fastest delivery Mar 26 - 30"
+      ]
+    },
+    {
+      "position": 29,
+      "asin": "B0DTRQDXYV",
+      "options": "2 sizes",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-128GB-Porcelain/dp/B0DTRQDXYV/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-29",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DTRQDXYV",
+            "title": "Porcelain",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-128GB-Porcelain/dp/B0DTRQDXYV/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-29"
+          },
+          {
+            "position": 2,
+            "asin": "B0DQVNWBH7",
+            "title": "Obsidian",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-128GB-Porcelain/dp/B0DQVNWBH7/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-29"
+          }
+        ]
+      },
+      "title": "Google Pixel 8 Pro 128GB Porcelain - (Renewed)",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-128GB-Porcelain/dp/B0DTRQDXYV/ref=sr_1_29?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-29",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-128GB-Porcelain/dp/B0DTRQDXYV/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DTRQDXYV&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/615xVfjCg2L._AC_UL320_.jpg",
+      "rating": 4.1,
+      "reviews": 45,
+      "price": "$410.68",
+      "extracted_price": 410.68,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "stock": "Only 4 left in stock.",
+      "more_buying_choices": "$409.47 (10 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0DTRQDXYV/ref=sr_1_29_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-29"
+    },
+    {
+      "position": 30,
+      "asin": "B0B5Y5H47D",
+      "options": "2 sizes",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S22-Ultra-Unlocked/dp/B0B5Y5H47D/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-30",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0B5Y5H47D",
+            "title": "Phantom Black",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S22-Ultra-Unlocked/dp/B0B5Y5H47D/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-30"
+          },
+          {
+            "position": 2,
+            "asin": "B09VD33WHW",
+            "title": "Red",
+            "link": "https://www.amazon.ca/Samsung-Galaxy-S22-Ultra-Unlocked/dp/B09VD33WHW/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-30"
+          }
+        ]
+      },
+      "title": "Samsung Galaxy S22 Ultra 5G, US Version, 256GB, Phantom Black - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S22-Ultra-Unlocked/dp/B0B5Y5H47D/ref=sr_1_30?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-30",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S22-Ultra-Unlocked/dp/B0B5Y5H47D/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0B5Y5H47D&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/613Fp7fknhL._AC_UL320_.jpg",
+      "rating": 3.9,
+      "reviews": 3700
+    },
+    {
+      "position": 31,
+      "asin": "B0GT9X75FZ",
+      "title": "Rugged Nylon Belt Clip Phone Pouch Holster for iPhone 16 15/14/13/12 Pro Max,for Galaxy S25 S24 S23 S22 S21 Ultra Pixel 9/8/7/6 Pro Carrying Bag",
+      "link": "https://www.amazon.ca/Rugged-Holster-iPhone-Galaxy-Carrying/dp/B0GT9X75FZ/ref=sr_1_31?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-31",
+      "link_clean": "https://www.amazon.ca/Rugged-Holster-iPhone-Galaxy-Carrying/dp/B0GT9X75FZ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0GT9X75FZ&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71GF5iJVTfL._AC_UL320_.jpg",
+      "price": "$24.64",
+      "extracted_price": 24.64,
+      "delivery": [
+        "$5.54 delivery Apr 16 - May 6",
+        "Or fastest delivery Mar 26 - 30"
+      ]
+    },
+    {
+      "position": 32,
+      "asin": "B095PRJVHP",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S21-Ultra-5G/dp/B095PRJVHP/ref=sr_1_32_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-32",
+      "title": "Samsung Galaxy S21 Ultra (5G) 128GB Unlocked - Phantom Black (Renewed)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S21-Ultra-5G/dp/B095PRJVHP/ref=sr_1_32?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-32",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S21-Ultra-5G/dp/B095PRJVHP/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B095PRJVHP&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71VeQ9PzOSL._AC_UL320_.jpg",
+      "rating": 3.9,
+      "reviews": 352,
+      "price": "$379.00",
+      "extracted_price": 379.0,
+      "delivery": [
+        "FREE delivery Thu, Apr 2"
+      ]
+    },
+    {
+      "position": 33,
+      "asin": "B0C3X9NLM5",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S23-Ultra-Unlocked/dp/B0C3X9NLM5/ref=sr_1_33_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-33",
+      "title": "Samsung Galaxy S23 Ultra 5G, US Version, 512GB, Green - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S23-Ultra-Unlocked/dp/B0C3X9NLM5/ref=sr_1_33?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-33",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S23-Ultra-Unlocked/dp/B0C3X9NLM5/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0C3X9NLM5&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61cMEDCHTTL._AC_UL320_.jpg",
+      "rating": 4.2,
+      "reviews": 418,
+      "price": "$668.99",
+      "extracted_price": 668.99,
+      "delivery": [
+        "FREE delivery Sun, Mar 29"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 34,
+      "asin": "B0DKPGLDHB",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-Smartphone-Porcelain/dp/B0DKPGLDHB/ref=sr_1_34_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-34",
+      "title": "Google Pixel 9 Pro 5G (256GB) Gemini AI, Tensor G4, 6.3\u2033 Display, 50MP Triple Rear Camera, Night Sight, Super Res Zoom, 8K Video, Unlocked (wth 45W Fast Charger) - Porcelain (Renewed)",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-Smartphone-Porcelain/dp/B0DKPGLDHB/ref=sr_1_34?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-34",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-Smartphone-Porcelain/dp/B0DKPGLDHB/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DKPGLDHB&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71MLtOwfy7L._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 86,
+      "price": "$849.00",
+      "extracted_price": 849.0,
+      "delivery": [
+        "FREE delivery Sun, Mar 29"
+      ],
+      "stock": "Only 4 left in stock."
+    },
+    {
+      "position": 35,
+      "asin": "B0D8V3LPT3",
+      "options": "3 sizes",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V3LPT3/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-35",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0D8V3LPT3",
+            "title": "Obsidian",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V3LPT3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-35"
+          },
+          {
+            "position": 2,
+            "asin": "B0D8V7CHDZ",
+            "title": "Hazel",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V7CHDZ/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-35"
+          },
+          {
+            "position": 3,
+            "asin": "B0D8V4K7DB",
+            "title": "Porcelain",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V4K7DB/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-35"
+          },
+          {
+            "position": 4,
+            "asin": "B0D8V2Z5DM",
+            "title": "Pink",
+            "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V2Z5DM/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-35"
+          }
+        ]
+      },
+      "brand": "Google",
+      "title": "Pixel 9 Pro - 256 GB - 6.3-inch Display -Unlocked Android Smartphone with Advanced Pixel Camera, 24+ Hour Battery Life, Fast Wireless Charging, Dual SIM, and Powerful Security - Obsidian",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V3LPT3/ref=sr_1_35?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-35",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Smartphone/dp/B0D8V3LPT3/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0D8V3LPT3&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61a6FnE5rgL._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 170,
+      "price": "$1,119.99",
+      "extracted_price": 1119.99,
+      "delivery": [
+        "$5.54 delivery Mar 27 - 31",
+        "Or fastest delivery Mar 25 - 27"
+      ],
+      "stock": "Only 5 left in stock.",
+      "more_buying_choices": "$959.00 (6 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0D8V3LPT3/ref=sr_1_35_olp?keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&dib_tag=se&dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&qid=1774241226&sr=8-35"
+    },
+    {
+      "position": 36,
+      "asin": "B0CQPPX5W5",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPPX5W5/ref=sr_1_36_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-36",
+      "brand": "Samsung",
+      "title": "Galaxy S24 Ultra 5G - Titanium Black 512GB, AI Enabled, S Pen, 120 Hz AMOLED Display, 200MP Camera, Nightography (Unlocked, CAD Version & Warranty)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPPX5W5/ref=sr_1_36?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-36",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPPX5W5/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CQPPX5W5&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61IzIJBZafL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 64
+    },
+    {
+      "position": 37,
+      "asin": "B0CQPQC2Q1",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S24-5G-Nightography/dp/B0CQPQC2Q1/ref=sr_1_37_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-37",
+      "brand": "Samsung",
+      "title": "Galaxy S24 5G - Onyx Black 128GB, AI Enabled, 120 Hz AMOLED Display, 50MP Camera, 8K Video, Nightography (Unlocked, CAD Version & Warranty)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S24-5G-Nightography/dp/B0CQPQC2Q1/ref=sr_1_37?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-37",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S24-5G-Nightography/dp/B0CQPQC2Q1/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CQPQC2Q1&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61bBAevaB1L._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 50
+    },
+    {
+      "position": 38,
+      "asin": "B0CQPMRQQG",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPMRQQG/ref=sr_1_38_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-38",
+      "brand": "Samsung",
+      "title": "Galaxy S24 Ultra 5G - Titanium Violet 512GB, AI Enabled, S Pen, 120 Hz AMOLED Display, 200MP Camera, Nightography (Unlocked, CAD Version & Warranty)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPMRQQG/ref=sr_1_38?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-38",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPMRQQG/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CQPMRQQG&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/612017yaewL._AC_UL320_.jpg",
+      "rating": 4.8,
+      "reviews": 25
+    },
+    {
+      "position": 39,
+      "asin": "B0DJN84THF",
+      "brand": "Google",
+      "title": "Pixel 8 Pro 128GB Unlocked (Renewed Premium)",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Renewed/dp/B0DJN84THF/ref=sr_1_39?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-39",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-Unlocked-Renewed/dp/B0DJN84THF/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DJN84THF&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/513TZ634D2L._AC_UL320_.jpg",
+      "rating": 4.0,
+      "reviews": 46,
+      "price": "$499.00",
+      "extracted_price": 499.0,
+      "delivery": [
+        "FREE delivery Sun, Mar 29"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 40,
+      "asin": "B0DWXS1P2X",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Google-Pixel-Pro-Fold-Smartphone/dp/B0DWXS1P2X/ref=sr_1_40_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-40",
+      "title": "Google Pixel 9 Pro Fold - Unlocked Android Smartphone with Gemini - Advanced Triple Rear Camera System - Foldable Display - Hands-Free Video - Obsidian - 256 GB (Renewed)",
+      "link": "https://www.amazon.ca/Google-Pixel-Pro-Fold-Smartphone/dp/B0DWXS1P2X/ref=sr_1_40?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-40",
+      "link_clean": "https://www.amazon.ca/Google-Pixel-Pro-Fold-Smartphone/dp/B0DWXS1P2X/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DWXS1P2X&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/218-8nyzp+L._AC_UL320_.jpg",
+      "rating": 3.6,
+      "reviews": 17,
+      "price": "$1,274.00",
+      "extracted_price": 1274.0,
+      "delivery": [
+        "FREE delivery Mar 25 - 26"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 41,
+      "asin": "B0GT9N67TV",
+      "title": "Universal Neoprene Shockproof Pouch Sleeve Bag for iPhone 16/15/14/13/12 Pro Max,for Galaxy S25 S24/S23/S22/S21/S20 Ultra/Pixel 8/7/6 Pro Carry Pouch Case",
+      "link": "https://www.amazon.ca/Universal-Neoprene-Shockproof-Sleeve-iPhone/dp/B0GT9N67TV/ref=sr_1_41?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-41",
+      "link_clean": "https://www.amazon.ca/Universal-Neoprene-Shockproof-Sleeve-iPhone/dp/B0GT9N67TV/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0GT9N67TV&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/514pAlRqzFL._AC_UL320_.jpg",
+      "price": "$18.00",
+      "extracted_price": 18.0,
+      "delivery": [
+        "$5.54 delivery Apr 16 - May 6",
+        "Or fastest delivery Mar 26 - 30"
+      ]
+    },
+    {
+      "position": 42,
+      "asin": "B0FCTCTHSZ",
+      "options": "4 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-128GB-Desert-Titanium/dp/B0FCTCTHSZ/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-42",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0FCTCTHSZ",
+            "title": "Desert Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-128GB-Desert-Titanium/dp/B0FCTCTHSZ/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-42"
+          },
+          {
+            "position": 2,
+            "asin": "B0DHJG6JPH",
+            "title": "Black Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-128GB-Desert-Titanium/dp/B0DHJG6JPH/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-42"
+          },
+          {
+            "position": 3,
+            "asin": "B0DHJGWP9W",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-128GB-Desert-Titanium/dp/B0DHJGWP9W/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-42"
+          },
+          {
+            "position": 4,
+            "asin": "B0DHJ5V1YR",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-128GB-Desert-Titanium/dp/B0DHJ5V1YR/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-42"
+          }
+        ]
+      },
+      "title": "Apple iPhone 16 Pro (eSIM only), 128GB, Desert Titanium - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-128GB-Desert-Titanium/dp/B0FCTCTHSZ/ref=sr_1_42?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-42",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-128GB-Desert-Titanium/dp/B0FCTCTHSZ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FCTCTHSZ&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/41jX+Reuk4L._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 2100,
+      "price": "$1,054.64",
+      "extracted_price": 1054.64,
+      "delivery": [
+        "FREE delivery Sun, Mar 29"
+      ],
+      "stock": "Only 2 left in stock."
+    },
+    {
+      "position": 43,
+      "asin": "B0GT9QX11X",
+      "title": "6.9 inch Phone Holster for iPhone 16/15/14/13/12 Pro Max 15/14 Plus,Universal Pouch Sleeve Bag for Galaxy S25/S24/S23/S22/S21/S20 Ultra/Pixel 8/7/6 Pro(Preto)",
+      "link": "https://www.amazon.ca/Holster-iPhone-Universal-Sleeve-Galaxy/dp/B0GT9QX11X/ref=sr_1_43?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-43",
+      "link_clean": "https://www.amazon.ca/Holster-iPhone-Universal-Sleeve-Galaxy/dp/B0GT9QX11X/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0GT9QX11X&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81aWhoe6dcL._AC_UL320_.jpg",
+      "price": "$23.08",
+      "extracted_price": 23.08,
+      "delivery": [
+        "$5.54 delivery Apr 16 - May 6",
+        "Or fastest delivery Mar 26 - 30"
+      ]
+    },
+    {
+      "position": 44,
+      "asin": "B0GT9X5Y4J",
+      "title": "6.9 inch Phone Holster for iPhone 16/15/14/13/12 Pro Max 15/14 Plus,Universal Pouch Sleeve Bag for Galaxy S25/S24/S23/S22/S21/S20 Ultra/Pixel 8/7/6 Pro(Brown)",
+      "link": "https://www.amazon.ca/Holster-iPhone-Universal-Sleeve-Galaxy/dp/B0GT9X5Y4J/ref=sr_1_44?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-44",
+      "link_clean": "https://www.amazon.ca/Holster-iPhone-Universal-Sleeve-Galaxy/dp/B0GT9X5Y4J/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0GT9X5Y4J&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81oYmQ4HT6L._AC_UL320_.jpg",
+      "price": "$23.08",
+      "extracted_price": 23.08,
+      "delivery": [
+        "$5.54 delivery Apr 16 - May 6",
+        "Or fastest delivery Mar 26 - 30"
+      ]
+    },
+    {
+      "position": 45,
+      "asin": "B0GT9KBYVD",
+      "title": "Nylon Cell Phone Belt Holder Holster Case for iPhone 16/15/14/13/12 Pro Max,for Galaxy S25 S24 S23 S22 S21 Ultra Pixel 8/7/6 Pro Waist Pack with Clip",
+      "link": "https://www.amazon.ca/Nylon-Holder-Holster-iPhone-Galaxy/dp/B0GT9KBYVD/ref=sr_1_45?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-45",
+      "link_clean": "https://www.amazon.ca/Nylon-Holder-Holster-iPhone-Galaxy/dp/B0GT9KBYVD/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0GT9KBYVD&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71KcpwUtdAL._AC_UL320_.jpg",
+      "price": "$24.64",
+      "extracted_price": 24.64,
+      "delivery": [
+        "$5.54 delivery Mar 27 - May 6",
+        "Or fastest delivery Mar 26 - Apr 1"
+      ]
+    },
+    {
+      "position": 46,
+      "asin": "B0CQPP7WTW",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPP7WTW/ref=sr_1_46_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-46",
+      "brand": "Samsung",
+      "title": "Galaxy S24 Ultra 5G - Titanium Yellow 512GB, AI Enabled, S Pen, 120 Hz AMOLED Display, 20MP Camera,Nightography (Unlocked, CAD Version & Warranty)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPP7WTW/ref=sr_1_46?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-46",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPP7WTW/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CQPP7WTW&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61oXWGYU3EL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "reviews": 10
+    },
+    {
+      "position": 47,
+      "asin": "B0CQPQG4XB",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPQG4XB/ref=sr_1_47_so_MP3_PLAYER?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-47",
+      "brand": "Samsung",
+      "title": "Galaxy S24 Ultra 5G - Titanium Gray 512GB, AI Enabled, S Pen, 120 Hz AMOLED Display, 200MP Camera, Nightography (Unlocked, CAD Version & Warranty)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPQG4XB/ref=sr_1_47?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-47",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPQG4XB/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CQPQG4XB&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Z+OYjhOoL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 24
+    },
+    {
+      "position": 48,
+      "asin": "B0CQPNXR15",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPNXR15/ref=sr_1_48_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-48",
+      "brand": "Samsung",
+      "title": "Galaxy S24 Ultra 5G - Titanium Gray 256GB, AI Enabled, S Pen, 120 Hz AMOLED Display, 200MP Camera, Nightography (Unlocked, CAD Version & Warranty)",
+      "link": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPNXR15/ref=sr_1_48?dib=eyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU&dib_tag=se&keywords=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&qid=1774241226&sr=8-48",
+      "link_clean": "https://www.amazon.ca/Samsung-Galaxy-S24-Ultra-Nightography/dp/B0CQPNXR15/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CQPNXR15&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Z+OYjhOoL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "reviews": 13
+    },
+    {
+      "position": 49,
+      "asin": "B0FH799821",
+      "sponsored": true,
+      "title": "Elderly Cell Phone, 2 Inch Dual Card Slider Mobile Phone with Slide Cover for Seniors, Loud Speaker Unlocked, 1000mAh Battery, Speed Dialing (Black)",
+      "link": "https://www.amazon.ca/sspa/click?ie=UTF8&spc=MTozMTI5MzgzOTE1NjUxNjg0OjE3NzQyNDEyMjY6c3BfYnRmOjMwMTIwNzUwMDc4MTgwMjo6MDo6&url=%2FOreilet-Elderly-Seniors-Speaker-Unlocked%2Fdp%2FB0FH799821%2Fref%3Dsr_1_49_sspa%3Fdib%3DeyJ2IjoiMSJ9.UvpYyS2lPbfQQlx_3H_6QoVfgwiD30_0Jw2_qAxUFkNJc7MQdfKObpjgol1ujpBTvtoA9A_ga7msUL2qGOdM6yxQdGap1lmS1N7CRqzN0XEYD9qjhaSz9AcBN25gJJGmL3cO5HvLRYny6u2X0hQFK9WMuRaOyNH-jJ92aQf1Cp8I21Jn0AIjFYN6jVwwDKCSABfsvgB2kAIhLVFhY2VhcBxD5Hd14FBvlBMb50udhDp2FTMnoVAtXuL4qnF36JeMtLj5PQ9F2zPXvNgCopYPZJRmyIFFQYCme8ZJ7v30xBc.gAgxGLl7Gx3M0BtejEuDjFtu5sfj-XS4yxtiOieB_qU%26dib_tag%3Dse%26keywords%3DSamsung%2BGalaxy%2BS24%2BUltra%2BiPhone%2B16%2BPro%2BGoogle%2BPixel%2B9%2BPro%2BOnePlus%2B13%26qid%3D1774241226%26sr%3D8-49-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+      "link_clean": "https://www.amazon.ca/dp/B0FH799821/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FH799821&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61SLu7I6ubL._AC_UL320_.jpg",
+      "rating": 3.0,
+      "reviews": 2,
+      "price": "$71.89",
+      "extracted_price": 71.89,
+      "delivery": [
+        "FREE delivery Sun, Mar 29"
+      ],
+      "stock": "Only 2 left in stock."
+    }
+  ],
+  "sponsored_brands": {
+    "title": "Brands related to your search",
+    "brands": [
+      {
+        "position": 1,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4aee073e-b15d-4da4-a259-36fa3ee41684._CR0,357,3840,2011_SX920_CB1169409_QL70_.jpg",
+        "name": "ingido",
+        "headline": "Silicone case for your iPhone 16 Plus",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JF-asguCZhIj-If1BLenU5gAAAGdGQSe9AEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICAWHaYv/clv1c_ek-wxYHXFcbWDQHEa4s0yO7ISbwbJnbJSuPBS5_i3isW5xSE2FPbydR-ywqpYN_IwpJxHTt9YhDoNpmEo5l_nCR11J34V7uqKSVV7tCexAwW6NdLCidnoGrc-vn3qH-LeNss3YHUUFXCAeRIHphoUl3egqVcFlf-Atbu0xuKXIeYUGHp3UaF_Np7hT9fhWGiu7ObXCT7f4dL0OnLvGJQwkfezAvflN6CqC81_L4TDMHdmLi8PNaCsj8Ghvb5o9qFheH0m1DeRNRPh0KSa0rk-6pzT4wSX88CA7VEJELM8yh8RBfpP34LkSSKXC9Pxp6muctVPKRpC5x_M4iKhgtvUbgkjbI5XWPY4WHJIonC3VayXJ7LG6fa1_dcIxmLP00FcxT3rcqK4liMGfPzNr3sRTFBgQtGkFELZVLxXLNkfV1V0T6L8uYjmhGKn0F5Rz5jxR4wchji448Pu3dYUtQ5DZgaJm3If_1BKxSbzpqsUe_aOEN2FgwWrs-ieD8gg3M98kIEKjfNyo4VI-e2E4RJiSY15X_ZQVd78FlsuU3aG2gKUC2IHvGVNuC_QmPaanbv_XPvAVerQb5IMI4xlSFySjtqumu4jc8w3pWDhktmwxrOo2eehe4OQmjuYYRSdGqXfAkEYau6QTpHBwsfklv93Gp73Ufb_9mPmiPVqAsE7vk2axMgnSq6H75m7iOQm7TUWCDXxWcvrhC02NwaakHSFl9g2mp86LbdNAt9jKyHwQnTer4deuwbfuA6n7UtkEWMkH-356xX49UzjDry_-4_oFF9F4shVejcUGcz4XXAe57iXmLHlVdf5IH0H6OQPvE50_kTNB7PsRnnqeEjcXkJuUnQ-KjfpfDS1egsJsJpPBDKYwu2ub5AWzg8Lhr1uhcCQ6Po4E0UEDBHPbaNKGeWTs_PNtfMeJhcdNiJraz0BsZT97URCQMw6s8JhFoLMobtt5n-JrnvivKE28ydl5Gy9638JlHFtOanWCwmBmC5p2qluUWtMa9nynH3u87n5zoeJakCFPpkZk09mvdMylUVuGpyvWt1j0cHZ5lS_hBAKY9SGbPBRf-dbKsv_kGJMVBInVBm3WO-8NUNmRngoNSYTZw6ptDwpwTZC_5EuY-4-qrXYPKjh9oG9EzkM3UUK7-paFHNlpdkrqjV6Zb3LdcQbar8c4TxD1mn2jZa8l8UxBvi91Hm1lfe3K19Q0J04YkhVEWBPi_MC8okXbb1b5OJ1xCJPZqJIYCZUxh2Rm-opVOqCqTVtffDDd6ztx9GChTulmAJgMPScSbahXVDn0hMNTaCWHr5IzZs9ljq61sG7uBZxEkGFgEHpnokdeOeFQ3h18EQu8O0EjvnREraJM4gawEf7iOo7sxFxtWvIwAZVcnSXdxTDaJ5kC1Uf-HHjPVeBEeJ-ZXAw7TepRTV1Pgl-yYLdx9xLaI3jjEaW5Thit_tDWDyNmzjPESijbOMNMEs6Qxk9lMjySCqv1oghLGkHmEHGQ0rY8GvZYDKUfgbbEjZvSJddIMjAx2_7fe4iXoGENv5AX_9Z1L-uBDjU0hR6vKilYMzz3ebCtUHS_EaSXldavA/https://www.amazon.ca/stores/page/9112086A-B747-470D-B100-78DD4813885E/?_encoding=UTF8&store_ref=SB_A06431361IMWHGJ3BN0RT-A0943904HFSZD0PGW7Y7&pd_rd_plhdr=t&aaxitk=31258fffbccc8cdc5fc25731c3702e6b&hsa_cr_id=0&lp_asins=B0DD811H1H%2CB0DD8B5H38%2CB0DD817T1X&lp_query=Samsung%20Galaxy%20S24%20Ultra%20iPhone%2016%20Pro%20Google%20Pixel%209%20Pro%20OnePlus%2013&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb0_bkgd&pd_rd_w=zdc7R&content-id=amzn1.sym.364313d5-cc88-42fb-9096-fe910052c483%3Aamzn1.sym.364313d5-cc88-42fb-9096-fe910052c483&pf_rd_p=364313d5-cc88-42fb-9096-fe910052c483&pf_rd_r=DWG3TCAC2GSBXN3WR3DT&pd_rd_wg=eg2r2&pd_rd_r=806b3e7f-f7a0-41b7-b2da-1f0becdb963c",
+        "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ef9457f5-3cb2-46a5-a918-93264c4e1d3c._CR0,0,400,400_AC_SX278_SY200_CB1169409_QL70_.png"
+      },
+      {
+        "position": 2,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/310818c8-c601-4b8d-bc8d-f7cfc478e550._CR0,0,1200,628_SX920_CB1169409_QL70_.png",
+        "name": "BENEWY",
+        "headline": "USB C Headphones for Samsung Galaxy S25 iPhone 17",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIW0aMF1bbHImWkcRUEZ3_wAAAGdGQSe9QEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBdp0Pb/clv1c_ek-IBYf3FbbazjI3kOfTCwk-iFuCmHEwVUXVJHqyi3W-jb2M0jcPH4U9oTsIbc3ZpHZ3i7qSPQqTuaAZtAaJT0_a5tkUdf6_uC5t7AjWVD0Gs4F7bW-0Dk7M4rjxpEfjxiKCLDCDNpse6NyVjrqGwMuj0F2cl2Wqt8ao17eLz4wCfcPLIoTUyUASau1gTx75sxdTNouJnwVb2P2NX95imkCrQfF5JHSK4Rwz_2_q_aJBB9NhLKZb-L8yQDVbwgzgz2392zHv7_3G1ewFJUjLVuFUsrv86Fe3i9YYN848DR9kvvhCoUN0NTnYPb-zdbYID7bZgAtn4yRZjT4rfRs1ezCKiNAG3hYMT_xTFxwKycfG3RE99-J4vpjT6fHtnWvL-hcF-QgoduV8WXx9ttIOXpKovxfeypa5Wa6X5om_v6ieq9c4b2XKfFa04vdpUFuH0wXIELhk4N89AUzCRTee56JmH96U8YQZwzbs1ut-mjTLMe3k2Nm2eHhqxqPjnY5GXCxaHyOAERpSOvlWdF0gOv1kTe-0DD2Faah0XHoHmioH8Urxoc0U9OjCBVhAjJdQsQkHSa74MN7bwEnf78oeNiI6XgOSP7RVHzEwibfC8vEQXw8armgD00j2HLBux7G7YbNFhSqf8Rb0dHvMGnlnbx9Vs_n5pK8UN7J7UtfF_9xsXDnzwBSJW-W78agA16SN2y1I146GiqWor6Lg-ZlEXX05Id6iio4E6UeKRdH0Xjny_8j9tcGQycKBcXkgH4eBl-JZIJqrm1V76D9booPmBZZlgYleqHfxCd0tT3yzGwK-XlfZ3L-HBfxUfc6vNpIb50kZdQvmnNsKT0hmF4yVH6GF9p819FvYcii94t7K8wLVglGQIO6E4au14I262moWofjJ2zPyokYINKtEeVSfEvByWF1udkJ-DWClzhhplA63uSipOx5n4jr3FnlcyxVUVg7GA9-csyPPLXND08h3OHuzRGQqXwSF8sWJIUH6udBUDbhk2boumib_Cqb__N-JQTAC8AeFHKI11_62fmkM740crEM4ljk-by81y0WbiQuwVXzPdDfNaCvoyp5QQvPUPfjdQRaf7uY50lDUPO5c3lP07cC4-S-2D9yJmInuuSTZPoN2RZxNo55StL11fTt0p6Ck_TvnuiGQGGgczoN6MUyZ54YXgfkFuhNWikQ07eOhbogfQ2IQS2ftBfOA0a24kRVuj63E0xA4tg79YgZb6rtU8MrApP-FuBZ2OFKSoBngclnpu6VrPsmvGbUt3ku6j8E-PqsVYN7E1bxQbfljGQQtjctAhvmtX2coMCEmj3F67XvZTfjDAVersZ_VnoZMbF_Rp1IRrr4RZvOhZvdxKQFJOkDqaKFqupDoRu76G9894nJHp4Uk6pXYzSf6edj-G3cszCkhctWDR8BbHBIowcOXRxS9E_Ce8HB7X9CvzwLQAx1hMsI5K1BFs5HazGO5V-b7YCcORzbCV_Wyn-QWFsaqJosPREcHWgWmR7ZYSLsxNAYKXQb3DyhMcVQvzSOcHZIsLAlttA/https://www.amazon.ca/stores/page/98D1C223-435D-4E46-9A18-0977F79AB7E5/?_encoding=UTF8&store_ref=SB_A04522832RIY6H36RZX36-A07019041PRVW5HKOIEZ2&pd_rd_plhdr=t&aaxitk=1418ba731779a3c046d232c1bcc9fd93&hsa_cr_id=0&lp_asins=B0B6YYGV8T%2CB098TNK4YM&lp_query=Samsung%20Galaxy%20S24%20Ultra%20iPhone%2016%20Pro%20Google%20Pixel%209%20Pro%20OnePlus%2013&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb1_bkgd&pd_rd_w=zdc7R&content-id=amzn1.sym.364313d5-cc88-42fb-9096-fe910052c483%3Aamzn1.sym.364313d5-cc88-42fb-9096-fe910052c483&pf_rd_p=364313d5-cc88-42fb-9096-fe910052c483&pf_rd_r=DWG3TCAC2GSBXN3WR3DT&pd_rd_wg=eg2r2&pd_rd_r=806b3e7f-f7a0-41b7-b2da-1f0becdb963c",
+        "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ab77c73a-1761-4528-9353-47e1ba92dafd._CR0,0,400,400_AC_SX278_SY200_CB1169409_QL70_.jpg"
+      },
+      {
+        "position": 3,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6c9f5bc6-00f7-4123-a770-da92f8b129d7._CR0,0,1200,628_SX920_CB1169409_QL70_.png",
+        "name": "BENEWY \u00c9couteurs USB C",
+        "headline": "\u00c9couteurs USB C",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JLg47lOpeE9k8xzL2VEG8HoAAAGdGQSe9gEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBJulKt/clv1c_ek-wBYHXFcbWDn2nI1fIOog9uTpjqoDmOJfaw1LSnbYlslZXTgDD_cJvdUMzt9PNxlHwe7Sk_F9JDQZj_QTlat6Ai0hMJHrTCijnfU_3mtRXD3FJ5CZKK2gQ4nh-syiR9WxJJjBhED3POtG-jt43wdvf0F2en10qjsBAfzftyYoZFQNlpEFa3_F6VgtSk_6Tq5LP_SOjf2aJUCl_tUzMufiPBAdbYMv2iKb062viEg4xk1HNA5FXw2UpxL6rWWhlgC8OpWG_Qlf7ySA8gMBI2QSxwjf4kv9NREaWbq6abFDKr_OIOPDqMWds5ghNhfloLbEx6cRLBOHWI6qPfUrXIhxj_lNHoUBu_gDk2p9dc1i_Qs9nfy4Q2RXAFYONE7-kyElZ4WZv26HcbI_07Mn0LH2Bf5DlKH-cettwmphKTKGG0T0WX3ymZwEXPRNGFn7SgF3GUsmQ0nxEw9RKfZmLRMVVi8UqmW9LIc19wkjwLYyCFViGXB7QCPrCSyBYxgemS1LyrhFApZcS829RLPQbNvVJe_GyA-zBgTtN9jYKO5oLRCpY_qZ092PVqs6K0oO6H6dyRqwfhsRjh3dvrICOfTenPx9CLuFYGzFxW0FSR7kctU0epayqPBK7cSEaP1LW5TYQcajGi8rC7tyrX-dFh_uQvX46zNsmQPJ58ysFKvvU-QSL-IKByk-BhAfE-g5xItdfkDGyyusKwLQRKnSQ8AwN5XV8DDD0VL3M6o1CRyDYNdQyIWVgtE8UbgIMHI2iU_jQ5om10ovp9HfJsJfM55yjKZUU90waXOzaS8qthJ608gwKckIXzp7A3Ic1Mhk-y7T4CNibk6HdijvmaysRyl0EgF6aIM3Z9azUp67-6y4tiUhUsTclK_GAQjZt14nYZCePrx174rshdffOKKMVsbq2X0IzyjbPbGIELyr8eV11CgCHVrv_fCebsLzXwpzgkkvIpB2tB6vGZ4iWpz0QctxUkYSFK1LnhBkOrsoosVHMEMLyCRPE8HYycEtxBTlHgbGnnZbU8gXUNooQHBjxz5ECkclDlKlPw0Zz5ofEizYTHB2mIJgVhNBSoncQp6qzabwGd9Ue3INRO01aNS3a8fltp-r1K1G_NplZmnBteOdw8hi9LD5_NZ0wcyqMtIFvCLzvnq38F_t6aoixx495VS_g2NchI1M1rO89CMCsLFsxNxXcExeW3tivcuv1eS8J-JtUArrNwGYNzLke-1DQU00bwFm9-D8PxOBtYJGITikFoKtwJbDaXGYAgn7FtH_TDBgU1z1EH8l-fm7fH4eSXDatOgKBKGdr_fjoOfC9z_I9mYOlctpfX2f-9itCetX5fYTZlfynZSQx4O0Nz4-PGfGeuzC-aGvsdAuwJyQqtN9NY8T3va5TEZzZ5FKp8x0GXU0nLNlllXn3ZtjCS92O4zSDe6XhCh-cmmIbn5YtvJMadPpE93bfXXSswXR_xA631bDJCJuJZ5Xm8NMqi3yiEJSA94JP0UadT-A7y2niukGWj9lOI_sX4HsN0TPaGHSEOPvv0qL0zLSuwIdH-IkOmXICbq6DZKbUbRhuymY6-QIXCg/https://www.amazon.ca/stores/page/7B1518CE-656E-46CC-BFF6-EEF8041BBE4A/?_encoding=UTF8&store_ref=SB_A0779587ZTCP0CUZ9X8Q-A02022433K3N8SFTUKYSO&pd_rd_plhdr=t&aaxitk=3541138af2f921f7be152929da6bacac&hsa_cr_id=0&lp_asins=B0B6YYGV8T%2CB0B6YSBWS5%2CB098TNK4YM&lp_query=Samsung%20Galaxy%20S24%20Ultra%20iPhone%2016%20Pro%20Google%20Pixel%209%20Pro%20OnePlus%2013&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb2_bkgd&pd_rd_w=zdc7R&content-id=amzn1.sym.364313d5-cc88-42fb-9096-fe910052c483%3Aamzn1.sym.364313d5-cc88-42fb-9096-fe910052c483&pf_rd_p=364313d5-cc88-42fb-9096-fe910052c483&pf_rd_r=DWG3TCAC2GSBXN3WR3DT&pd_rd_wg=eg2r2&pd_rd_r=806b3e7f-f7a0-41b7-b2da-1f0becdb963c",
+        "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f43245c9-fee4-42bb-87c1-19709325d7b9._CR0,0,400,400_AC_SX278_SY200_CB1169409_QL70_.jpg"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "position": 1,
+      "name": "Electronics",
+      "link": "https://www.amazon.ca/Electronics-Accessories/b/?ie=UTF8&node=667823011&ref_=nav_cs_electronics",
+      "node": "667823011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=667823011"
+    },
+    {
+      "position": 2,
+      "name": "Books",
+      "link": "https://www.amazon.ca/books-used-books-textbooks/b/?ie=UTF8&node=916520&ref_=nav_cs_books",
+      "node": "916520",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=916520"
+    },
+    {
+      "position": 3,
+      "name": "Sports & Outdoors",
+      "link": "https://www.amazon.ca/sporting-goods/b/?ie=UTF8&node=2242989011&ref_=nav_cs_sports",
+      "node": "2242989011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=2242989011"
+    },
+    {
+      "position": 4,
+      "name": "Home Improvement",
+      "link": "https://www.amazon.ca/Home-Improvement/b/?ie=UTF8&node=3006902011&ref_=nav_cs_hi",
+      "node": "3006902011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=3006902011"
+    },
+    {
+      "position": 5,
+      "name": "Health & Household",
+      "link": "https://www.amazon.ca/Health-Personal-Care/b/?ie=UTF8&node=6205177011&ref_=nav_cs_hpc",
+      "node": "6205177011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6205177011"
+    },
+    {
+      "position": 6,
+      "name": "Automotive",
+      "link": "https://www.amazon.ca/automotive/b/?ie=UTF8&node=6948389011&ref_=nav_cs_automotive",
+      "node": "6948389011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6948389011"
+    },
+    {
+      "position": 7,
+      "name": "Beauty & Personal Care",
+      "link": "https://www.amazon.ca/Beauty/b/?ie=UTF8&node=6205124011&ref_=nav_cs_beauty",
+      "node": "6205124011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6205124011"
+    },
+    {
+      "position": 8,
+      "name": "Toys & Games",
+      "link": "https://www.amazon.ca/Toys-Games/b/?ie=UTF8&node=6205517011&ref_=nav_cs_toys",
+      "node": "6205517011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6205517011"
+    },
+    {
+      "position": 9,
+      "name": "Computers",
+      "link": "https://www.amazon.ca/Computers-Accessories/b/?ie=UTF8&node=2404990011&ref_=nav_cs_pc",
+      "node": "2404990011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=2404990011"
+    },
+    {
+      "position": 10,
+      "name": "Computer & Video Games",
+      "link": "https://www.amazon.ca/video-games-hardware-accessories/b/?ie=UTF8&node=3198031&ref_=nav_cs_video_games",
+      "node": "3198031",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=3198031"
+    },
+    {
+      "position": 11,
+      "name": "Pet Supplies",
+      "link": "https://www.amazon.ca/pet-supplies-dog-cat-food-bed-toy/b/?ie=UTF8&node=6205514011&ref_=nav_cs_pets",
+      "node": "6205514011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6205514011"
+    },
+    {
+      "position": 12,
+      "name": "Custom Products",
+      "link": "https://www.amazon.ca/Amazon-Custom/b/?ie=UTF8&node=23773954011&ref_=nav_cs_custom",
+      "node": "23773954011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=23773954011"
+    },
+    {
+      "position": 13,
+      "name": "Grocery",
+      "link": "https://www.amazon.ca/grocery/b/?ie=UTF8&node=6967215011&ref_=nav_cs_grocery",
+      "node": "6967215011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6967215011"
+    },
+    {
+      "position": 14,
+      "name": "Sell",
+      "link": "https://www.amazon.ca/b/?node=15664730011&ld=AZCASOA-sell&ref_=nav_cs_sell",
+      "node": "15664730011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=15664730011"
+    },
+    {
+      "position": 15,
+      "name": "Kindle Books",
+      "link": "https://www.amazon.ca/ebooks-kindle/b/?ie=UTF8&node=2980423011&ref_=nav_cs_kindle_books",
+      "node": "2980423011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=2980423011"
+    }
+  ],
+  "filters": {
+    "eligible_for_free_shipping": [
+      {
+        "position": 1,
+        "name": "FREE Shipping",
+        "rh": "p_76:3276484011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_76%3A3276484011&dc&qid=1774241226&rnid=3276483011&ref=sr_nr_p_76_1&ds=v1%3AixkfORNkvo51gT714m0GSLmmp0AXbazuXtCH9XTLUqI",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_76%3A3276484011"
+      }
+    ],
+    "condition": [
+      {
+        "position": 1,
+        "name": "New",
+        "rh": "p_n_condition-type:11192164011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_condition-type%3A11192164011&dc&qid=1774241226&rnid=11192162011&ref=sr_nr_p_n_condition-type_1&ds=v1%3AfoEY3c3kxw58W5nIIiLmlYYO0B8N9GNCzGTQ2GFHJDc",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_condition-type%3A11192164011"
+      },
+      {
+        "position": 2,
+        "name": "Renewed",
+        "rh": "p_n_condition-type:21167025011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_condition-type%3A21167025011&dc&qid=1774241226&rnid=11192162011&ref=sr_nr_p_n_condition-type_2&ds=v1%3A%2Fw4qKKGG3DhDKrhiAlTXWldeSYpjVuY%2F9tWHb5ZoEOg",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_condition-type%3A21167025011"
+      },
+      {
+        "position": 3,
+        "name": "Used",
+        "rh": "p_n_condition-type:11192165011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_condition-type%3A11192165011&dc&qid=1774241226&rnid=11192162011&ref=sr_nr_p_n_condition-type_3&ds=v1%3ALMrcrOppXBfwGSmJj5AyVuPWmzsoLLRL%2F%2FbTuO5xIhc",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_condition-type%3A11192165011"
+      }
+    ],
+    "brands": [
+      {
+        "position": 1,
+        "name": "Samsung",
+        "rh": "p_123:46655",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_123%3A46655&dc&qid=1774241226&rnid=119962390011&ref=sr_nr_p_123_1&ds=v1%3Axx1jZc7CFfktpnMpsxn%2FtoeN3OFG3NoZdFp9hDi21EY",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_123%3A46655"
+      },
+      {
+        "position": 2,
+        "name": "Google",
+        "rh": "p_123:370584",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_123%3A370584&dc&qid=1774241226&rnid=119962390011&ref=sr_nr_p_123_2&ds=v1%3AeW3MBUDocc9nA%2BA0YW%2BZHn75ZRkcYr1gyjCjascuIlk",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_123%3A370584"
+      }
+    ],
+    "customer_reviews": [
+      {
+        "position": 1,
+        "name": "& Up",
+        "rh": "p_72:11192170011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_72%3A11192170011&dc&qid=1774241226&rnid=11192166011&ref=sr_nr_p_72_1&ds=v1%3AtR8JjYFpg5kHtAa6BTURvN%2FwmChYAN0N1HwiTrgasjo",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_72%3A11192170011"
+      }
+    ],
+    "storage_capacity": [
+      {
+        "position": 1,
+        "name": "128 GB",
+        "rh": "p_n_g-1003492455111:108493297011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003492455111%3A108493297011&dc&qid=1774241226&rnid=25914008011&ref=sr_nr_p_n_g-1003492455111_1&ds=v1%3A6e2gkA%2BjyfpiOuirMscWTpunJXlDKNAFRs1xNHZXUDc",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003492455111%3A108493297011"
+      },
+      {
+        "position": 2,
+        "name": "256 GB",
+        "rh": "p_n_g-1003492455111:108493298011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003492455111%3A108493298011&dc&qid=1774241226&rnid=25914008011&ref=sr_nr_p_n_g-1003492455111_2&ds=v1%3A%2BIpcz52ihHnuLBnaCs73BZmtWCy4izYheWrX8sijf70",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003492455111%3A108493298011"
+      },
+      {
+        "position": 3,
+        "name": "512 GB & above",
+        "rh": "p_n_g-1003492455111:120222014011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003492455111%3A120222014011&dc&qid=1774241226&rnid=25914008011&ref=sr_nr_p_n_g-1003492455111_3&ds=v1%3AxnmxV1coIO1jyWRfpj9Lyd%2FjCatCpzMyQPU3fkIpDK0",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003492455111%3A120222014011"
+      }
+    ],
+    "price": [
+      {
+        "position": 1,
+        "name": "All Discounts",
+        "rh": "p_n_deal_type:23565508011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_deal_type%3A23565508011&dc&qid=1774241226&rnid=23565505011&ref=sr_nr_p_n_deal_type_1&ds=v1%3APTPqBPZs7qzS6jbkn8XXdPtif0CZVCwa4VL1eFyOlY0",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_deal_type%3A23565508011"
+      }
+    ],
+    "cellular_technology": [
+      {
+        "position": 1,
+        "name": "5G",
+        "rh": "p_n_g-1003469290111:24424947011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003469290111%3A24424947011&dc&qid=1774241226&rnid=24424943011&ref=sr_nr_p_n_g-1003469290111_1&ds=v1%3A%2ByRykXQMG80Gpw2Gogn1ItpBfdJHBRVN2H0FKpaYSgA",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003469290111%3A24424947011"
+      }
+    ],
+    "sim_card_slot_count": [
+      {
+        "position": 1,
+        "name": "Single SIM",
+        "rh": "p_n_g-1002989427111:23627150011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002989427111%3A23627150011&dc&qid=1774241226&rnid=23627148011&ref=sr_nr_p_n_g-1002989427111_1&ds=v1%3ASabs%2Bas18m%2FTnFzcuSVL2qNvzfDEv2%2FHGRNvgtHC9VQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002989427111%3A23627150011"
+      },
+      {
+        "position": 2,
+        "name": "Dual SIM",
+        "rh": "p_n_g-1002989427111:23627151011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002989427111%3A23627151011&dc&qid=1774241226&rnid=23627148011&ref=sr_nr_p_n_g-1002989427111_2&ds=v1%3Agej6N9ZYoeEsQdloGCxqt6IiIYCWcuo%2BK%2F91r%2BvtM4w",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002989427111%3A23627151011"
+      }
+    ],
+    "special_features": [
+      {
+        "position": 1,
+        "name": "Always On Display",
+        "rh": "p_n_g-101017291783111:213945342011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101017291783111%3A213945342011&dc&qid=1774241226&rnid=213945339011&ref=sr_nr_p_n_g-101017291783111_1&ds=v1%3AI0yNiPL9xGoqq%2FSH4EABY124DkJKXoRCDZkT%2Ba3d6ts",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101017291783111%3A213945342011"
+      },
+      {
+        "position": 2,
+        "name": "Fast Charging Support",
+        "rh": "p_n_g-101017291783111:213945350011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101017291783111%3A213945350011&dc&qid=1774241226&rnid=213945339011&ref=sr_nr_p_n_g-101017291783111_2&ds=v1%3ABVSKWM8lKvi4bvCoGErXEpiHP5ggJAYLKhT0zQf5x4Q",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101017291783111%3A213945350011"
+      },
+      {
+        "position": 3,
+        "name": "Wireless Charging",
+        "rh": "p_n_g-101017291783111:213945343011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101017291783111%3A213945343011&dc&qid=1774241226&rnid=213945339011&ref=sr_nr_p_n_g-101017291783111_3&ds=v1%3AWO8v9TVYrpbo%2Fe66c5M6KIp%2F6HD%2Brjv1w%2B9IlCvy7rg",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101017291783111%3A213945343011"
+      }
+    ],
+    "ram_size": [
+      {
+        "position": 1,
+        "name": "10 GB & Above",
+        "rh": "p_n_g-1003495121111:26274182011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003495121111%3A26274182011&dc&qid=1774241226&rnid=26274164011&ref=sr_nr_p_n_g-1003495121111_1&ds=v1%3AqqlP5DsBAC2ICeUmgW9RTKC8pQJgn33jaN2mzT4KohU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003495121111%3A26274182011"
+      }
+    ],
+    "battery_capacity": [
+      {
+        "position": 1,
+        "name": "3,000 to 3,999 mAh",
+        "rh": "p_n_g-101015098008111:120181881011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015098008111%3A120181881011&dc&qid=1774241226&rnid=120181878011&ref=sr_nr_p_n_g-101015098008111_1&ds=v1%3Ap9moRqjkE8keTeI%2BVJM3R3kRe7bs52jAVJ9LX64W7BE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015098008111%3A120181881011"
+      },
+      {
+        "position": 2,
+        "name": "4,000 to 4,999 mAh",
+        "rh": "p_n_g-101015098008111:120181879011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015098008111%3A120181879011&dc&qid=1774241226&rnid=120181878011&ref=sr_nr_p_n_g-101015098008111_2&ds=v1%3A63yrIRYa4XiI9bopQ98KGq7b%2Bb0URpN%2B2VDhpa3U4Ss",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015098008111%3A120181879011"
+      },
+      {
+        "position": 3,
+        "name": "5,000 to 5,999 mAh",
+        "rh": "p_n_g-101015098008111:120181880011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015098008111%3A120181880011&dc&qid=1774241226&rnid=120181878011&ref=sr_nr_p_n_g-101015098008111_3&ds=v1%3Ay6njtoVqQuA631OuCEzvNNbAP5eHLeKb4CS1azhKAEQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015098008111%3A120181880011"
+      }
+    ],
+    "operating_system_version": [
+      {
+        "position": 1,
+        "name": "Android 14",
+        "rh": "p_n_g-1003517064111:206873672011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003517064111%3A206873672011&dc&qid=1774241226&rnid=36773097011&ref=sr_nr_p_n_g-1003517064111_1&ds=v1%3ABlsCHH1RzqkKdHhGxc4mh4chxlAerz5%2Bz%2F%2Fg62Lf%2Fvo",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003517064111%3A206873672011"
+      },
+      {
+        "position": 2,
+        "name": "Android 11.0",
+        "rh": "p_n_g-1003517064111:36773167011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003517064111%3A36773167011&dc&qid=1774241226&rnid=36773097011&ref=sr_nr_p_n_g-1003517064111_2&ds=v1%3A8BtrBWAWFaGl6zQ%2BxfXvIzx0GanHr9nGTdpwjgK3HGA",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003517064111%3A36773167011"
+      }
+    ],
+    "seller": [
+      {
+        "position": 1,
+        "name": "Carphone warehouse",
+        "rh": "p_6:A2QSAG50LE92E7",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA2QSAG50LE92E7&dc&qid=1774241226&rnid=12035754011&ref=sr_nr_p_6_1&ds=v1%3AM9O6dCv1oZlz%2B%2BVdP%2BVhgVd25pKbQFN%2FPehwfDy4VnU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA2QSAG50LE92E7"
+      },
+      {
+        "position": 2,
+        "name": "Device4u2",
+        "rh": "p_6:A22DZHGTGN5W95",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA22DZHGTGN5W95&dc&qid=1774241226&rnid=12035754011&ref=sr_nr_p_6_2&ds=v1%3A4lEKcokO9gWl%2B6TRXAr6E8uT5eDGM5D%2BOOgc%2F%2BN4Ni8",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA22DZHGTGN5W95"
+      },
+      {
+        "position": 3,
+        "name": "EliteOffering",
+        "rh": "p_6:A208BE46G2MDJA",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA208BE46G2MDJA&dc&qid=1774241226&rnid=12035754011&ref=sr_nr_p_6_3&ds=v1%3Aq0kmmARz91fnBUxgdA1%2BPa2s0m0LuPE3BYnllk1lu7Y",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA208BE46G2MDJA"
+      },
+      {
+        "position": 4,
+        "name": "Gadget Deals",
+        "rh": "p_6:A1WLBV5HG77YCI",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA1WLBV5HG77YCI&dc&qid=1774241226&rnid=12035754011&ref=sr_nr_p_6_4&ds=v1%3ABcuF3rWSEBXYvvT1j1Yn%2BFQCBpFkELr%2F6vWvPMS0VeE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA1WLBV5HG77YCI"
+      },
+      {
+        "position": 5,
+        "name": "Levon1",
+        "rh": "p_6:A1BYK9KM7GNV7C",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA1BYK9KM7GNV7C&dc&qid=1774241226&rnid=12035754011&ref=sr_nr_p_6_5&ds=v1%3A%2FzIloZXxkSBLcV1uPeU3W6MIYRsjxTF4OsSPG%2BZODiQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA1BYK9KM7GNV7C"
+      },
+      {
+        "position": 6,
+        "name": "Pocket Theory",
+        "rh": "p_6:A26TX85EJTSHPQ",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA26TX85EJTSHPQ&dc&qid=1774241226&rnid=12035754011&ref=sr_nr_p_6_6&ds=v1%3A2rWoBK8Z8CDDsJtM7xVJOCqCycRP8SAibeePhxAdc94",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA26TX85EJTSHPQ"
+      },
+      {
+        "position": 7,
+        "name": "VVSComputers",
+        "rh": "p_6:A28VRXTN4OAL1U",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA28VRXTN4OAL1U&dc&qid=1774241226&rnid=12035754011&ref=sr_nr_p_6_7&ds=v1%3AdqZaohpdKF%2Foq8vxH4GrZM%2FChCadTw%2FAf2%2FPJT7BwWA",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_6%3AA28VRXTN4OAL1U"
+      }
+    ],
+    "availability": [
+      {
+        "position": 1,
+        "name": "Include Out of Stock",
+        "rh": "p_n_availability:12035748011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_availability%3A12035748011&dc&qid=1774241226&rnid=12035746011&ref=sr_nr_p_n_availability_2&ds=v1%3A2O4YrNdzmO8J5X%2Butqsk134vYYOklw6wDRD1X8j9A98",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_availability%3A12035748011"
+      }
+    ],
+    "included_components": [
+      {
+        "position": 1,
+        "name": "USB Cable",
+        "rh": "p_n_g-101013594324111:78245178011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101013594324111%3A78245178011&dc&qid=1774241226&rnid=78245152011&ref=sr_nr_p_n_g-101013594324111_1&ds=v1%3Avxg3Vm70ZHTQpX0GjZvsJdFQ9Xrxbm8t0pyahhQ8ZmI",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101013594324111%3A78245178011"
+      },
+      {
+        "position": 2,
+        "name": "SIM Tray Ejector",
+        "rh": "p_n_g-101013594324111:78245177011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101013594324111%3A78245177011&dc&qid=1774241226&rnid=78245152011&ref=sr_nr_p_n_g-101013594324111_2&ds=v1%3AUcPdtEmXaZYGxGIk%2FgZ5%2BLvV1y8VXDqCN%2FXvlfHcyss",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101013594324111%3A78245177011"
+      }
+    ],
+    "connector_type": [
+      {
+        "position": 1,
+        "name": "USB Type C",
+        "rh": "p_n_g-1002085485111:23722601011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002085485111%3A23722601011&dc&qid=1774241226&rnid=23722597011&ref=sr_nr_p_n_g-1002085485111_1&ds=v1%3AKgLEcwlNloe%2Foygpdr466UHMJlAymzMVzsliKSxOSj0",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002085485111%3A23722601011"
+      }
+    ],
+    "connectivity": [
+      {
+        "position": 1,
+        "name": "Bluetooth",
+        "rh": "p_n_g-1002112230111:23707071011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002112230111%3A23707071011&dc&qid=1774241226&rnid=23707068011&ref=sr_nr_p_n_g-1002112230111_1&ds=v1%3AO6kyOgE4Mv4CEgN553g5e25rafR%2B%2BogmSrjIWs5TWfk",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002112230111%3A23707071011"
+      },
+      {
+        "position": 2,
+        "name": "USB",
+        "rh": "p_n_g-1002112230111:23707070011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002112230111%3A23707070011&dc&qid=1774241226&rnid=23707068011&ref=sr_nr_p_n_g-1002112230111_2&ds=v1%3AmUUO0Dlzu8LCI84eEjIZQCbgW88q0WkqpoN6LOCi4ws",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002112230111%3A23707070011"
+      },
+      {
+        "position": 3,
+        "name": "Wi-Fi",
+        "rh": "p_n_g-1002112230111:23707072011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002112230111%3A23707072011&dc&qid=1774241226&rnid=23707068011&ref=sr_nr_p_n_g-1002112230111_3&ds=v1%3AIoWDnuwNahgBZHXLEknWI0PeqDHMvANLE2Crmm1jWw0",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002112230111%3A23707072011"
+      }
+    ],
+    "display_type": [
+      {
+        "position": 1,
+        "name": "AMOLED",
+        "rh": "p_n_g-101013595158111:78245187011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101013595158111%3A78245187011&dc&qid=1774241226&rnid=78245153011&ref=sr_nr_p_n_g-101013595158111_1&ds=v1%3AgWqWYbJG5Z6K61BA2%2FQ8TFMsQMB394wjbqfyYCs%2Fr0c",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101013595158111%3A78245187011"
+      },
+      {
+        "position": 2,
+        "name": "OLED",
+        "rh": "p_n_g-101013595158111:78245188011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101013595158111%3A78245188011&dc&qid=1774241226&rnid=78245153011&ref=sr_nr_p_n_g-101013595158111_2&ds=v1%3AhklA4QKEi2mBIjpHAdWiNzQFJol9EHBB41%2FPGvQQWX4",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101013595158111%3A78245188011"
+      }
+    ],
+    "gps_navigation": [
+      {
+        "position": 1,
+        "name": "True",
+        "rh": "p_n_g-101015364874111:121475758011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015364874111%3A121475758011&dc&qid=1774241226&rnid=121475745011&ref=sr_nr_p_n_g-101015364874111_1&ds=v1%3A82dMBCljavI1dAQBX2G%2Fr6%2F63XVMWhiCuM0GMXw1Vdc",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015364874111%3A121475758011"
+      }
+    ],
+    "display_refresh_rate_in_hertz": [
+      {
+        "position": 1,
+        "name": "120",
+        "rh": "p_n_g-101017397158111:214852994011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101017397158111%3A214852994011&dc&qid=1774241226&rnid=214852981011&ref=sr_nr_p_n_g-101017397158111_1&ds=v1%3ATC5lGhrpAcrIen1QHDwzR0l2Tm8Wif5N%2FB0fIZZkweA",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101017397158111%3A214852994011"
+      }
+    ],
+    "battery_type": [
+      {
+        "position": 1,
+        "name": "Lithium-Ion",
+        "rh": "p_n_g-101015500034111:122266714011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015500034111%3A122266714011&dc&qid=1774241226&rnid=122266706011&ref=sr_nr_p_n_g-101015500034111_1&ds=v1%3ABrAQ3hQj7rCbQCeOa0DObPMnB7GzajgZMmhijrVPJT0",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015500034111%3A122266714011"
+      }
+    ],
+    "battery_life": [
+      {
+        "position": 1,
+        "name": "19 h & above",
+        "rh": "p_n_g-1003486052111:24676343011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003486052111%3A24676343011&dc&qid=1774241226&rnid=24676306011&ref=sr_nr_p_n_g-1003486052111_1&ds=v1%3ADaihgpUMjiWQQoTz%2B2zEl5zoDc2L%2FkIaJMEdhzSUNi4",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003486052111%3A24676343011"
+      }
+    ],
+    "wireless_network_technology": [
+      {
+        "position": 1,
+        "name": "Wi-Fi",
+        "rh": "p_n_g-101015498571111:122269311011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498571111%3A122269311011&dc&qid=1774241226&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_1&ds=v1%3A%2F5JSZYn912xU3MdRrVsKEw3pL8xgQMia%2Fq%2BsGiqKu08",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498571111%3A122269311011"
+      },
+      {
+        "position": 2,
+        "name": "GSM",
+        "rh": "p_n_g-101015498571111:122269315011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498571111%3A122269315011&dc&qid=1774241226&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_2&ds=v1%3AmeXy2Hj7Jt2sZF%2FuSND9nuwvljbcuer0rc07hs3f9Ng",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498571111%3A122269315011"
+      },
+      {
+        "position": 3,
+        "name": "LTE",
+        "rh": "p_n_g-101015498571111:122269313011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498571111%3A122269313011&dc&qid=1774241226&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_3&ds=v1%3A0YYqGCsc7iQ06pEA7oK39jhZuh6FIY5A2XRqr8T0fWw",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498571111%3A122269313011"
+      },
+      {
+        "position": 4,
+        "name": "CDMA",
+        "rh": "p_n_g-101015498571111:122269320011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498571111%3A122269320011&dc&qid=1774241226&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_4&ds=v1%3AAEOnV66odVhJxvrQTo%2BKwj4qirdElh4%2FmODTWEOEWDU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498571111%3A122269320011"
+      }
+    ],
+    "sim_card_size": [
+      {
+        "position": 1,
+        "name": "eSIM",
+        "rh": "p_n_g-1002989370111:23641472011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002989370111%3A23641472011&dc&qid=1774241226&rnid=23641471011&ref=sr_nr_p_n_g-1002989370111_1&ds=v1%3AriCxWafLsW4BP60PuBp9fBqq%2BLvLnOACNNeqDwrONSk",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002989370111%3A23641472011"
+      },
+      {
+        "position": 2,
+        "name": "Nano",
+        "rh": "p_n_g-1002989370111:23641474011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002989370111%3A23641474011&dc&qid=1774241226&rnid=23641471011&ref=sr_nr_p_n_g-1002989370111_2&ds=v1%3ATTStzp4v7dhqzipK62qIiNMHz3lkUCMW9bArfyL9ewQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002989370111%3A23641474011"
+      }
+    ],
+    "form_factor": [
+      {
+        "position": 1,
+        "name": "Bar",
+        "rh": "p_n_g-1003236090111:23896855011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003236090111%3A23896855011&dc&qid=1774241226&rnid=23896854011&ref=sr_nr_p_n_g-1003236090111_1&ds=v1%3Ad3RGNh%2FYw0RhkdDz25d43WJ%2FeyUUOt0iyRXZZc3c4e4",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003236090111%3A23896855011"
+      },
+      {
+        "position": 2,
+        "name": "Slate",
+        "rh": "p_n_g-1003236090111:23896858011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003236090111%3A23896858011&dc&qid=1774241226&rnid=23896854011&ref=sr_nr_p_n_g-1003236090111_2&ds=v1%3Axq0t5Oee%2BYsWZGNKGOL4L5iQSkEQFU2tzwb8eSTs4ZM",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003236090111%3A23896858011"
+      }
+    ],
+    "headphones_jack": [
+      {
+        "position": 1,
+        "name": "3.5 mm",
+        "rh": "p_n_g-101015501406111:122266757011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015501406111%3A122266757011&dc&qid=1774241226&rnid=122266751011&ref=sr_nr_p_n_g-101015501406111_1&ds=v1%3AaCPYdAuK2%2BoIR24Nr0qZeTUlF51h09Dud9XO4iWTf2c",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015501406111%3A122266757011"
+      }
+    ],
+    "video_capture_resolution": [
+      {
+        "position": 1,
+        "name": "1080p",
+        "rh": "p_n_g-1003305462111:23967792011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003305462111%3A23967792011&dc&qid=1774241226&rnid=23967788011&ref=sr_nr_p_n_g-1003305462111_1&ds=v1%3AU%2BAe5UzSrpml%2FjC1SlkliLpxyk5DgDs0ZXPSUQB6vwE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003305462111%3A23967792011"
+      },
+      {
+        "position": 2,
+        "name": "4k",
+        "rh": "p_n_g-1003305462111:23967791011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003305462111%3A23967791011&dc&qid=1774241226&rnid=23967788011&ref=sr_nr_p_n_g-1003305462111_2&ds=v1%3A6FnTtL5YFldAgeiiawBbCr1cR4XP%2Bs%2FkSb3W9fk%2FH8k",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003305462111%3A23967791011"
+      }
+    ],
+    "rear_camera_photo_sensor_resolution": [
+      {
+        "position": 1,
+        "name": "16 MP & above",
+        "rh": "p_n_g-1003477899111:25131572011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003477899111%3A25131572011&dc&qid=1774241226&rnid=25131543011&ref=sr_nr_p_n_g-1003477899111_1&ds=v1%3AC858C%2B5tCFfbuTPtzD%2Baz5olgktcaFYVWUh2hAi8bJI",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003477899111%3A25131572011"
+      }
+    ],
+    "security_feature": [
+      {
+        "position": 1,
+        "name": "Face Recognition",
+        "rh": "p_n_g-1002085472111:23703130011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002085472111%3A23703130011&dc&qid=1774241226&rnid=23703125011&ref=sr_nr_p_n_g-1002085472111_1&ds=v1%3A17%2FToa1j7qlMZbBC8ZxIcVv1YrJ2Ax0%2Flsnal8qx2aQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002085472111%3A23703130011"
+      },
+      {
+        "position": 2,
+        "name": "Fingerprint Recognition",
+        "rh": "p_n_g-1002085472111:23703133011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002085472111%3A23703133011&dc&qid=1774241226&rnid=23703125011&ref=sr_nr_p_n_g-1002085472111_2&ds=v1%3AqO8fXqo%2BsIkYOAQUf5pVUI0IF6Tq69JnQB34TOqPx7k",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002085472111%3A23703133011"
+      }
+    ],
+    "aspect_ratio": [
+      {
+        "position": 1,
+        "name": "16:9",
+        "rh": "p_n_g-101015688486111:204884476011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015688486111%3A204884476011&dc&qid=1774241226&rnid=204884467011&ref=sr_nr_p_n_g-101015688486111_1&ds=v1%3Afg%2Fd9etMgpQ9L9DgQwUBJ24n7YLczBfF2gvT2qN5VsU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015688486111%3A204884476011"
+      }
+    ],
+    "input": [
+      {
+        "position": 1,
+        "name": "Touchscreen",
+        "rh": "p_n_g-1002097072111:23706038011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002097072111%3A23706038011&dc&qid=1774241226&rnid=23706036011&ref=sr_nr_p_n_g-1002097072111_1&ds=v1%3A7Z6opFjgOzlMII0r2o64laklSfbHmCiqqSnDnqJ6WEw",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002097072111%3A23706038011"
+      },
+      {
+        "position": 2,
+        "name": "Touchscreen with Stylus Support",
+        "rh": "p_n_g-1002097072111:23706051011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002097072111%3A23706051011&dc&qid=1774241226&rnid=23706036011&ref=sr_nr_p_n_g-1002097072111_2&ds=v1%3AkzFy9Roriv0hlmTmUfIgWsF%2B%2FTrxqBRrHDkWZeXEdV0",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002097072111%3A23706051011"
+      }
+    ],
+    "weight": [
+      {
+        "position": 1,
+        "name": "142 to 197.9 g",
+        "rh": "p_n_g-1003491669111:25140786011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003491669111%3A25140786011&dc&qid=1774241226&rnid=25140785011&ref=sr_nr_p_n_g-1003491669111_1&ds=v1%3AeXta79tLLkw4n8jAIH%2BoIJIBtZ%2FehWv5oEDSP4Qwp%2FU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003491669111%3A25140786011"
+      },
+      {
+        "position": 2,
+        "name": "198 to 254.9 g",
+        "rh": "p_n_g-1003491669111:25140787011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003491669111%3A25140787011&dc&qid=1774241226&rnid=25140785011&ref=sr_nr_p_n_g-1003491669111_2&ds=v1%3AJhFDOQzeRLgSFwruka8w40W0YEHjZ%2BvzjzvoY6coYyg",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003491669111%3A25140787011"
+      },
+      {
+        "position": 3,
+        "name": "255 g & Above",
+        "rh": "p_n_g-1003491669111:25140789011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003491669111%3A25140789011&dc&qid=1774241226&rnid=25140785011&ref=sr_nr_p_n_g-1003491669111_3&ds=v1%3AaCimZSjXrq7kBk8sXnCTo0dMbNpd7RL%2FQiH73EU26YU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003491669111%3A25140789011"
+      }
+    ],
+    "front_camera_resolution": [
+      {
+        "position": 1,
+        "name": "10.0 to 12.9 MP",
+        "rh": "p_n_g-1003565058111:59033182011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003565058111%3A59033182011&dc&qid=1774241226&rnid=59033180011&ref=sr_nr_p_n_g-1003565058111_1&ds=v1%3ABKZexcnmmdMdk97hocOHHryXz1%2B%2BuyuznfEFFhfyZlg",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003565058111%3A59033182011"
+      },
+      {
+        "position": 2,
+        "name": "13.0 MP & above",
+        "rh": "p_n_g-1003565058111:59033181011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003565058111%3A59033181011&dc&qid=1774241226&rnid=59033180011&ref=sr_nr_p_n_g-1003565058111_2&ds=v1%3ADL%2FiEsVLs5ayjwKsNX0HtTQc1ShUt46D9g2KclUM%2BAE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1003565058111%3A59033181011"
+      }
+    ],
+    "supported_satellite_navigation_system": [
+      {
+        "position": 1,
+        "name": "GPS",
+        "rh": "p_n_g-101015498432111:122266237011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498432111%3A122266237011&dc&qid=1774241226&rnid=122266227011&ref=sr_nr_p_n_g-101015498432111_1&ds=v1%3APk5mImrkV%2BZgS4s8zamrz%2F%2FqFX1hNNHOEnNsiCZJG60",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-101015498432111%3A122266237011"
+      }
+    ],
+    "display_resolution": [
+      {
+        "position": 1,
+        "name": "1440 x 2880",
+        "rh": "p_n_g-1002090229111:23698486011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698486011&dc&qid=1774241226&rnid=23698483011&ref=sr_nr_p_n_g-1002090229111_1&ds=v1%3A6XWdpYQ12VIcvrJheLxvB9nGh9OmQIdwJinnTnlzFGU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698486011"
+      },
+      {
+        "position": 2,
+        "name": "1080 x 2400",
+        "rh": "p_n_g-1002090229111:23698488011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698488011&dc&qid=1774241226&rnid=23698483011&ref=sr_nr_p_n_g-1002090229111_2&ds=v1%3AzwETuqz9zkR8CKud3Bg5M8IkXKOKaWCcsD8mirLD4C8",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698488011"
+      },
+      {
+        "position": 3,
+        "name": "3840 x 2160",
+        "rh": "p_n_g-1002090229111:23698493011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698493011&dc&qid=1774241226&rnid=23698483011&ref=sr_nr_p_n_g-1002090229111_3&ds=v1%3AROXHIs%2F%2FsCTfB7PRXusrW25R3bKecJxWDS%2FSLmnYYQA",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698493011"
+      },
+      {
+        "position": 4,
+        "name": "1080 x 2160",
+        "rh": "p_n_g-1002090229111:23698498011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698498011&dc&qid=1774241226&rnid=23698483011&ref=sr_nr_p_n_g-1002090229111_4&ds=v1%3AbGSfajTbMmszoIBADj8ysPpm%2FlTiRze0wyMi0IRuVKk",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698498011"
+      },
+      {
+        "position": 5,
+        "name": "1440 x 2960",
+        "rh": "p_n_g-1002090229111:23698514011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698514011&dc&qid=1774241226&rnid=23698483011&ref=sr_nr_p_n_g-1002090229111_5&ds=v1%3AbL5U2wFpGA37l9g8A1Kt90ldtfVlAoCqZD5JrvP0%2BiU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698514011"
+      },
+      {
+        "position": 6,
+        "name": "3120 x 1440",
+        "rh": "p_n_g-1002090229111:23698518011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698518011&dc&qid=1774241226&rnid=23698483011&ref=sr_nr_p_n_g-1002090229111_6&ds=v1%3A2v%2B4ij6d22DnurymgMFpHZ%2FsHU52f1Bn0FhrXhAk0yE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002090229111%3A23698518011"
+      }
+    ],
+    "screen_size": [
+      {
+        "position": 1,
+        "name": "Up to 12.9 cm",
+        "rh": "p_n_feature_browse-bin:212267318011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_feature_browse-bin%3A212267318011&dc&qid=1774241226&rnid=212267316011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AU7MmeV7zD3UXRucSG3hrYOwTBpDzP6w%2BDZuS3Irt%2F24",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_feature_browse-bin%3A212267318011"
+      },
+      {
+        "position": 2,
+        "name": "15 to 17.9 cm",
+        "rh": "p_n_feature_browse-bin:212267317011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_feature_browse-bin%3A212267317011&dc&qid=1774241226&rnid=212267316011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AgWEtrBjZZWwJ4Y4hXISVKog%2BkSH3BfxmDV62WbaZVYQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_feature_browse-bin%3A212267317011"
+      }
+    ],
+    "camera_modes": [
+      {
+        "position": 1,
+        "name": "Automatic",
+        "rh": "p_n_g-1002252610111:23695571011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002252610111%3A23695571011&dc&qid=1774241226&rnid=23695568011&ref=sr_nr_p_n_g-1002252610111_1&ds=v1%3AkknEg6Frds1kcWjEL0OG7bRm17Fb2Ih%2BuA7cVTAhelg",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002252610111%3A23695571011"
+      },
+      {
+        "position": 2,
+        "name": "High Dynamic Range",
+        "rh": "p_n_g-1002252610111:23695574011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002252610111%3A23695574011&dc&qid=1774241226&rnid=23695568011&ref=sr_nr_p_n_g-1002252610111_2&ds=v1%3A%2F0bVy4nNJm9%2F7NzeiBvzSPTwMKzHxUvUc3FtvxAYiQE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002252610111%3A23695574011"
+      },
+      {
+        "position": 3,
+        "name": "Panorama",
+        "rh": "p_n_g-1002252610111:23695577011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002252610111%3A23695577011&dc&qid=1774241226&rnid=23695568011&ref=sr_nr_p_n_g-1002252610111_3&ds=v1%3AhxHGBwE3U2amxcUE0D8MJCdGAjUizuAyq6OyZxdoNKY",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=p_n_g-1002252610111%3A23695577011"
+      }
+    ],
+    "department": [
+      {
+        "position": 1,
+        "name": "Unlocked Cell Phones & Smartphones",
+        "rh": "n:3379583011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=n%3A3379583011&dc&qid=1774241226&rnid=5264023011&ref=sr_nr_n_1&ds=v1%3ARv68GFTiSBy5A1C0%2BUgmQszgxEqrx9QkUCegkWw694c",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=n%3A3379583011"
+      },
+      {
+        "position": 2,
+        "name": "Cell Phone Accessories",
+        "rh": "n:3379553011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=n%3A3379553011&dc&qid=1774241226&rnid=5264023011&ref=sr_nr_n_2&ds=v1%3ArhlDxRxBKrvMZHOImClI%2FdACa07LznuTVB3718yqohM",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=n%3A3379553011"
+      },
+      {
+        "position": 3,
+        "name": "Cell Phone Cases",
+        "rh": "n:13542515011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=n%3A3379553011%2Cn%3A13542515011&dc&qid=1774241226&rnid=5264023011&ref=sr_nr_n_3&ds=v1%3AK1tpMqn8wBqkQjQSAhZuWQJDFeg5ISP0dUOiFy0B4zc",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=n%3A3379553011%2Cn%3A13542515011"
+      },
+      {
+        "position": 4,
+        "name": "Cell Phone Screen Protectors",
+        "rh": "n:3379577011",
+        "link": "https://www.amazon.ca/s?k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=n%3A3379553011%2Cn%3A3379577011&dc&qid=1774241226&rnid=5264023011&ref=sr_nr_n_4&ds=v1%3ASU1RlPCn%2BtuZn8IqFwBtLe1u18YY%2BTjN4hgI2zzz6Dg",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&rh=n%3A3379553011%2Cn%3A3379577011"
+      }
+    ]
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=Samsung+Galaxy+S24+Ultra+iPhone+16+Pro+Google+Pixel+9+Pro+OnePlus+13&page=2"
+  }
+}

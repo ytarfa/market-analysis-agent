@@ -1,0 +1,1919 @@
+{
+  "search_metadata": {
+    "id": "69c0bcf873d224a130486174",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Ms8m3NCeEbSZE1z8qNnqSA/69c0bcf873d224a130486174.json",
+    "created_at": "2026-03-23 04:09:28 UTC",
+    "processed_at": "2026-03-23 04:09:28 UTC",
+    "amazon_url": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium",
+    "raw_html_file": "https://serpapi.com/searches/Ms8m3NCeEbSZE1z8qNnqSA/69c0bcf873d224a130486174.html",
+    "total_time_taken": 1.41
+  },
+  "search_parameters": {
+    "engine": "amazon",
+    "k": "iPhone 16 Pro expensive overpriced worth it premium",
+    "amazon_domain": "amazon.ca",
+    "device": "desktop"
+  },
+  "search_information": {
+    "total_results": 28,
+    "query_displayed": "iPhone 16 Pro expensive overpriced worth it premium",
+    "store": "gateway",
+    "page": 1
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "asin": "B0DHJL5XLV",
+      "options": "4 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-Natural-Titanium-Renewed/dp/B0DHJL5XLV/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-1",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DHJL5XLV",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-Natural-Titanium-Renewed/dp/B0DHJL5XLV/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-1"
+          },
+          {
+            "position": 2,
+            "asin": "B0DHJDPYYR",
+            "title": "Black Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-Natural-Titanium-Renewed/dp/B0DHJDPYYR/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-1"
+          },
+          {
+            "position": 3,
+            "asin": "B0DHJ3SRDL",
+            "title": "Desert Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-Natural-Titanium-Renewed/dp/B0DHJ3SRDL/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-1"
+          },
+          {
+            "position": 4,
+            "asin": "B0DHJ5V1YR",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-Natural-Titanium-Renewed/dp/B0DHJ5V1YR/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-1"
+          }
+        ]
+      },
+      "title": "Apple iPhone 16 Pro, 256GB, Natural Titanium (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-Natural-Titanium-Renewed/dp/B0DHJL5XLV/ref=sr_1_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-1",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-Natural-Titanium-Renewed/dp/B0DHJL5XLV/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DHJL5XLV&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51xIsifdT0L._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 2100,
+      "delivery": [
+        "FREE delivery Sat, Apr 4"
+      ]
+    },
+    {
+      "position": 2,
+      "asin": "B0FCQ82PC9",
+      "options": "4 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-512GB-Natural-Titanium/dp/B0FCQ82PC9/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-2",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0FCQ82PC9",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-512GB-Natural-Titanium/dp/B0FCQ82PC9/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-2"
+          },
+          {
+            "position": 2,
+            "asin": "B0FCP8L2RJ",
+            "title": "Black Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-512GB-Natural-Titanium/dp/B0FCP8L2RJ/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-2"
+          },
+          {
+            "position": 3,
+            "asin": "B0DHHVFY3N",
+            "title": "Desert Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-512GB-Natural-Titanium/dp/B0DHHVFY3N/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-2"
+          },
+          {
+            "position": 4,
+            "asin": "B0DHJ5V1YR",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-512GB-Natural-Titanium/dp/B0DHJ5V1YR/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-2"
+          }
+        ]
+      },
+      "title": "Apple iPhone 16 Pro (eSIM only), 512GB, Natural Titanium - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-512GB-Natural-Titanium/dp/B0FCQ82PC9/ref=sr_1_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-2",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-512GB-Natural-Titanium/dp/B0FCQ82PC9/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FCQ82PC9&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/416+Jd7XpWL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 2100,
+      "price": "$1,104.50",
+      "extracted_price": 1104.5,
+      "delivery": [
+        "FREE delivery Mar 26 - 30"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 3,
+      "asin": "B0FCQ39XG3",
+      "options": "4 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-128GB-Black-Titanium/dp/B0FCQ39XG3/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-3",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0FCQ39XG3",
+            "title": "Black Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-128GB-Black-Titanium/dp/B0FCQ39XG3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-3"
+          },
+          {
+            "position": 2,
+            "asin": "B0DHJC1VZ5",
+            "title": "Desert Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-128GB-Black-Titanium/dp/B0DHJC1VZ5/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-3"
+          },
+          {
+            "position": 3,
+            "asin": "B0DHJGWP9W",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-128GB-Black-Titanium/dp/B0DHJGWP9W/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-3"
+          },
+          {
+            "position": 4,
+            "asin": "B0DHJ5V1YR",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-128GB-Black-Titanium/dp/B0DHJ5V1YR/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-3"
+          }
+        ]
+      },
+      "title": "Apple iPhone 16 Pro (eSIM only), 128GB, Black Titanium - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-128GB-Black-Titanium/dp/B0FCQ39XG3/ref=sr_1_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-3",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-128GB-Black-Titanium/dp/B0FCQ39XG3/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FCQ39XG3&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51vYwEbmqPL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 2100,
+      "price": "$970.32",
+      "extracted_price": 970.32,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tue, Mar 24"
+      ],
+      "stock": "Only 9 left in stock."
+    },
+    {
+      "position": 4,
+      "asin": "B0DHJ9SCJ4",
+      "options": "3 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-Desert-Titanium-Renewed/dp/B0DHJ9SCJ4/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-4",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DHJ9SCJ4",
+            "title": "Desert Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-Desert-Titanium-Renewed/dp/B0DHJ9SCJ4/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-4"
+          },
+          {
+            "position": 2,
+            "asin": "B0DHJ896RY",
+            "title": "Black Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-Desert-Titanium-Renewed/dp/B0DHJ896RY/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-4"
+          },
+          {
+            "position": 3,
+            "asin": "B0DHHXR6ZH",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-Desert-Titanium-Renewed/dp/B0DHHXR6ZH/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-4"
+          },
+          {
+            "position": 4,
+            "asin": "B0DHHXQJQZ",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-Desert-Titanium-Renewed/dp/B0DHHXQJQZ/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-4"
+          }
+        ]
+      },
+      "title": "Apple iPhone 16 Pro Max, 256GB, Desert Titanium (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-Desert-Titanium-Renewed/dp/B0DHJ9SCJ4/ref=sr_1_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-4",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-Desert-Titanium-Renewed/dp/B0DHJ9SCJ4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DHJ9SCJ4&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61zU0mI4EsL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 1700,
+      "price": "$1,249.96",
+      "extracted_price": 1249.96,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 5,
+      "asin": "B0D9JZ2WP8",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0D9JZ2WP8",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Non-Yellowing-Shockproof-Anti-Scratch/dp/B0D9JZ2WP8/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-5"
+          },
+          {
+            "position": 2,
+            "asin": "B0D9K1P37S",
+            "title": "Black",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Non-Yellowing-Shockproof-Anti-Scratch/dp/B0D9K1P37S/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-5"
+          },
+          {
+            "position": 3,
+            "asin": "B0D9JZBQ8T",
+            "title": "Clear",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Non-Yellowing-Shockproof-Anti-Scratch/dp/B0D9JZBQ8T/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-5"
+          },
+          {
+            "position": 4,
+            "asin": "B0DRHXGC16",
+            "title": "Desert",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Non-Yellowing-Shockproof-Anti-Scratch/dp/B0DRHXGC16/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-5"
+          }
+        ]
+      },
+      "title": "JETech Case for iPhone 16 Pro 6.3-Inch, Non-Yellowing Shockproof Phone Bumper Cover, Anti-Scratch Clear Back (Natural Titanium)",
+      "link": "https://www.amazon.ca/JETech-6-3-Inch-Non-Yellowing-Shockproof-Anti-Scratch/dp/B0D9JZ2WP8/ref=sr_1_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-5",
+      "link_clean": "https://www.amazon.ca/JETech-6-3-Inch-Non-Yellowing-Shockproof-Anti-Scratch/dp/B0D9JZ2WP8/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0D9JZ2WP8&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61w2pSDDhyL._AC_UL320_.jpg",
+      "rating": 4.5,
+      "reviews": 2300,
+      "price": "$12.99",
+      "extracted_price": 12.99,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ]
+    },
+    {
+      "position": 6,
+      "asin": "B0DBL8T92L",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DBL8T92L",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/JETech-Shockproof-Protection-Translucent-Anti-Fingerprint/dp/B0DBL8T92L/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-6"
+          },
+          {
+            "position": 2,
+            "asin": "B0DBL8Z2YP",
+            "title": "Black",
+            "link": "https://www.amazon.ca/JETech-Shockproof-Protection-Translucent-Anti-Fingerprint/dp/B0DBL8Z2YP/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-6"
+          },
+          {
+            "position": 3,
+            "asin": "B0DGST7N71",
+            "title": "Desert Titanium",
+            "link": "https://www.amazon.ca/JETech-Shockproof-Protection-Translucent-Anti-Fingerprint/dp/B0DGST7N71/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-6"
+          },
+          {
+            "position": 4,
+            "asin": "B0DBL9JPJL",
+            "title": "Storm Blue",
+            "link": "https://www.amazon.ca/JETech-Shockproof-Protection-Translucent-Anti-Fingerprint/dp/B0DBL9JPJL/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-6"
+          },
+          {
+            "position": 5,
+            "asin": "B0DGSV49BR",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/JETech-Shockproof-Protection-Translucent-Anti-Fingerprint/dp/B0DGSV49BR/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-6"
+          }
+        ]
+      },
+      "title": "JETech Matte Case for iPhone 16 Pro 6.3-Inch, Shockproof Military Grade Drop Protection, Frosted Translucent Back Phone Cover, Anti-Fingerprint (Natural Titanium)",
+      "link": "https://www.amazon.ca/JETech-Shockproof-Protection-Translucent-Anti-Fingerprint/dp/B0DBL8T92L/ref=sr_1_6?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-6",
+      "link_clean": "https://www.amazon.ca/JETech-Shockproof-Protection-Translucent-Anti-Fingerprint/dp/B0DBL8T92L/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DBL8T92L&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61ELXvnWiOL._AC_UL320_.jpg",
+      "rating": 4.5,
+      "reviews": 2100,
+      "price": "$12.99",
+      "extracted_price": 12.99,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tue, Mar 24"
+      ],
+      "stock": "Only 4 left in stock.",
+      "more_buying_choices": "$3.64 (2 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0DBL8T92L/ref=sr_1_6_olp?keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&dib_tag=se&dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&qid=1774238968&sr=8-6"
+    },
+    {
+      "position": 7,
+      "asin": "B0FCFM8MCK",
+      "options": "3 sizes",
+      "options_link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFM8MCK/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-7",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0FCFM8MCK",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFM8MCK/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-7"
+          },
+          {
+            "position": 2,
+            "asin": "B0FCFQ5THQ",
+            "title": "Black",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFQ5THQ/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-7"
+          },
+          {
+            "position": 3,
+            "asin": "B0FCFNZC9H",
+            "title": "Pink",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFNZC9H/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-7"
+          },
+          {
+            "position": 4,
+            "asin": "B0FCFMJ3VQ",
+            "title": "Teal",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFMJ3VQ/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-7"
+          },
+          {
+            "position": 5,
+            "asin": "B0FCFT3YXD",
+            "title": "Ultramarine",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFT3YXD/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-7"
+          },
+          {
+            "position": 6,
+            "asin": "B0FCFNKNND",
+            "title": "Desert Titanium",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFNKNND/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-7"
+          }
+        ],
+        "more_variants": "+1",
+        "more_variants_link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFM8MCK/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-7"
+      },
+      "title": "JETech Case for iPhone 16 Pro 6.3-Inch, Camera Lens Full Protection, Soft TPU Protective Phone Cover with Matte Finish, Shockproof (Natural Titanium)",
+      "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFM8MCK/ref=sr_1_7?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-7",
+      "link_clean": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Protective-Shockproof/dp/B0FCFM8MCK/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FCFM8MCK&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51EoqkXS31L._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 418,
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "more_buying_choices": "$2.90 (2 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0FCFM8MCK/ref=sr_1_7_olp?keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&dib_tag=se&dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&qid=1774238968&sr=8-7"
+    },
+    {
+      "position": 8,
+      "asin": "B0DTJBZ5PR",
+      "options": "6 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0DTJBZ5PR/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-8",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DTJBZ5PR",
+            "title": "Black Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0DTJBZ5PR/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-8"
+          },
+          {
+            "position": 2,
+            "asin": "B0CMZ8ZBVN",
+            "title": "Blue Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0CMZ8ZBVN/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-8"
+          },
+          {
+            "position": 3,
+            "asin": "B0CMZG4M6H",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0CMZG4M6H/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-8"
+          },
+          {
+            "position": 4,
+            "asin": "B0CMZCGQDK",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0CMZCGQDK/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-8"
+          }
+        ]
+      },
+      "title": "Apple iPhone 15 Pro (eSIM only), 128GB, Black Titanium - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0DTJBZ5PR/ref=sr_1_8?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-8",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0DTJBZ5PR/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DTJBZ5PR&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/31P670UE7fL._AC_UL320_.jpg",
+      "rating": 4.1,
+      "reviews": 10,
+      "price": "$720.00",
+      "extracted_price": 720.0,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ]
+    },
+    {
+      "position": 9,
+      "asin": "B0DTJDNL7M",
+      "options": "6 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0DTJDNL7M/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-9",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DTJDNL7M",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0DTJDNL7M/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-9"
+          },
+          {
+            "position": 2,
+            "asin": "B0DTJBZ5PR",
+            "title": "Black Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0DTJBZ5PR/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-9"
+          },
+          {
+            "position": 3,
+            "asin": "B0CMZ8ZBVN",
+            "title": "Blue Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0CMZ8ZBVN/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-9"
+          },
+          {
+            "position": 4,
+            "asin": "B0CMZCGQDK",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0CMZCGQDK/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-9"
+          }
+        ]
+      },
+      "title": "Apple iPhone 15 Pro (eSIM only), 128GB, Natural Titanium - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0DTJDNL7M/ref=sr_1_9?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-9",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-15-Pro-Titanium/dp/B0DTJDNL7M/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DTJDNL7M&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61XtEcUSpzL._AC_UL320_.jpg",
+      "rating": 4.1,
+      "reviews": 10,
+      "price": "$726.92",
+      "extracted_price": 726.92,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 10,
+      "asin": "B0FCPCM5V2",
+      "options": "3 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-Plus-128GB-Black/dp/B0FCPCM5V2/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-10",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0FCPCM5V2",
+            "title": "Black",
+            "link": "https://www.amazon.ca/Apple-iPhone-Plus-128GB-Black/dp/B0FCPCM5V2/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-10"
+          },
+          {
+            "position": 2,
+            "asin": "B0DHJ86J4R",
+            "title": "Pink",
+            "link": "https://www.amazon.ca/Apple-iPhone-Plus-128GB-Black/dp/B0DHJ86J4R/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-10"
+          },
+          {
+            "position": 3,
+            "asin": "B0DHJ7F3Y4",
+            "title": "Teal",
+            "link": "https://www.amazon.ca/Apple-iPhone-Plus-128GB-Black/dp/B0DHJ7F3Y4/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-10"
+          },
+          {
+            "position": 4,
+            "asin": "B0DHJKWNC2",
+            "title": "Ultramarine",
+            "link": "https://www.amazon.ca/Apple-iPhone-Plus-128GB-Black/dp/B0DHJKWNC2/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-10"
+          },
+          {
+            "position": 5,
+            "asin": "B0DHJ4SBB5",
+            "title": "White",
+            "link": "https://www.amazon.ca/Apple-iPhone-Plus-128GB-Black/dp/B0DHJ4SBB5/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-10"
+          }
+        ]
+      },
+      "title": "Apple iPhone 16 Plus (eSIM only), 128GB, Black - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-Plus-128GB-Black/dp/B0FCPCM5V2/ref=sr_1_10?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-10",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-Plus-128GB-Black/dp/B0FCPCM5V2/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FCPCM5V2&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61YA2v3Qx2L._AC_UL320_.jpg",
+      "rating": 3.4,
+      "reviews": 3,
+      "price": "$855.90",
+      "extracted_price": 855.9,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ]
+    },
+    {
+      "position": 11,
+      "asin": "B0CMZ4FQL4",
+      "options": "3 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0CMZ4FQL4/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-11",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0CMZ4FQL4",
+            "title": "Black",
+            "link": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0CMZ4FQL4/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-11"
+          },
+          {
+            "position": 2,
+            "asin": "B0CMZDBVWT",
+            "title": "Blue",
+            "link": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0CMZDBVWT/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-11"
+          },
+          {
+            "position": 3,
+            "asin": "B0CMZD7VCV",
+            "title": "Natural",
+            "link": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0CMZD7VCV/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-11"
+          },
+          {
+            "position": 4,
+            "asin": "B0DTJFTGND",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0DTJFTGND/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-11"
+          },
+          {
+            "position": 5,
+            "asin": "B0DTJ7KJ7Y",
+            "title": "Black Titanium",
+            "link": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0DTJ7KJ7Y/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-11"
+          },
+          {
+            "position": 6,
+            "asin": "B0CMZDY2ZV",
+            "title": "White",
+            "link": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0CMZDY2ZV/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-11"
+          }
+        ],
+        "more_variants": "+2",
+        "more_variants_link": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0CMZ4FQL4/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-11"
+      },
+      "title": "Apple iPhone 15 Pro Max, 256GB, Black Titanium - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0CMZ4FQL4/ref=sr_1_11?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-11",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-256GB-Titanium-Renewed/dp/B0CMZ4FQL4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0CMZ4FQL4&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61v5Jay9F5L._AC_UL320_.jpg",
+      "rating": 3.8,
+      "reviews": 2800,
+      "bought_last_month": "50+ bought in past month",
+      "price": "$958.87",
+      "extracted_price": 958.87,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "stock": "Only 7 left in stock.",
+      "more_buying_choices": "$798.00 (9 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0CMZ4FQL4/ref=sr_1_11_olp?keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&dib_tag=se&dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&qid=1774238968&sr=8-11"
+    },
+    {
+      "position": 12,
+      "asin": "B0D9JZMNT4",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0D9JZMNT4",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Shockproof-Anti-Scratch-Titanium/dp/B0D9JZMNT4/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-12"
+          },
+          {
+            "position": 2,
+            "asin": "B0D9JYJ2CF",
+            "title": "Black",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Shockproof-Anti-Scratch-Titanium/dp/B0D9JYJ2CF/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-12"
+          },
+          {
+            "position": 3,
+            "asin": "B0DGT38PJJ",
+            "title": "Desert Titanium",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Shockproof-Anti-Scratch-Titanium/dp/B0DGT38PJJ/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-12"
+          },
+          {
+            "position": 4,
+            "asin": "B0D9K29SM7",
+            "title": "White",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Shockproof-Anti-Scratch-Titanium/dp/B0D9K29SM7/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-12"
+          }
+        ]
+      },
+      "title": "JETech Case for iPhone 16 Pro 6.3-Inch, Shockproof Phone Bumper Cover, Solid Color Matte TPU Frame, Anti-Scratch Clear Back (Natural Titanium)",
+      "link": "https://www.amazon.ca/JETech-6-3-Inch-Shockproof-Anti-Scratch-Titanium/dp/B0D9JZMNT4/ref=sr_1_12?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-12",
+      "link_clean": "https://www.amazon.ca/JETech-6-3-Inch-Shockproof-Anti-Scratch-Titanium/dp/B0D9JZMNT4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0D9JZMNT4&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61m4Z-hbieL._AC_UL320_.jpg",
+      "rating": 4.5,
+      "reviews": 1600,
+      "price": "$12.99",
+      "extracted_price": 12.99,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tue, Mar 24"
+      ]
+    },
+    {
+      "position": 13,
+      "asin": "B0D21X735P",
+      "options": "10 sizes",
+      "options_link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21X735P/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-13",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0D21X735P",
+            "title": "Matte Black",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21X735P/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-13"
+          },
+          {
+            "position": 2,
+            "asin": "B0D21N8F6P",
+            "title": "Crystal Clear",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21N8F6P/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-13"
+          },
+          {
+            "position": 3,
+            "asin": "B0D21LLNRP",
+            "title": "Frost Clear",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21LLNRP/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-13"
+          },
+          {
+            "position": 4,
+            "asin": "B0D21V6PLN",
+            "title": "Navy Blue",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21V6PLN/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-13"
+          },
+          {
+            "position": 5,
+            "asin": "B0D21Z5N8Y",
+            "title": "Red Crystal",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21Z5N8Y/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-13"
+          },
+          {
+            "position": 6,
+            "asin": "B0D21R9XST",
+            "title": "Rose Crystal",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21R9XST/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-13"
+          }
+        ],
+        "more_variants": "+5",
+        "more_variants_link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21X735P/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-13"
+      },
+      "title": "Spigen Case for iPhone 16 Pro, Ultra Hybrid [TPU Covered Camera Control], Not-Yellowing, Military-Grade Protection, Shockproof Translucent Phone Cover for iPhone 16 Pro - Matte Black",
+      "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21X735P/ref=sr_1_13?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-13",
+      "link_clean": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21X735P/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0D21X735P&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61ZQ1gSPsvL._AC_UL320_.jpg",
+      "rating": 4.5,
+      "reviews": 32100,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ]
+    },
+    {
+      "position": 14,
+      "asin": "B0FCQD86D6",
+      "options": "3 sizes",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-eSIM-only-128GB/dp/B0FCQD86D6/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-14",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0FCQD86D6",
+            "title": "Pink",
+            "link": "https://www.amazon.ca/Apple-iPhone-eSIM-only-128GB/dp/B0FCQD86D6/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-14"
+          },
+          {
+            "position": 2,
+            "asin": "B0DHJH2GZL",
+            "title": "Black",
+            "link": "https://www.amazon.ca/Apple-iPhone-eSIM-only-128GB/dp/B0DHJH2GZL/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-14"
+          },
+          {
+            "position": 3,
+            "asin": "B0DHJCYNS7",
+            "title": "Teal",
+            "link": "https://www.amazon.ca/Apple-iPhone-eSIM-only-128GB/dp/B0DHJCYNS7/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-14"
+          },
+          {
+            "position": 4,
+            "asin": "B0DHJGKNT1",
+            "title": "Ultramarine",
+            "link": "https://www.amazon.ca/Apple-iPhone-eSIM-only-128GB/dp/B0DHJGKNT1/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-14"
+          },
+          {
+            "position": 5,
+            "asin": "B0DHJBL4PB",
+            "title": "White",
+            "link": "https://www.amazon.ca/Apple-iPhone-eSIM-only-128GB/dp/B0DHJBL4PB/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-14"
+          }
+        ]
+      },
+      "title": "Apple iPhone 16 (eSIM only), 128GB, Pink - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-eSIM-only-128GB/dp/B0FCQD86D6/ref=sr_1_14?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-14",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-eSIM-only-128GB/dp/B0FCQD86D6/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FCQD86D6&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61eRjeZfOIL._AC_UL320_.jpg",
+      "rating": 3.8,
+      "reviews": 8,
+      "price": "$885.00",
+      "extracted_price": 885.0,
+      "delivery": [
+        "FREE delivery Mar 26 - 30"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 15,
+      "asin": "B0DGSZVRKT",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DGSZVRKT",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protectors-Non-Yellowing-Shockproof/dp/B0DGSZVRKT/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-15"
+          },
+          {
+            "position": 2,
+            "asin": "B0D9YKFM47",
+            "title": "Black",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protectors-Non-Yellowing-Shockproof/dp/B0D9YKFM47/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-15"
+          },
+          {
+            "position": 3,
+            "asin": "B0D9YKWBFV",
+            "title": "Clear",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protectors-Non-Yellowing-Shockproof/dp/B0D9YKWBFV/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-15"
+          }
+        ]
+      },
+      "title": "JETech 5 in 1 Case for iPhone 16 Pro 6.3-Inch with 2 Pack Each Tempered Glass Screen Protectors and Camera Lens Protectors, Non-Yellowing Shockproof Bumper Phone Cover (Natural Titanium)",
+      "link": "https://www.amazon.ca/JETech-6-3-Inch-Protectors-Non-Yellowing-Shockproof/dp/B0DGSZVRKT/ref=sr_1_15?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-15",
+      "link_clean": "https://www.amazon.ca/JETech-6-3-Inch-Protectors-Non-Yellowing-Shockproof/dp/B0DGSZVRKT/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DGSZVRKT&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71HpAF49+QL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 959,
+      "price": "$15.98",
+      "extracted_price": 15.98,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "more_buying_choices": "$7.18 (3 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0DGSZVRKT/ref=sr_1_15_olp?keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&dib_tag=se&dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&qid=1774238968&sr=8-15"
+    },
+    {
+      "position": 16,
+      "asin": "B0D21W8ZDB",
+      "options": "10 sizes",
+      "options_link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21W8ZDB/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-16",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0D21W8ZDB",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21W8ZDB/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-16"
+          },
+          {
+            "position": 2,
+            "asin": "B0D21N8F6P",
+            "title": "Crystal Clear",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21N8F6P/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-16"
+          },
+          {
+            "position": 3,
+            "asin": "B0D21LLNRP",
+            "title": "Frost Clear",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21LLNRP/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-16"
+          },
+          {
+            "position": 4,
+            "asin": "B0D21X735P",
+            "title": "Matte Black",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21X735P/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-16"
+          },
+          {
+            "position": 5,
+            "asin": "B0D21V6PLN",
+            "title": "Navy Blue",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21V6PLN/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-16"
+          },
+          {
+            "position": 6,
+            "asin": "B0D21Z5N8Y",
+            "title": "Red Crystal",
+            "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21Z5N8Y/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-16"
+          }
+        ],
+        "more_variants": "+5",
+        "more_variants_link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21W8ZDB/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-16"
+      },
+      "title": "Spigen Case for iPhone 16 Pro, Ultra Hybrid [TPU Covered Camera Control], Not-Yellowing, Military-Grade Protection, Shockproof Translucent Phone Cover for iPhone 16 Pro - Natural Titanium",
+      "link": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21W8ZDB/ref=sr_1_16?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-16",
+      "link_clean": "https://www.amazon.ca/Spigen-Not-Yellowing-Military-Grade-Protection-Translucent/dp/B0D21W8ZDB/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0D21W8ZDB&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61xNPGobdGL._AC_UL320_.jpg",
+      "rating": 4.5,
+      "reviews": 32100,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ]
+    },
+    {
+      "position": 17,
+      "asin": "B0DGSH61KB",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DGSH61KB",
+            "title": "White Titanium",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Lightweight-Minimalist/dp/B0DGSH61KB/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-17"
+          },
+          {
+            "position": 2,
+            "asin": "B0D9YJWQTW",
+            "title": "Black",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Lightweight-Minimalist/dp/B0D9YJWQTW/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-17"
+          },
+          {
+            "position": 3,
+            "asin": "B0DNFJ2YCV",
+            "title": "Clear",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Lightweight-Minimalist/dp/B0DNFJ2YCV/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-17"
+          },
+          {
+            "position": 4,
+            "asin": "B0DGSN8T16",
+            "title": "Desert Titanium",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Lightweight-Minimalist/dp/B0DGSN8T16/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-17"
+          },
+          {
+            "position": 5,
+            "asin": "B0D9YJ2GPN",
+            "title": "Frosted Clear",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Lightweight-Minimalist/dp/B0D9YJ2GPN/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-17"
+          },
+          {
+            "position": 6,
+            "asin": "B0D9YJJ6GQ",
+            "title": "Natural Titanium",
+            "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Lightweight-Minimalist/dp/B0D9YJJ6GQ/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-17"
+          }
+        ]
+      },
+      "title": "JETech Ultra Slim Case for iPhone 16 Pro 6.3-Inch, Camera Lens Full Protection, Lightweight Matte Finish PP Hard Minimalist Cover (White Titanium)",
+      "link": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Lightweight-Minimalist/dp/B0DGSH61KB/ref=sr_1_17?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-17",
+      "link_clean": "https://www.amazon.ca/JETech-6-3-Inch-Protection-Lightweight-Minimalist/dp/B0DGSH61KB/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DGSH61KB&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51SZeCpN-KL._AC_UL320_.jpg",
+      "rating": 3.8,
+      "reviews": 1400,
+      "price": "$12.99",
+      "extracted_price": 12.99,
+      "delivery": [
+        "FREE delivery Thu, Mar 26 on your first order",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ]
+    },
+    {
+      "position": 18,
+      "asin": "B0DJG59MYX",
+      "options": "5 sizes",
+      "options_link": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0DJG59MYX/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-18",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0DJG59MYX",
+            "title": "Frost Natural Titanium T",
+            "link": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0DJG59MYX/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-18"
+          },
+          {
+            "position": 2,
+            "asin": "B0D43ZRP2Y",
+            "title": "Black",
+            "link": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0D43ZRP2Y/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-18"
+          },
+          {
+            "position": 3,
+            "asin": "B0D222735M",
+            "title": "Carbon Fiber",
+            "link": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0D222735M/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-18"
+          },
+          {
+            "position": 4,
+            "asin": "B0D21YVT9X",
+            "title": "Clear Graphite",
+            "link": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0D21YVT9X/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-18"
+          },
+          {
+            "position": 5,
+            "asin": "B0D21RPDX4",
+            "title": "Clear White",
+            "link": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0D21RPDX4/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-18"
+          },
+          {
+            "position": 6,
+            "asin": "B0D21XY884",
+            "title": "Zero One Black",
+            "link": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0D21XY884/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-18"
+          }
+        ],
+        "more_variants": "+19",
+        "more_variants_link": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0DJG59MYX/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-18"
+      },
+      "title": "Spigen Case for iPhone 16 Pro Case, Ultra Hybrid T [MagFit] Designed for Apple iPhone 16 Pro - Frost Natural Titanium T",
+      "link": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0DJG59MYX/ref=sr_1_18?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-18",
+      "link_clean": "https://www.amazon.ca/Spigen-Control-Coverage-Compatible-MagSafe/dp/B0DJG59MYX/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DJG59MYX&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61BTU2vLs-L._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 17200,
+      "price": "$25.99",
+      "extracted_price": 25.99,
+      "delivery": [
+        "FREE delivery Sun, Mar 29 on your first order",
+        "Or fastest delivery Thu, Mar 26"
+      ]
+    },
+    {
+      "position": 19,
+      "asin": "B0F4RM7Y2L",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-16e-128GB-Black/dp/B0F4RM7Y2L/ref=sr_1_19_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-19",
+      "title": "Apple iPhone 16e, 128GB, eSIM, Black - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-16e-128GB-Black/dp/B0F4RM7Y2L/ref=sr_1_19?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-19",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-16e-128GB-Black/dp/B0F4RM7Y2L/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0F4RM7Y2L&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51H8+zCj2cL._AC_UL320_.jpg",
+      "rating": 4.6,
+      "reviews": 443,
+      "bought_last_month": "50+ bought in past month",
+      "price": "$650.97",
+      "extracted_price": 650.97,
+      "delivery": [
+        "FREE delivery Mar 25 - 26"
+      ],
+      "stock": "Only 3 left in stock.",
+      "more_buying_choices": "$527.96 (13 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0F4RM7Y2L/ref=sr_1_19_olp?keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&dib_tag=se&dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&qid=1774238968&sr=8-19"
+    },
+    {
+      "position": 20,
+      "asin": "B0FS9VWGJ9",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-Global-Unlocked-Renewed/dp/B0FS9VWGJ9/ref=sr_1_20_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-20",
+      "title": "Apple iPhone 17 Pro, 1TB, SIM Global, Deep Blue- Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-Global-Unlocked-Renewed/dp/B0FS9VWGJ9/ref=sr_1_20?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-20",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-Global-Unlocked-Renewed/dp/B0FS9VWGJ9/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0FS9VWGJ9&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/41UC+KWgE6L._AC_UL320_.jpg",
+      "rating": 4.0,
+      "reviews": 45,
+      "price": "$1,959.96",
+      "extracted_price": 1959.96,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 21,
+      "asin": "B0F4RKF838",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-16e-256GB-Renewed/dp/B0F4RKF838/ref=sr_1_21_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-21",
+      "title": "Apple iPhone 16e, 256GB, eSIM, Black (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-16e-256GB-Renewed/dp/B0F4RKF838/ref=sr_1_21?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-21",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-16e-256GB-Renewed/dp/B0F4RKF838/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0F4RKF838&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/41OFdaA548L._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 44,
+      "price": "$744.99",
+      "extracted_price": 744.99,
+      "delivery": [
+        "FREE delivery Fri, Mar 27"
+      ],
+      "stock": "Only 2 left in stock.",
+      "more_buying_choices": "$699.99 (3 new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0F4RKF838/ref=sr_1_21_olp?keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&dib_tag=se&dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&qid=1774238968&sr=8-21"
+    },
+    {
+      "position": 22,
+      "asin": "B0F4RKW2LS",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-128GB-eSIM-White/dp/B0F4RKW2LS/ref=sr_1_22_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-22",
+      "title": "Apple iPhone 16e, 128GB, eSIM, White - Unlocked (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-128GB-eSIM-White/dp/B0F4RKW2LS/ref=sr_1_22?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-22",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-128GB-eSIM-White/dp/B0F4RKW2LS/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0F4RKW2LS&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Zsers1VBL._AC_UL320_.jpg",
+      "rating": 4.4,
+      "reviews": 161,
+      "price": "$630.20",
+      "extracted_price": 630.2,
+      "delivery": [
+        "FREE delivery Fri, Mar 27"
+      ],
+      "stock": "Only 6 left in stock.",
+      "more_buying_choices": "$587.81 (7 used & new offers)",
+      "more_buying_choices_link": "https://www.amazon.ca/gp/offer-listing/B0F4RKW2LS/ref=sr_1_22_olp?keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&dib_tag=se&dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&qid=1774238968&sr=8-22"
+    },
+    {
+      "position": 23,
+      "asin": "B0DGHH7S34",
+      "title": "Apple iPhone 16 Pro Clear Case with MagSafe \u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+      "link": "https://www.amazon.ca/Apple-iPhone-Clear-Case-MagSafe/dp/B0DGHH7S34/ref=sr_1_23?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-23",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-Clear-Case-MagSafe/dp/B0DGHH7S34/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DGHH7S34&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71vZ5g0-+uL._AC_UL320_.jpg",
+      "rating": 4.3,
+      "reviews": 1300,
+      "price": "$69.00",
+      "extracted_price": 69.0,
+      "delivery": [
+        "FREE delivery Sun, Mar 29",
+        "Or fastest delivery Wed, Mar 25"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 24,
+      "asin": "B0D6GXB3XG",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Swarovski-High-Smartphone-iPhone%C2%AE-Silver/dp/B0D6GXB3XG/ref=sr_1_24_so_CELLULAR_PHONE_CASE?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-24",
+      "title": "Swarovski High Smartphone Case, iPhone 16 Pro, Silver Tone",
+      "link": "https://www.amazon.ca/Swarovski-High-Smartphone-iPhone%C2%AE-Silver/dp/B0D6GXB3XG/ref=sr_1_24?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-24",
+      "link_clean": "https://www.amazon.ca/Swarovski-High-Smartphone-iPhone%C2%AE-Silver/dp/B0D6GXB3XG/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0D6GXB3XG&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/91VtSnXyBCL._AC_UL320_.jpg"
+    },
+    {
+      "position": 25,
+      "asin": "B0F4XSBTKJ",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/Apple-iPhone-512GB-Black-Renewed/dp/B0F4XSBTKJ/ref=sr_1_25_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-25",
+      "title": "Apple iPhone 16e, 512GB, Black (Renewed)",
+      "link": "https://www.amazon.ca/Apple-iPhone-512GB-Black-Renewed/dp/B0F4XSBTKJ/ref=sr_1_25?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-25",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-512GB-Black-Renewed/dp/B0F4XSBTKJ/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0F4XSBTKJ&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51H8+zCj2cL._AC_UL320_.jpg",
+      "rating": 4.7,
+      "reviews": 4,
+      "price": "$859.96",
+      "extracted_price": 859.96,
+      "delivery": [
+        "FREE delivery Thu, Mar 26",
+        "Or fastest delivery Tomorrow, Mar 23"
+      ],
+      "stock": "Only 1 left in stock."
+    },
+    {
+      "position": 26,
+      "asin": "B0F3462699",
+      "options": "5 sizes",
+      "options_link": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0F3462699/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-26",
+      "variants": {
+        "options": [
+          {
+            "position": 1,
+            "asin": "B0F3462699",
+            "title": "C11 Sephiroth",
+            "link": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0F3462699/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-26"
+          },
+          {
+            "position": 2,
+            "asin": "B0DTXP4FBS",
+            "title": "Black / Black",
+            "link": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0DTXP4FBS/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-26"
+          },
+          {
+            "position": 3,
+            "asin": "B0DLJFWRQ9",
+            "title": "C11 Chronos",
+            "link": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0DLJFWRQ9/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-26"
+          },
+          {
+            "position": 4,
+            "asin": "B0DRB9KDVY",
+            "title": "C11 Fearless",
+            "link": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0DRB9KDVY/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-26"
+          },
+          {
+            "position": 5,
+            "asin": "B0DTXMPGF6",
+            "title": "C11 Fl\u00e2neur",
+            "link": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0DTXMPGF6/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-26"
+          },
+          {
+            "position": 6,
+            "asin": "B0FF7V6H6Y",
+            "title": "C11 Huntington",
+            "link": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0FF7V6H6Y/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-26"
+          }
+        ],
+        "more_variants": "+11",
+        "more_variants_link": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0F3462699/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-26"
+      },
+      "title": "Spigen Case for iPhone 16 Pro Case, Ultra Hybrid T [MagFit] Designed for Apple iPhone 16 Pro - c11 Sephiroth",
+      "link": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0F3462699/ref=sr_1_26?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-26",
+      "link_clean": "https://www.amazon.ca/Spigen-iPhone-Hybrid-MagFit-Designed/dp/B0F3462699/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0F3462699&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/81VsdJqcksL._AC_UL320_.jpg",
+      "rating": 4.6,
+      "reviews": 716,
+      "price": "$27.99",
+      "extracted_price": 27.99,
+      "delivery": [
+        "FREE delivery Sun, Mar 29 on your first order",
+        "Or fastest delivery Tue, Mar 24"
+      ]
+    },
+    {
+      "position": 27,
+      "asin": "B0F7XD2B5M",
+      "options": "See options",
+      "options_link": "https://www.amazon.ca/ETLKJVBL-iPhone-16-Pro-Shockproof/dp/B0F7XD2B5M/ref=sr_1_27_so_CELLULAR_PHONE_CASE?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-27",
+      "title": "for iPhone 16 Pro Case, Shelf Filled with Books Hybrid 2-Layer Hard Shell with Shockproof Silicone, Dual-Layer Protective Case for iPhone 16 Pro",
+      "link": "https://www.amazon.ca/ETLKJVBL-iPhone-16-Pro-Shockproof/dp/B0F7XD2B5M/ref=sr_1_27?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-27",
+      "link_clean": "https://www.amazon.ca/ETLKJVBL-iPhone-16-Pro-Shockproof/dp/B0F7XD2B5M/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0F7XD2B5M&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/71D8ny2ufnL._AC_UL320_.jpg",
+      "rating": 5.0,
+      "reviews": 1,
+      "delivery": [
+        "Currently unavailable."
+      ]
+    },
+    {
+      "position": 28,
+      "asin": "B0F4RJN1DD",
+      "title": "Apple iPhone 16e 2025 | 6.1\" OLED, 8GB RAM, A18 Processor, Fully Unlocked for Global | Dual eSIM Only (Renewed) (Black, 512, GB)",
+      "link": "https://www.amazon.ca/Apple-iPhone-16e-Processor-Unlocked/dp/B0F4RJN1DD/ref=sr_1_28?dib=eyJ2IjoiMSJ9.9OSiRow7lpa9fAnFscBzhmSaRZ8_sljZEPnCvpSjhVk28ns3GhVrbZOQ9NfkI9Qi_ROuSNY_h5A9h9lyZ0zz-7yC5FaUDJQSeG2TgW53WTzICgjo6AEvic8QmpQJ7KB7L4wHGQFs5MXCmJwTmfcStTrHMAf6yY2FOn67-2WxfD2U9QtXzLSC2BUL80dqtjspoZCaWIZ85aGlnMVomMMDMtPjbRgmN3eHJ5H7m4dzLiMcz3BXjjFGGEwKM6wlUL038YGso6tgvh2qJCp990S6fV9rsoNSDEo-LNaKvUnwFSA.1xboao3wNETXaLuZU9TA8DOUsRczsQ2ZZIQ-EP4mFr8&dib_tag=se&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&qid=1774238968&sr=8-28",
+      "link_clean": "https://www.amazon.ca/Apple-iPhone-16e-Processor-Unlocked/dp/B0F4RJN1DD/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0F4RJN1DD&device=desktop&engine=amazon_product",
+      "thumbnail": "https://m.media-amazon.com/images/I/51H8+zCj2cL._AC_UL320_.jpg",
+      "rating": 3.8,
+      "reviews": 9
+    }
+  ],
+  "video_results": [
+    {
+      "block_position": "top",
+      "video_thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0db7e4bb-6c1e-4fbc-a65f-3dffea936eb8.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG",
+      "video_src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0db7e4bb-6c1e-4fbc-a65f-3dffea936eb8.mp4/productVideoOptimized.mp4",
+      "video_link": "https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JPPoGsz115Yi6vKUiQnXU3AAAAGdGOIsoQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICDRBu5l/clv1c_ek-ABYHXasbWXs4mo2oI_USOcCGjbKA7uodjLtfHVCn0DjY2LKJkoppMOuMEbLyN0_yDuYjZM8jBFoJP92TRoTxThfaJEmNvMd-vT2ARbe66m9fzJ64H5ZSCon91rqrhd7v6rdo9A1xfeKQ3TvZ1bvKR1du2NtXrkcAQ6j2ulMZ8W24OEiiF426h5dTFPXN-NSwv3j5X_c-olWT4uj7G5zIDi3f1FgZefLz6Sln3bRqyJFuVLzD1VWriA2qaF2GSOxtQNQjB-E-Z3U1Ay5_qf7I35HMBSku1GVJJuWzD1JyCEXl_WnCI5RRVEEeDmSMFNEwGkR0QKrSdehMoG3Qy2auIS_itGoXXEqFQZLNQXchymkZHxJE_vLeA3-7-0-r0Suw76LUel79JrBydqmZP79UWGkhINYu31z675rV_q7_x3pfYWppcoG4TjdxGF6WeQrlVD7E8Part3l4pvBtHISd3y_A8IncQMnOD0UkT1mkaLPOBaJm6jQKT5i3GwJlPWakRpqV6FFK1kfiqfy7Yt54JnWlEo9PahymVmk9mTvVA01ChtMfMcNKYa4gNm5IpZ7JXpQEDZblz22Q4k-TprSqAJExDhkx9P2L8urKMgKCHWHJoPiM6A85k3sRvboLESMuk_2nU2OXnpVTpf6cixLUkoR8A0td1I_Cosps4mJ1WH6PymZ02kOl82yw-pce6ml1KuR9GntGQNr2I-cEZ2ffP0K8pLLpiTcDA549bB4PEPqVP8-Owa_RVO2m4HywcxlaC3xu3rualAQBtRxja229DmF9iKj6xx72reH9LUMD20rFrdostDRajuBcR2SWLuSsaBV3ohMCt2q1OJw8xFEGV7bJ3r7I5pjqGe21Y3Kha8hbAqDtkQIc31PrP4dz03WyprKgsWEYZ3gpKBDXyrh3i0myOPXcYvfvLDd7-hgkrifOSvuA9A3bQ_OIsTiQbH2Iv-NwlybpVWnVMZLiIgv8qrem0rfun0jDCRiBbBEO_MF4kTsx-eAVNUPCFkpHLQQGW3HhX3y1XQC9w_tmeshGsKUQll0763IUYY4gIh-c-2loEm6qj0biwT3IC-rdp6dn-NymeCWWhNnINpQzcaBz8WzzGhOegspvdH2FzSDtBxfqYMgTjE94GKE5uSJ7psrE-FkdkbtC2rO_gI8CKBWjlt_Vtc6NZsyqEfYDs1LB-fu34ySnl-NYmTA4WWX3PoNbkftyTqv2x7Pb3ODVyMsHyZeJFIxy1Q-yK8dOp85nmaFgWBcmeE7MlArqcTa7pKwH5S3oHke7tAJqzU6ymxLN9qwS_z9D4uqtqPuMVLa0V8R6M8nOfznO7B7In6LNpqip7K3uAuCeLv8YTJabMeh_NlyNt32pKo910gFJZr5sJdmlvPfeu9msQiZyYquRixI-KVj2FhJlBoNM99FakmJsI0Nt4u6d_TyS3I5nKOH5iGsOrMOHud6RtFAGwEneDYhAgDfXbHHqBuczAGZidEMZSX4dwc2cHBlAjNcHs8Y9_WRMe2ctC47UsSjyLIMyNqSnj3E6vtYy5222XslLy6Bl365_iempSag/https://www.amazon.ca/dp/B0F92QBR6Z?pd_rd_i=B0F92QBR6Z&pf_rd_p=205ba71d-bfbe-4ab5-b1d2-ad245ff8f034&pf_rd_r=TNH5EK166RG58Y2VQB55&pd_rd_wg=M4W8S&pd_rd_w=nNjK4&pd_rd_r=c8ac90ac-b5c9-4f9f-a5ae-3dbd43337b56",
+      "products": [
+        {
+          "position": 1,
+          "asin": "B0F92QBR6Z",
+          "sponsored": true,
+          "title": "[Upgraded] VOFATA for iPhone 16 Pro Case with Camera Cover Stand [Fit for MagSafe][9H Camera Lens Protector] Mil-Grade Protection Transparent Magnetic iPhone 16 Pro Phone Case, Clear",
+          "link": "https://aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JPPoGsz115Yi6vKUiQnXU3AAAAGdGOIsoQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICDRBu5l/clv1c_ek-ABYHXasbWXs4mo2oI_USOcCGjbKA7uodjLtfHVCn0DjY2LKJkoppMOuMEbLyN0_yDuYjZM8jBFoJP92TRoTxThfaJEmNvMd-vT2ARbe66m9fzJ64H5ZSCon91rqrhd7v6rdo9A1xfeKQ3TvZ1bvKR1du2NtXrkcAQ6j2ulMZ8W24OEiiF426h5dTFPXN-NSwv3j5X_c-olWT4uj7G5zIDi3f1FgZefLz6Sln3bRqyJFuVLzD1VWriA2qaF2GSOxtQNQjB-E-Z3U1Ay5_qf7I35HMBSku1GVJJuWzD1JyCEXl_WnCI5RRVEEeDmSMFNEwGkR0QKrSdehMoG3Qy2auIS_itGoXXEqFQZLNQXchymkZHxJE_vLeA3-7-0-r0Suw76LUel79JrBydqmZP79UWGkhINYu31z675rV_q7_x3pfYWppcoG4TjdxGF6WeQrlVD7E8Part3l4pvBtHISd3y_A8IncQMnOD0UkT1mkaLPOBaJm6jQKT5i3GwJlPWakRpqV6FFK1kfiqfy7Yt54JnWlEo9PahymVmk9mTvVA01ChtMfMcNKYa4gNm5IpZ7JXpQEDZblz22Q4k-TprSqAJExDhkx9P2L8urKMgKCHWHJoPiM6A85k3sRvboLESMuk_2nU2OXnpVTpf6cixLUkoR8A0td1I_Cosps4mJ1WH6PymZ02kOl82yw-pce6ml1KuR9GntGQNr2I-cEZ2ffP0K8pLLpiTcDA549bB4PEPqVP8-Owa_RVO2m4HywcxlaC3xu3rualAQBtRxja229DmF9iKj6xx72reH9LUMD20rFrdostDRajuBcR2SWLuSsaBV3ohMCt2q1OJw8xFEGV7bJ3r7I5pjqGe21Y3Kha8hbAqDtkQIc31PrP4dz03WyprKgsWEYZ3gpKBDXyrh3i0myOPXcYvfvLDd7-hgkrifOSvuA9A3bQ_OIsTiQbH2Iv-NwlybpVWnVMZLiIgv8qrem0rfun0jDCRiBbBEO_MF4kTsx-eAVNUPCFkpHLQQGW3HhX3y1XQC9w_tmeshGsKUQll0763IUYY4gIh-c-2loEm6qj0biwT3IC-rdp6dn-NymeCWWhNnINpQzcaBz8WzzGhOegspvdH2FzSDtBxfqYMgTjE94GKE5uSJ7psrE-FkdkbtC2rO_gI8CKBWjlt_Vtc6NZsyqEfYDs1LB-fu34ySnl-NYmTA4WWX3PoNbkftyTqv2x7Pb3ODVyMsHyZeJFIxy1Q-yK8dOp85nmaFgWBcmeE7MlArqcTa7pKwH5S3oHke7tAJqzU6ymxLN9qwS_z9D4uqtqPuMVLa0V8R6M8nOfznO7B7In6LNpqip7K3uAuCeLv8YTJabMeh_NlyNt32pKo910gFJZr5sJdmlvPfeu9msQiZyYquRixI-KVj2FhJlBoNM99FakmJsI0Nt4u6d_TyS3I5nKOH5iGsOrMOHud6RtFAGwEneDYhAgDfXbHHqBuczAGZidEMZSX4dwc2cHBlAjNcHs8Y9_WRMe2ctC47UsSjyLIMyNqSnj3E6vtYy5222XslLy6Bl365_iempSag/https://www.amazon.ca/VOFATA-Protector-Mil-Grade-Protection-Transparent/dp/B0F92QBR6Z/ref=sxin_24_sbv_search_btf?content-id=amzn1.sym.205ba71d-bfbe-4ab5-b1d2-ad245ff8f034%3Aamzn1.sym.205ba71d-bfbe-4ab5-b1d2-ad245ff8f034&cv_ct_cx=iPhone+16+Pro+expensive+overpriced+worth+it+premium&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&pd_rd_i=B0F92QBR6Z&pd_rd_r=c8ac90ac-b5c9-4f9f-a5ae-3dbd43337b56&pd_rd_w=nNjK4&pd_rd_wg=M4W8S&pf_rd_p=205ba71d-bfbe-4ab5-b1d2-ad245ff8f034&pf_rd_r=TNH5EK166RG58Y2VQB55&qid=1774238968&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776",
+          "link_clean": "https://www.amazon.ca/dp/B0F92QBR6Z/",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0F92QBR6Z&device=desktop&engine=amazon_product",
+          "thumbnail": "https://m.media-amazon.com/images/I/8189wCPOffL._AC_UL640_QL65_.jpg",
+          "rating": 4.0,
+          "reviews": 1900,
+          "price": "$29.99",
+          "extracted_price": 29.99,
+          "delivery": [
+            "FREE delivery Thu, Mar 26 on your first order",
+            "Or fastest delivery Tomorrow, Mar 23"
+          ]
+        }
+      ]
+    },
+    {
+      "block_position": "bottom",
+      "video_thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e235a5c3-7bb2-4789-8883-4e823645c5cf.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG",
+      "video_src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e235a5c3-7bb2-4789-8883-4e823645c5cf.mp4/productVideoOptimized.mp4",
+      "video_link": "https://aax-us-east-retail-direct.amazon.com/x/c/JJW3seYo7L7gLpzfXgYRzB8AAAGdGOIsqQEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICBkDSOo/clv1c_ek-wxfXXbcbSTdXYV5soheGk3qjZG5jJf8LvWuepO6OvLURFMOQw1vlgqpjxOIsMYu0wL8N6Y6AoS6jX-n8viLbQ4Qx3LyZcUGweJiDYZOZmnsXBXkw4Pal86vQUdtNxgnyabEjYZvsWtAasnEzmMF36INWShvXqkVD9xium7BaeXW4nynbhRx9do4sbxO4pDegI_Bkud-eolWU0s0ngGmyVWg-_QQyUdAfFCxWHlgqdpLnTsqkDhhrMHUh3EeXjOHILGF5hwyiYCcemv2tzoBIfdWsWnzNz45CNVy8QWDuICuKzbPGbVnIbQCVnPlO0TM8w29m7AvP62W_KCVr6sd_lMNwErRR51fJMYfYfK06j5C5bwfnF7NfqJhkRT2hXYDWjAfN_seZKkLeSj0c4Y68_o9Gme2p2muoI7PB-KijtDui183dzZ-FQqCmNydrIX2uZ6GNKf5AZQIgCApXSeXIAF8hkMovjmxoEm8NjJQlwasGngsqNdIUlg7PJOoExrtQFCICjO-rr_vLwvgQH4NQtJh2hDVcuN6groZkBNBEAH3uI54u-yV9S4HXJPT1Rqx06XLAIqVnydnYOxc4Lq1j7KG6rltC0EouEOWobpoqPJCTR3dVz3KSQT-V9V6FHSqHX8hGYu9HGMhYf5-zS7gjQYFiwKdmIBYg36D7Q5053FRCGi-FzHrGdwS3rBr0m92nDJd5bcb2OIUJT4g0WU7STvj4STZVGnLsVKOh63Bkddi3tcUHmZuK-A_3lCiipjiGwy7M6ssbWGI_ZbeOFPg4HpsmnoDBpRmaePtsmski7vHWnOG7Zgo48WRS9p3k1Ok5NDcU_p2IIMaw9XGnIh5OjOe4dVEB4Tmfo_PqiZ6j46t-I-AGCzy40wVk8lcEOTjNQDZFIxXuzmiF5r2VwOGiEgrcfxVWv88x26osp6DBEFFRC3TB4a20vB4lC0P3Emy-o6ReIFQrM5fECfnuM0YQ-W5yrGGQKGsSARpKKwz9ffLB6W4bDaWnjJyiq8fGzOD869Dly8kwwKVssoyw7m4QcrPgp1OTYJ6IzqdLWX2GBmGGBTfPM4UUn46OJ3CSDe9Scf4i9jDePBT-BEP2iSQbBCBH2HCtOUkyb1an028Vx_lI3DOya-oTIjA7uIRDgrEbG-jybPsJljXZH5jQBlXg21lVM45t3UuE8JF9LVES88VUA-kDp6Adj-C7AQr6Gn-Oy7NzYry-15qXrJY_SlZYnRcnu32PAGPH2UEL9JxXUhLUSRaLiVcWlzQbBSq6UUufL2Amo7obl1usXWLcDBhaPySSu3i3jCHMvLAxdlBFeROf63RjG9ziJ49jC3VJVxBclQhvM1xRazno3fhYAa7f5Omhs6bIK7bvZgKikp8Bfhj9ueA9ZbVoF8hqeXeFGd6k99Y2Ot9YZzPXv3Hi9w5VZh1Mhku5znxOPIuVhRr-Cir6w0CGbYFfy6-9WZlFE75MEkRy747Laab591179TUq4dIchEye7Vtb6KYp7WUKp8JQoxWm_FLdqo72ARLRt--l7yIouLGS_JA-rJRNxdD2eI8oWDcQ_Vlj7CZqPH6w/https://www.amazon.ca/dp/B0DBLW3HHQ?pd_rd_i=B0DBLW3HHQ&pf_rd_p=14cb1c31-71fa-417e-9294-d37ef6518474&pf_rd_r=TNH5EK166RG58Y2VQB55&pd_rd_wg=0OGL6&pd_rd_w=MXLwh&pd_rd_r=3a1e6c99-e60f-4c0d-a137-cecbe50f2d2f",
+      "products": [
+        {
+          "position": 1,
+          "asin": "B0DBLW3HHQ",
+          "sponsored": true,
+          "title": "Hoerrye for iPhone 16 Pro Max/iPhone 16 Pro Camera Lens Protector [1:1 Keep Original Lens Design \uff06 10X shatterproof] TOP 9H+ Tempered Glass Camera Cover Accessories Case Friendly,Gold",
+          "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JJW3seYo7L7gLpzfXgYRzB8AAAGdGOIsqQEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDIgICBkDSOo/clv1c_ek-wxfXXbcbSTdXYV5soheGk3qjZG5jJf8LvWuepO6OvLURFMOQw1vlgqpjxOIsMYu0wL8N6Y6AoS6jX-n8viLbQ4Qx3LyZcUGweJiDYZOZmnsXBXkw4Pal86vQUdtNxgnyabEjYZvsWtAasnEzmMF36INWShvXqkVD9xium7BaeXW4nynbhRx9do4sbxO4pDegI_Bkud-eolWU0s0ngGmyVWg-_QQyUdAfFCxWHlgqdpLnTsqkDhhrMHUh3EeXjOHILGF5hwyiYCcemv2tzoBIfdWsWnzNz45CNVy8QWDuICuKzbPGbVnIbQCVnPlO0TM8w29m7AvP62W_KCVr6sd_lMNwErRR51fJMYfYfK06j5C5bwfnF7NfqJhkRT2hXYDWjAfN_seZKkLeSj0c4Y68_o9Gme2p2muoI7PB-KijtDui183dzZ-FQqCmNydrIX2uZ6GNKf5AZQIgCApXSeXIAF8hkMovjmxoEm8NjJQlwasGngsqNdIUlg7PJOoExrtQFCICjO-rr_vLwvgQH4NQtJh2hDVcuN6groZkBNBEAH3uI54u-yV9S4HXJPT1Rqx06XLAIqVnydnYOxc4Lq1j7KG6rltC0EouEOWobpoqPJCTR3dVz3KSQT-V9V6FHSqHX8hGYu9HGMhYf5-zS7gjQYFiwKdmIBYg36D7Q5053FRCGi-FzHrGdwS3rBr0m92nDJd5bcb2OIUJT4g0WU7STvj4STZVGnLsVKOh63Bkddi3tcUHmZuK-A_3lCiipjiGwy7M6ssbWGI_ZbeOFPg4HpsmnoDBpRmaePtsmski7vHWnOG7Zgo48WRS9p3k1Ok5NDcU_p2IIMaw9XGnIh5OjOe4dVEB4Tmfo_PqiZ6j46t-I-AGCzy40wVk8lcEOTjNQDZFIxXuzmiF5r2VwOGiEgrcfxVWv88x26osp6DBEFFRC3TB4a20vB4lC0P3Emy-o6ReIFQrM5fECfnuM0YQ-W5yrGGQKGsSARpKKwz9ffLB6W4bDaWnjJyiq8fGzOD869Dly8kwwKVssoyw7m4QcrPgp1OTYJ6IzqdLWX2GBmGGBTfPM4UUn46OJ3CSDe9Scf4i9jDePBT-BEP2iSQbBCBH2HCtOUkyb1an028Vx_lI3DOya-oTIjA7uIRDgrEbG-jybPsJljXZH5jQBlXg21lVM45t3UuE8JF9LVES88VUA-kDp6Adj-C7AQr6Gn-Oy7NzYry-15qXrJY_SlZYnRcnu32PAGPH2UEL9JxXUhLUSRaLiVcWlzQbBSq6UUufL2Amo7obl1usXWLcDBhaPySSu3i3jCHMvLAxdlBFeROf63RjG9ziJ49jC3VJVxBclQhvM1xRazno3fhYAa7f5Omhs6bIK7bvZgKikp8Bfhj9ueA9ZbVoF8hqeXeFGd6k99Y2Ot9YZzPXv3Hi9w5VZh1Mhku5znxOPIuVhRr-Cir6w0CGbYFfy6-9WZlFE75MEkRy747Laab591179TUq4dIchEye7Vtb6KYp7WUKp8JQoxWm_FLdqo72ARLRt--l7yIouLGS_JA-rJRNxdD2eI8oWDcQ_Vlj7CZqPH6w/https://www.amazon.ca/Hoerrye-iPhone-Camera-Lens-Protector/dp/B0DBLW3HHQ/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.14cb1c31-71fa-417e-9294-d37ef6518474%3Aamzn1.sym.14cb1c31-71fa-417e-9294-d37ef6518474&cv_ct_cx=iPhone+16+Pro+expensive+overpriced+worth+it+premium&keywords=iPhone+16+Pro+expensive+overpriced+worth+it+premium&pd_rd_i=B0DBLW3HHQ&pd_rd_r=3a1e6c99-e60f-4c0d-a137-cecbe50f2d2f&pd_rd_w=MXLwh&pd_rd_wg=0OGL6&pf_rd_p=14cb1c31-71fa-417e-9294-d37ef6518474&pf_rd_r=TNH5EK166RG58Y2VQB55&qid=1774238968&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+          "link_clean": "https://www.amazon.ca/dp/B0DBLW3HHQ/",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&asin=B0DBLW3HHQ&device=desktop&engine=amazon_product",
+          "thumbnail": "https://m.media-amazon.com/images/I/81lBuiCXxqL._AC_UL640_QL65_.jpg",
+          "rating": 4.4,
+          "reviews": 126,
+          "price": "$12.99",
+          "extracted_price": 12.99,
+          "delivery": [
+            "FREE delivery Thu, Mar 26 on your first order",
+            "Or fastest delivery Tomorrow, Mar 23"
+          ]
+        }
+      ]
+    }
+  ],
+  "sponsored_brands": {
+    "title": "Brands related to your search",
+    "brands": [
+      {
+        "position": 1,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d65c0681-77f0-4035-830c-278d2062810b._CR0,40,2080,1090_SX920_CB1169409_QL70_.jpg",
+        "name": "Carveit",
+        "headline": "Carveit Wood Case for iPhone 16Pro MagSafe Case",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAzjPrGADhu_nxMZ7auJszsAAAGdGOItRQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBBdM3-/clv1c_ek-IBfHXFbbWzjK3YqveC8GU-lWCmJmSNJ6gEV_2GkwrxU6lRg0VBCw74wBhAHm5muQIO9NdhOom8fiids_9AZvCAD2kttQbW3Q5TjkWzIo-qJ3tOdXVcV3Yo_580trhcQ7huUQuZtk8PVD_nQzFIdKfMF2ejj2qkw1gD_SozptvQVu8zwm5YCAZbyFMsaWYfe67emHbeu8otKV4eszC1mbATGsqfBrimQCeee227CM6i2AqA0j16A498w6lC-3G6rceAzI3bE3ELpzP2yDhlZMIw6dUET1iBbxIDmRLWsviGcbuU6gwUGPMEgQjbg5nEyp7NA64CBAibVRHk0s_R_fHQO-PLco3VEAJwNyE1NFmyr2E37wh1Bvh0AxoRO5LiSWjz7nPjrk-ptEID5-FZbkxy-irF5tVO271goE3bCMPfeAEczSVO8MyY902xISUaHHsSYU-ftACjJsWNDrCuuyJt5h0tIyJU4An0V2jeOm7RJpRIyZti6FNfRB3378zNqZrLoAI9uwD-D9EW65riuIEbcmU99Dbpi2eZ0f-9G08VHx9GpBWOsz27oLuUqPhb3ag7S7JFcYq8Eb-TrnPPOMcmHvOFkk8MbAT10mwSLW871sYeVx2l-7K9ULbyTGoBw4ISb5IjNItFoQdebKFUfxu-Np0lCuH53uivSYyeLNFxPsxTu4CsZ9244JmRwDNi7dyvTLlE_naZqKM6HjjqFN1so_dLz7hVDVGdsLU-Jl771Lc5mLZUhDMC4ah9EOLbS0HXpMlzR36Vu-ZUR_lmgxoQ-80iqtjLcE7-ZUPSk8uTTJkZKB_FWLan35gUuwzh2a7TlLGa2WKOq3u_qvTHWuhWXQWMj2-sYW3hLOB_Grqg6vZivfCpEdL8wfxnuf2JheXJhhXBWuUp4DJ4Z3Der3HVGPrkGHzcF4yq2KzoU6OeqnALRfjif8_S9co-a601spqnJaRb9hGec2DqSuatin6bCtqED4n7pxzrQP0sBlHqCim_IT9urSfy4DzMt2QP65z4LmRd36k4KUjB3_FkgwWw1tNCzCzwGdiVlelXxYyFhPfwQeJeCTzBOfCzy-0qw7i45u1ZsO6sPyhpnS_WyTwx-St15jnjeCKcQLFmF4HxB2eTy3GIr4YgDVlrq3Wkwv6-wdzS6VyQBUXnnOoBESdHqxlzu0NnKe30MCjfTEMEhIWa39_Lm2C6N-hLZWV3WwxOIUrdXNpwo18gNoy5XSz5rzmT8wFyW6RG0eLoQytWJDY7XW2j0DyZg3MWxeLMD_HX_A3uFip2EVkpPFFXtqWwhzZ-vXl1_wWtiD_9oe3Pk8rPZsrV4aRayOlodLphP9JZx9TR8VDFUpSXo1ZToXBUf4ylV2Te7_GvrxC5LdAWPdLDta19B3549kKxdirNKjnmUa_gdu1b2ltCUAj8wOLkGmxvDQwRznRJ3AMJayCqYXW2ThIpZD9V9Mwi-YZaWjlo_u6WHuUUeBSAHa7_xRMl5Uu3XaFiFfqEsuMvU6tme4cyVI64CFp6q2eDVkDsVlmLSUxMftVn0YSTh9XVv383vWzL-eD/https://www.amazon.ca/stores/page/31B14561-0D14-4B35-B1FD-4998DDBA664E/?_encoding=UTF8&store_ref=SB_A0626593JPKNY9S5Z035-A09403832LBFKFILU2KGT&pd_rd_plhdr=t&aaxitk=f59a0a145d1b00f4e8f84a2b34ad7602&hsa_cr_id=0&lp_asins=B0DFBNRKCV%2CB0DFBMDLW7%2CB0DFCHW5SN&lp_query=iPhone%2016%20Pro%20expensive%20overpriced%20worth%20it%20premium&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb0_bkgd&pd_rd_w=co3nz&content-id=amzn1.sym.364313d5-cc88-42fb-9096-fe910052c483%3Aamzn1.sym.364313d5-cc88-42fb-9096-fe910052c483&pf_rd_p=364313d5-cc88-42fb-9096-fe910052c483&pf_rd_r=TNH5EK166RG58Y2VQB55&pd_rd_wg=yFd86&pd_rd_r=39fe3f62-a74f-4e5b-9ba6-5cc289f61213",
+        "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dc5b0b8b-0825-4a8a-8699-146103533c65._CR0,0,400,400_AC_SX278_SY200_CB1169409_QL70_.jpg"
+      },
+      {
+        "position": 2,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/908634e8-1245-42f0-b675-54f184194192._CR0,0,1200,628_SX920_CB1169409_QL70_.jpg",
+        "name": "JETech",
+        "headline": "Perfect Match for Your iPhone 16 Pro",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JOSUVZv6CybqKo8WVpNtOQ8AAAGdGOItRgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICD5eoHy/clv1c_ek-wBfHXLcTWXmxht-lziFwLMC57Khn5MY3UJtdmz9VrzIVTyoxnAKUugdzxGdN38xMdVjsiM53fv3LizSKmCettocvMDLD7v8svmFTz_UCHaTEDwgsAhm3pyFkU5fQD4tL23wvvru_3TfL46Zcr6t7vwNyfmF0q4eAA_7fsy4wFLUNE-h9n7etuohqOwkKjd3OStcpBAQGsTfi1dwjzey7WGEYySc2TTbIzatIx4TL0VNCIUkxCiWP2hJ6LUWCYzrQNznW3QtTLjCKvx8PK4hbL-UNDrbDcHC_hYHMLfljMxEcfdBae8ce3w-MaWY1XbUlTSB1UbHA1jB4c35C7LxqDWOmnnBTeCsVaVpIn3VZHGTyLy6GtPy6STsjB7BcVhFMqVjZqX_0CpMMoLj7KGVBSbdKnoFCjy4MsFtV2yrFCgVimfGjxIBIBL46u3R7BEuqIp97S2o9Pa3VJCN44DZiaJJOthZhXu2-c2FGuUA6G9561NRsM7mTDBk89rN-OSvkXRXIcBpDJ8ebx4UvGAd_H7J152aQPEUuP2ltINPf3_OqVjx7oZYcOC523L3sv6kQ_EGO70IuczG5JigvpA8qQJQoeOiOP4TSm_H3gji604usxbVhJLbRbYVWNp_DQCUXk9Px2-ups0SZ9k38Y1mHAEwaBhQ1Q1UsLE67Qe-xbnEbMn-lOUe7oa3RrT7I_dzbQjQLLzTy-7of9BrmnHuInWMD7X3suMtTGBqS8NNEiLkADH4LK8YBXM92vFC4kgUV0cXPRcr_bVgISruxthOrvoNKMtqLaampU7bWgclGbyIByl23ebGVy8kBSTtQZrXxpHl3Y4FBRYsFygg7QQk8fuiwKMwgDX7mKbzRi9IrVtGu8rsVKrqxEL-3cZWyiuRipmWqB1hC5PgaElkCBfgRtmhE3uFm3-j1cS1kVkBpuNcIP244goIY4wufj7CQb1XRU5_dZUy4jTty-6Vf7vfCl6G5hRYLDX5b5ijhqZFimAzm0_PMPZ8e9lQZcqMpgkVzi0zRLKzUca8ygPKoDt3jFunfCnMbBlKexXdmyKLE7K0DEs1IE95p-IqYnyoN4oJjjx6iGeR4fvQB4V4a_0TJbwJvPLGPWkvp0IKkSz-4rimb0mEpfiinhCs0-7mzgD8FtSSx9-HyJfZzdytzGpLIbTuidUqJrUfQDnhoVGbUVA22Kx1k-CFbWb9m5X84_s8yXlTnho-IRLn5IICaQOcgFvZZTEObYWnt0fd14Cw_fHxtn4GsYJWdBQz3vPiJ0oNAKwbSpZwcqqp0zQtSIqkyd-a-OyZZhlUjQ73crKqECopvcuXEZOdiwAsy2-dmWvQqzNDBMfFXM4anax5G6ddJ7ro0Y_outQpaeMtTtwzJrM0vBOSibzCThf-Djq5WvXAm59A_-lEhZ1_Pa4jLR1zWiZL99T-NdeseAyeTS97aXHsENloHBNBrMHuJsdeRTsztQ8WERu2DzBQvmc0xikQt8ytvqhcpZWxmXT4g2mkXfsrXw5cmjRmWtf_G6NvlU7cAL5bqGdlnbm15bMygrm7LhlyaE4ls_n_WdzSMAVHwKUJuRej8/https://www.amazon.ca/stores/page/0365EFA0-E270-4C9E-8694-BA8325D352E6/?_encoding=UTF8&store_ref=SB_A04070313GAR5855SPWJJ-A09381122KO7HWFOYRDQY&pd_rd_plhdr=t&aaxitk=bc1122a214e5485862f07c90dc46ac96&hsa_cr_id=0&lp_asins=B0DBZNC8DL%2CB0D9NBCN1F%2CB0DBPNZPDR&lp_query=iPhone%2016%20Pro%20expensive%20overpriced%20worth%20it%20premium&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb1_bkgd&pd_rd_w=co3nz&content-id=amzn1.sym.364313d5-cc88-42fb-9096-fe910052c483%3Aamzn1.sym.364313d5-cc88-42fb-9096-fe910052c483&pf_rd_p=364313d5-cc88-42fb-9096-fe910052c483&pf_rd_r=TNH5EK166RG58Y2VQB55&pd_rd_wg=yFd86&pd_rd_r=39fe3f62-a74f-4e5b-9ba6-5cc289f61213",
+        "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8393fbcc-e4a3-4c36-a1a6-4e763a6d387c._CR0,0,1500,1500_AC_SX278_SY200_CB1169409_QL70_.jpg"
+      },
+      {
+        "position": 3,
+        "image": "https://m.media-amazon.com/images/S/gladiator-image-upload-prod/c/A2EUQ1WTGCTBG2/7f9461377bc373a26659d9cc6a2e960d._CR0,0,1500,785_SX920_CB1169409_QL70_.jpg",
+        "name": "Dockem",
+        "headline": "Dream Team: Card Case, Magnetic Mount, & Wallet",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JC5ft0YpQTJkqa2MPW-0n-EAAAGdGOItRwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICApOD-b/clv1c_ek-wBYHXFcbWDn2nI1fIOog9-xwdaLjK05YYiHTqu8FeMQeXV82swq1tdZXJZGrIzoqxV_enyWgwDS5ZdiWLWa30fTy50y63KXXl7nXXGsRVtxX-V5y9PKy75OEALuKXkWYGwRH7M5FpMtEZsGxDOVHflP1cllOCFMDm1adCTMWeU2Ks73MN-dyFXBIPjac3eCd4ztuKXYTASOn8n2DWc8oy3fydbgokFygI0OTqFw0nb-qxvkATI_A9RPY6a5IxMp-t46gTcTh1pT2vcnO1rBzD-wJDr7DA0qRKYInBiD0HpqeFSaVVkCJd-rFguvlsr6Ex2cCVseWIKDi8USxFsgB5BDgUXBCKLw57CzNxURtoZkmmczp3WEOtIp8fwkoEjMyQAiTSk2B04VEAqorCPd9pnsw3oHMo9u8zC0Cy4TMBsKO7jl02rMGCkUiOgCSR60aO5Ao8McempKDdr_mrX0Ya1Te_8PerTtEviIvMF-1uYjyIByOQZxi4CZ0Mx96LiLBoW9Tv5YAVK-M2FIVjMd8Xme9t2aQPGTuMlGTF3Usw2FkZsUlrb4dyC_29q5LqT6l7bisYQzG61A8UNp8H7INBlCwfco8SN7LzG8maXw7qoH1EG5KNudh7vAkpkd6iIhk9qCtU75C0sljevbbCGSWRANlPwPwwMh5oXZu8HgLDAlY24IDE7jvkrxed-EpgRrIDsIDlmYj7oh6NgnXzYE-97noAW3btu4oGKzTBIqNdhjF8T3FU0Nltr-aYxgCW8RX_ZXB4AZF3twfWIwwW0x-4oOh6xVhKNPeJnrPfLgTsvac4nuGBlLjsCpSKvrarcakQ-gPwR1i09kwP4CgU5Zpt0UCphstQW4BR-91upD_Ch25kqBZvwi2ujUT9YYgEp7UDQ8zyb1wWkgKvtyq9Tu9_mVfWben4_w-JK2S1ECuLi2_1nr6FDQ5FzORXoa-FZ_Mm80gVNXQmb8BbHnHvSw7cEbaxasr_WfQhYoilbkPhwc1DE-N6ua9I66Sph6idEqxz_yDzxnm0X0jVfPw5553WOCEurWeV5o8s52GXkMRSSdg2Jk_IJjQix-1B-16pNzI8IXdgbcDUTGOR-rYL8rh_DIYNJb6E_Sy6yYw6u0z-6j6EqYWN9Oidnba63s1jafBYPZViBnQfMCY_wMb4KtaFTg448YxBbZv42MbSWVg0H1ERczzVk28gX115GGXHa6H8A0QLXRsGxWacJaZTmYzm2bUNUpPXa_TmG_zSzb4bpdJFFV00qNebCG8jZWjxHr43AIWerSoT-qLp-IEac1nK4aMeZYsNVni-EG0Lt1OUG0Vfwjh3ndYGQ7It2AKr7j6P7yHz-axAHb8blMjm-Lj9YokLWYac_J8tmgpRfk04bzqlddnhd30HHfcd9au4PSl5TmBkk3bo8qizNRInMUnhBKoC5x8RAsbXbF8j0ZmI3ECquFafwQ7k4BbjmA7_QVCxVGE2Al2vSsWr-SoIYOLaPechVY6bZ12pZiLPZy5EJGgSzdpaJRbys65UTgE1i_VHAf_dY1ry9e5LHhqnRueDbvfXuXYaaTlnf2I1RATz/https://www.amazon.ca/stores/page/775B0BAA-828A-4355-BB48-69BEC37B7927/?_encoding=UTF8&store_ref=SB_A09968661RH11NDNY4BPM-A01802112F4SNNCB1EVYH&pd_rd_plhdr=t&aaxitk=c455d8eff33dbe7cd02bae2449155f40&hsa_cr_id=4155551180501&lp_asins=B08BTFW11P%2CB08BTLNPWT%2CB08DZMD92G&lp_query=iPhone%2016%20Pro%20expensive%20overpriced%20worth%20it%20premium&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb2_bkgd&pd_rd_w=co3nz&content-id=amzn1.sym.364313d5-cc88-42fb-9096-fe910052c483%3Aamzn1.sym.364313d5-cc88-42fb-9096-fe910052c483&pf_rd_p=364313d5-cc88-42fb-9096-fe910052c483&pf_rd_r=TNH5EK166RG58Y2VQB55&pd_rd_wg=yFd86&pd_rd_r=39fe3f62-a74f-4e5b-9ba6-5cc289f61213",
+        "logo": "https://m.media-amazon.com/images/S/gladiator-image-upload-prod/9/A2EUQ1WTGCTBG2/c53939a25527995f84dcb41736555099._AC_SX278_SY200_CB1169409_QL70_.jpg"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "position": 1,
+      "name": "Electronics",
+      "link": "https://www.amazon.ca/Electronics-Accessories/b/?ie=UTF8&node=667823011&ref_=nav_cs_electronics",
+      "node": "667823011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=667823011"
+    },
+    {
+      "position": 2,
+      "name": "Books",
+      "link": "https://www.amazon.ca/books-used-books-textbooks/b/?ie=UTF8&node=916520&ref_=nav_cs_books",
+      "node": "916520",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=916520"
+    },
+    {
+      "position": 3,
+      "name": "Sports & Outdoors",
+      "link": "https://www.amazon.ca/sporting-goods/b/?ie=UTF8&node=2242989011&ref_=nav_cs_sports",
+      "node": "2242989011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=2242989011"
+    },
+    {
+      "position": 4,
+      "name": "Home Improvement",
+      "link": "https://www.amazon.ca/Home-Improvement/b/?ie=UTF8&node=3006902011&ref_=nav_cs_hi",
+      "node": "3006902011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=3006902011"
+    },
+    {
+      "position": 5,
+      "name": "Health & Household",
+      "link": "https://www.amazon.ca/Health-Personal-Care/b/?ie=UTF8&node=6205177011&ref_=nav_cs_hpc",
+      "node": "6205177011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6205177011"
+    },
+    {
+      "position": 6,
+      "name": "Automotive",
+      "link": "https://www.amazon.ca/automotive/b/?ie=UTF8&node=6948389011&ref_=nav_cs_automotive",
+      "node": "6948389011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6948389011"
+    },
+    {
+      "position": 7,
+      "name": "Beauty & Personal Care",
+      "link": "https://www.amazon.ca/Beauty/b/?ie=UTF8&node=6205124011&ref_=nav_cs_beauty",
+      "node": "6205124011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6205124011"
+    },
+    {
+      "position": 8,
+      "name": "Toys & Games",
+      "link": "https://www.amazon.ca/Toys-Games/b/?ie=UTF8&node=6205517011&ref_=nav_cs_toys",
+      "node": "6205517011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6205517011"
+    },
+    {
+      "position": 9,
+      "name": "Computers",
+      "link": "https://www.amazon.ca/Computers-Accessories/b/?ie=UTF8&node=2404990011&ref_=nav_cs_pc",
+      "node": "2404990011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=2404990011"
+    },
+    {
+      "position": 10,
+      "name": "Computer & Video Games",
+      "link": "https://www.amazon.ca/video-games-hardware-accessories/b/?ie=UTF8&node=3198031&ref_=nav_cs_video_games",
+      "node": "3198031",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=3198031"
+    },
+    {
+      "position": 11,
+      "name": "Pet Supplies",
+      "link": "https://www.amazon.ca/pet-supplies-dog-cat-food-bed-toy/b/?ie=UTF8&node=6205514011&ref_=nav_cs_pets",
+      "node": "6205514011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6205514011"
+    },
+    {
+      "position": 12,
+      "name": "Custom Products",
+      "link": "https://www.amazon.ca/Amazon-Custom/b/?ie=UTF8&node=23773954011&ref_=nav_cs_custom",
+      "node": "23773954011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=23773954011"
+    },
+    {
+      "position": 13,
+      "name": "Grocery",
+      "link": "https://www.amazon.ca/grocery/b/?ie=UTF8&node=6967215011&ref_=nav_cs_grocery",
+      "node": "6967215011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=6967215011"
+    },
+    {
+      "position": 14,
+      "name": "Sell",
+      "link": "https://www.amazon.ca/b/?node=15664730011&ld=AZCASOA-sell&ref_=nav_cs_sell",
+      "node": "15664730011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=15664730011"
+    },
+    {
+      "position": 15,
+      "name": "Kindle Books",
+      "link": "https://www.amazon.ca/ebooks-kindle/b/?ie=UTF8&node=2980423011&ref_=nav_cs_kindle_books",
+      "node": "2980423011",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&node=2980423011"
+    }
+  ],
+  "filters": {
+    "eligible_for_free_shipping": [
+      {
+        "position": 1,
+        "name": "FREE Shipping",
+        "rh": "p_76:3276484011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_76%3A3276484011&dc&qid=1774238968&rnid=3276483011&ref=sr_nr_p_76_1&ds=v1%3AGshuJvII4ZRxhgYP0544Gl%2BBP8NYu0lRLPw9JikeekA",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_76%3A3276484011"
+      }
+    ],
+    "delivery_day": [
+      {
+        "position": 1,
+        "name": "Get It by Tomorrow",
+        "rh": "p_90:11828088011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_90%3A11828088011&dc&qid=1774238968&rnid=11828086011&ref=sr_nr_p_90_1&ds=v1%3AhtBOhVe%2BSRsLIt52P4RAu257sehMlSMZlfbh7qAHzb4",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_90%3A11828088011"
+      }
+    ],
+    "price": [
+      {
+        "position": 1,
+        "name": "All Discounts",
+        "rh": "p_n_deal_type:23565508011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_deal_type%3A23565508011&dc&qid=1774238968&rnid=23565505011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AusK7jdxwRBZ7S3D6JgJzH14CFki1DWewv95Vqmlk7SI",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_deal_type%3A23565508011"
+      }
+    ],
+    "customer_reviews": [
+      {
+        "position": 1,
+        "name": "& Up",
+        "rh": "p_72:11192170011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_72%3A11192170011&dc&qid=1774238968&rnid=11192166011&ref=sr_nr_p_72_1&ds=v1%3A%2F8SyHqES3lf1P55Byh2%2BYQiDktIbPv%2F%2FiCsTpUXiHpo",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_72%3A11192170011"
+      }
+    ],
+    "brands": [
+      {
+        "position": 1,
+        "name": "Apple",
+        "rh": "p_123:110955",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_123%3A110955&dc&qid=1774238968&rnid=119962390011&ref=sr_nr_p_123_1&ds=v1%3A2CT8Nx0jlQ9zFMaXY70KysS6LqxBVRDkciuedwUXVCM",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_123%3A110955"
+      }
+    ],
+    "storage_capacity": [
+      {
+        "position": 1,
+        "name": "128 GB",
+        "rh": "p_n_g-1003492455111:108493297011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003492455111%3A108493297011&dc&qid=1774238968&rnid=25914008011&ref=sr_nr_p_n_g-1003492455111_1&ds=v1%3AMhPkC6yPtW%2BMszeeWFj6SaQyQgQgblDZbwjd2ZM4hCo",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003492455111%3A108493297011"
+      },
+      {
+        "position": 2,
+        "name": "256 GB",
+        "rh": "p_n_g-1003492455111:108493298011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003492455111%3A108493298011&dc&qid=1774238968&rnid=25914008011&ref=sr_nr_p_n_g-1003492455111_2&ds=v1%3Azbl5RdTVzyVJwrEbwbRGLVBFjey0zxyjYHNFqj54334",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003492455111%3A108493298011"
+      },
+      {
+        "position": 3,
+        "name": "512 GB & above",
+        "rh": "p_n_g-1003492455111:120222014011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003492455111%3A120222014011&dc&qid=1774238968&rnid=25914008011&ref=sr_nr_p_n_g-1003492455111_3&ds=v1%3AdZhtpxt4gO5il0jLyWhcHIVZHEuIGUd5Lrs6B90riyk",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003492455111%3A120222014011"
+      }
+    ],
+    "condition": [
+      {
+        "position": 1,
+        "name": "Renewed",
+        "rh": "p_n_condition-type:21167025011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_condition-type%3A21167025011&dc&qid=1774238968&rnid=11192162011&ref=sr_nr_p_n_condition-type_1&ds=v1%3A%2FXEyyxbGwKjhkVT42srFYsir3PlWuyJ0qulJyqx7yTQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_condition-type%3A21167025011"
+      }
+    ],
+    "seller": [
+      {
+        "position": 1,
+        "name": "204WIRELESS",
+        "rh": "p_6:A2JJ2OH4XSFT70",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA2JJ2OH4XSFT70&dc&qid=1774238968&rnid=12035754011&ref=sr_nr_p_6_1&ds=v1%3Aq%2F%2BKK6kCCOpMSpdeMaxmDH%2Fc1TnBy%2BanhEfASbvmH7k",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA2JJ2OH4XSFT70"
+      },
+      {
+        "position": 2,
+        "name": "AB Cellular",
+        "rh": "p_6:A3PD11MT64WW95",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA3PD11MT64WW95&dc&qid=1774238968&rnid=12035754011&ref=sr_nr_p_6_2&ds=v1%3A9HVuuwUPUbzQ5YY91TWE27uma1vpcqHy2TG10oIedK4",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA3PD11MT64WW95"
+      },
+      {
+        "position": 3,
+        "name": "Gadget Deals",
+        "rh": "p_6:A1WLBV5HG77YCI",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA1WLBV5HG77YCI&dc&qid=1774238968&rnid=12035754011&ref=sr_nr_p_6_3&ds=v1%3AmiY2jiI405I2zpXnm5IeXmQRelaEUMRUoTIjaqRNR4s",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA1WLBV5HG77YCI"
+      },
+      {
+        "position": 4,
+        "name": "grabcell",
+        "rh": "p_6:A37TEBSF73N9I4",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA37TEBSF73N9I4&dc&qid=1774238968&rnid=12035754011&ref=sr_nr_p_6_4&ds=v1%3AhrsZWkdR287dSf%2Bo7av5mGaeooc5ufi9XltO0JvjfNk",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA37TEBSF73N9I4"
+      },
+      {
+        "position": 5,
+        "name": "HUMANTECH.CANADA",
+        "rh": "p_6:A3I75KUV19DY78",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA3I75KUV19DY78&dc&qid=1774238968&rnid=12035754011&ref=sr_nr_p_6_5&ds=v1%3ABoh43nVGgAr9Uh6TnEAWSE%2Bqbo6jYHHseYGh6qxTZoU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA3I75KUV19DY78"
+      },
+      {
+        "position": 6,
+        "name": "Jay Cellular LLC",
+        "rh": "p_6:A2Z0NUO7H5QY5T",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA2Z0NUO7H5QY5T&dc&qid=1774238968&rnid=12035754011&ref=sr_nr_p_6_6&ds=v1%3AqZK18dnRpJPGm6wAGpjxsBOCinukj%2FGupc7aR6ipbBM",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA2Z0NUO7H5QY5T"
+      },
+      {
+        "position": 7,
+        "name": "MobileKlinik",
+        "rh": "p_6:A3BMJMKKKA4X2X",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA3BMJMKKKA4X2X&dc&qid=1774238968&rnid=12035754011&ref=sr_nr_p_6_7&ds=v1%3ArleuFpipzcPkvrDcqEqWsKyQ1y8LfCBEGys57ZOVEts",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_6%3AA3BMJMKKKA4X2X"
+      }
+    ],
+    "availability": [
+      {
+        "position": 1,
+        "name": "Include Out of Stock",
+        "rh": "p_n_availability:12035748011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_availability%3A12035748011&dc&qid=1774238968&rnid=12035746011&ref=sr_nr_p_n_availability_2&ds=v1%3AR8WqZKf92HtJX2Pmo6GW89b57bdiZkVymNf%2F1tT4jvQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_availability%3A12035748011"
+      }
+    ],
+    "connectivity": [
+      {
+        "position": 1,
+        "name": "Bluetooth",
+        "rh": "p_n_g-1002112230111:23707071011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002112230111%3A23707071011&dc&qid=1774238968&rnid=23707068011&ref=sr_nr_p_n_g-1002112230111_1&ds=v1%3Ai3XKDFGZXZsy4ySOSPt1Jt1%2B7rdpl10XMiwFh%2FsVljM",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002112230111%3A23707071011"
+      },
+      {
+        "position": 2,
+        "name": "NFC",
+        "rh": "p_n_g-1002112230111:23707073011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002112230111%3A23707073011&dc&qid=1774238968&rnid=23707068011&ref=sr_nr_p_n_g-1002112230111_2&ds=v1%3A4RjNLUHD4lJ%2BWzfNgJC5dHlYToSbWsnF2dhb13x4PUE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002112230111%3A23707073011"
+      },
+      {
+        "position": 3,
+        "name": "USB",
+        "rh": "p_n_g-1002112230111:23707070011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002112230111%3A23707070011&dc&qid=1774238968&rnid=23707068011&ref=sr_nr_p_n_g-1002112230111_3&ds=v1%3AEJmZBRG0pYbB6bGxf8O2mR6tZ71NDKwRV1nROGUircE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002112230111%3A23707070011"
+      },
+      {
+        "position": 4,
+        "name": "Wi-Fi",
+        "rh": "p_n_g-1002112230111:23707072011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002112230111%3A23707072011&dc&qid=1774238968&rnid=23707068011&ref=sr_nr_p_n_g-1002112230111_4&ds=v1%3A7rfpoKtmjDpC41vHyroHmrUUYyrTkJoNbaJuwPFVP%2BQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002112230111%3A23707072011"
+      }
+    ],
+    "cellular_technology": [
+      {
+        "position": 1,
+        "name": "4G",
+        "rh": "p_n_g-1003469290111:24424944011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003469290111%3A24424944011&dc&qid=1774238968&rnid=24424943011&ref=sr_nr_p_n_g-1003469290111_1&ds=v1%3AYZ3pcLwyPQ9fafwCb9NwmXX6cn5T5LrMkHLpRKY%2FTMo",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003469290111%3A24424944011"
+      },
+      {
+        "position": 2,
+        "name": "5G",
+        "rh": "p_n_g-1003469290111:24424947011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003469290111%3A24424947011&dc&qid=1774238968&rnid=24424943011&ref=sr_nr_p_n_g-1003469290111_2&ds=v1%3AdxXHPe0SkZ8rMMnWO29bk%2Fvr0dVhzeMOzOrUtGatjys",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003469290111%3A24424947011"
+      }
+    ],
+    "included_components": [
+      {
+        "position": 1,
+        "name": "USB Cable",
+        "rh": "p_n_g-101013594324111:78245178011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101013594324111%3A78245178011&dc&qid=1774238968&rnid=78245152011&ref=sr_nr_p_n_g-101013594324111_1&ds=v1%3A3%2BD7xxMLnDPFrY0J7L4Cc8U%2FUBR1SQdJ%2FJeFO0m8SrM",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101013594324111%3A78245178011"
+      }
+    ],
+    "operating_system": [
+      {
+        "position": 1,
+        "name": "iOS 17",
+        "rh": "p_n_g-1003517064111:206873673011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003517064111%3A206873673011&dc&qid=1774238968&rnid=36773097011&ref=sr_nr_p_n_g-1003517064111_1&ds=v1%3AQkNGJ719xAlKVALA0v2nZ0JSCESd%2FqKZZyvwrJUxY1A",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003517064111%3A206873673011"
+      },
+      {
+        "position": 2,
+        "name": "iOS 16",
+        "rh": "p_n_g-1003517064111:69660421011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003517064111%3A69660421011&dc&qid=1774238968&rnid=36773097011&ref=sr_nr_p_n_g-1003517064111_2&ds=v1%3AKvT6dcinX4O2a1urU%2BACYgmkWpUiOfimDyF2TbzDJ20",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003517064111%3A69660421011"
+      }
+    ],
+    "input": [
+      {
+        "position": 1,
+        "name": "Touchscreen",
+        "rh": "p_n_g-1002097072111:23706038011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002097072111%3A23706038011&dc&qid=1774238968&rnid=23706036011&ref=sr_nr_p_n_g-1002097072111_1&ds=v1%3AiPnF8SOBtL1wCsBSzqw8ykk0ywQ115xwVWGzCT9wX40",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002097072111%3A23706038011"
+      }
+    ],
+    "sim_card_slot_count": [
+      {
+        "position": 1,
+        "name": "Single SIM",
+        "rh": "p_n_g-1002989427111:23627150011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002989427111%3A23627150011&dc&qid=1774238968&rnid=23627148011&ref=sr_nr_p_n_g-1002989427111_1&ds=v1%3AVnva88g9rnZojTLjONJGhHJdLmw%2FZdljSCgiuz66k74",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002989427111%3A23627150011"
+      },
+      {
+        "position": 2,
+        "name": "Dual SIM",
+        "rh": "p_n_g-1002989427111:23627151011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002989427111%3A23627151011&dc&qid=1774238968&rnid=23627148011&ref=sr_nr_p_n_g-1002989427111_2&ds=v1%3AwenMn8xClnhJgJkekdqNXF8aDEoCDPjL8J3I%2BpIYCp8",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002989427111%3A23627151011"
+      },
+      {
+        "position": 3,
+        "name": "E Sim",
+        "rh": "p_n_g-1002989427111:207962282011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002989427111%3A207962282011&dc&qid=1774238968&rnid=23627148011&ref=sr_nr_p_n_g-1002989427111_3&ds=v1%3Aa5y2y%2Ba9JxQuvN6Dsrp0bia9xhwKMDdh%2BC2Bja3z4CE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002989427111%3A207962282011"
+      }
+    ],
+    "battery_capacity": [
+      {
+        "position": 1,
+        "name": "3,000 to 3,999 mAh",
+        "rh": "p_n_g-101015098008111:120181881011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015098008111%3A120181881011&dc&qid=1774238968&rnid=120181878011&ref=sr_nr_p_n_g-101015098008111_1&ds=v1%3A0Jd2F%2BYDhl6tzKOKf%2B0NQ5UyP5xbLZJbXCil23aIS6s",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015098008111%3A120181881011"
+      },
+      {
+        "position": 2,
+        "name": "4,000 to 4,999 mAh",
+        "rh": "p_n_g-101015098008111:120181879011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015098008111%3A120181879011&dc&qid=1774238968&rnid=120181878011&ref=sr_nr_p_n_g-101015098008111_2&ds=v1%3ALqB4OfXLk9KwQz2t2v0JfoRHgEHfgnY7p%2FKTzOGQZlg",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015098008111%3A120181879011"
+      }
+    ],
+    "display_type": [
+      {
+        "position": 1,
+        "name": "LCD",
+        "rh": "p_n_g-101013595158111:78245186011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101013595158111%3A78245186011&dc&qid=1774238968&rnid=78245153011&ref=sr_nr_p_n_g-101013595158111_1&ds=v1%3Axiwb3IVemz9QOYL0kF1CN3sPrdXXXbFF60zYt%2BNyBWY",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101013595158111%3A78245186011"
+      },
+      {
+        "position": 2,
+        "name": "OLED",
+        "rh": "p_n_g-101013595158111:78245188011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101013595158111%3A78245188011&dc&qid=1774238968&rnid=78245153011&ref=sr_nr_p_n_g-101013595158111_2&ds=v1%3AIRBTKB3gj2IuXCCiHHUeSnJsqCPMJpaN7cHIx1hXcTQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101013595158111%3A78245188011"
+      }
+    ],
+    "ram_size": [
+      {
+        "position": 1,
+        "name": "6 to 7.9 GB",
+        "rh": "p_n_g-1003495121111:26274175011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003495121111%3A26274175011&dc&qid=1774238968&rnid=26274164011&ref=sr_nr_p_n_g-1003495121111_1&ds=v1%3AwdWcJs441Mke3qSUmqes%2Fl7ToT3xwu%2BcUPP2hrvjG10",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003495121111%3A26274175011"
+      },
+      {
+        "position": 2,
+        "name": "8 to 9.9 GB",
+        "rh": "p_n_g-1003495121111:26274177011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003495121111%3A26274177011&dc&qid=1774238968&rnid=26274164011&ref=sr_nr_p_n_g-1003495121111_2&ds=v1%3AmDNNJ2xLfGP1zyZeQzo7sNdVdg5xDxOBAqICB9Z2uEA",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003495121111%3A26274177011"
+      },
+      {
+        "position": 3,
+        "name": "10 GB & Above",
+        "rh": "p_n_g-1003495121111:26274182011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003495121111%3A26274182011&dc&qid=1774238968&rnid=26274164011&ref=sr_nr_p_n_g-1003495121111_3&ds=v1%3Ay8XFO%2FobKOPEEagKw06HXk59aHFLevAQ%2BHQaL6f8Vq0",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003495121111%3A26274182011"
+      }
+    ],
+    "screen_size": [
+      {
+        "position": 1,
+        "name": "15 to 17.9 cm",
+        "rh": "p_n_feature_browse-bin:212267317011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_feature_browse-bin%3A212267317011&dc&qid=1774238968&rnid=212267316011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3A%2FkWmhqrjFwSf%2BvrjpxGJ7xxiRD0o2bThquMmhvp5%2FHI",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_feature_browse-bin%3A212267317011"
+      }
+    ],
+    "battery_life": [
+      {
+        "position": 1,
+        "name": "19 h & above",
+        "rh": "p_n_g-1003486052111:24676343011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003486052111%3A24676343011&dc&qid=1774238968&rnid=24676306011&ref=sr_nr_p_n_g-1003486052111_1&ds=v1%3A6vCII%2F7ockNBZ8%2BiV8OKESRFsT5xxKCO5G8H6Eh9S1g",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003486052111%3A24676343011"
+      }
+    ],
+    "sim_card_size": [
+      {
+        "position": 1,
+        "name": "eSIM",
+        "rh": "p_n_g-1002989370111:23641472011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002989370111%3A23641472011&dc&qid=1774238968&rnid=23641471011&ref=sr_nr_p_n_g-1002989370111_1&ds=v1%3AFa3GCPeRidk%2B%2FWl2M25LIvzJb3bS6MFDvZciMrx5Rqg",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002989370111%3A23641472011"
+      }
+    ],
+    "front_camera_resolution": [
+      {
+        "position": 1,
+        "name": "10.0 to 12.9 MP",
+        "rh": "p_n_g-1003565058111:59033182011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003565058111%3A59033182011&dc&qid=1774238968&rnid=59033180011&ref=sr_nr_p_n_g-1003565058111_1&ds=v1%3AecFv7euTBBKpMtRi8ahnovPTjrzlbc5%2FaDAfDbI0Q6U",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003565058111%3A59033182011"
+      }
+    ],
+    "connector_type": [
+      {
+        "position": 1,
+        "name": "Lightning",
+        "rh": "p_n_g-1002085485111:23722599011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002085485111%3A23722599011&dc&qid=1774238968&rnid=23722597011&ref=sr_nr_p_n_g-1002085485111_1&ds=v1%3Aj5wBAuMJ9WRo7CWXdB%2B0OyiCpWKLrLBdkgXiadAgIDU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002085485111%3A23722599011"
+      },
+      {
+        "position": 2,
+        "name": "USB Type C",
+        "rh": "p_n_g-1002085485111:23722601011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002085485111%3A23722601011&dc&qid=1774238968&rnid=23722597011&ref=sr_nr_p_n_g-1002085485111_2&ds=v1%3AxxjhxvY9LQuVubqWIuqVwXcuWbc6B1vn%2FEwZ4WFMapI",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002085485111%3A23722601011"
+      }
+    ],
+    "video_capture_resolution": [
+      {
+        "position": 1,
+        "name": "1080p",
+        "rh": "p_n_g-1003305462111:23967792011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003305462111%3A23967792011&dc&qid=1774238968&rnid=23967788011&ref=sr_nr_p_n_g-1003305462111_1&ds=v1%3AoAs%2BdW6Jcr6Bf1Qz8pEwkHx32JCcnNNJmX1dIFL0sOo",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003305462111%3A23967792011"
+      },
+      {
+        "position": 2,
+        "name": "4k",
+        "rh": "p_n_g-1003305462111:23967791011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003305462111%3A23967791011&dc&qid=1774238968&rnid=23967788011&ref=sr_nr_p_n_g-1003305462111_2&ds=v1%3APxs1Jgg1jvC%2BtBCXpM0GD8ZfJ0FCvxmr9c5jkeK8Rts",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003305462111%3A23967791011"
+      },
+      {
+        "position": 3,
+        "name": "720p",
+        "rh": "p_n_g-1003305462111:23967790011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003305462111%3A23967790011&dc&qid=1774238968&rnid=23967788011&ref=sr_nr_p_n_g-1003305462111_3&ds=v1%3A2Y5CSqYlxvBLYFfJrlWDW109MgB5ccgpyZ0LYndDj4U",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003305462111%3A23967790011"
+      }
+    ],
+    "rear_camera_photo_sensor_resolution": [
+      {
+        "position": 1,
+        "name": "10 to 12.9 MP",
+        "rh": "p_n_g-1003477899111:25131571011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003477899111%3A25131571011&dc&qid=1774238968&rnid=25131543011&ref=sr_nr_p_n_g-1003477899111_1&ds=v1%3AXVAdK%2FZ0kNChpVIZpQQ%2BErbbjbac8mdhaZ0epBQozZI",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003477899111%3A25131571011"
+      },
+      {
+        "position": 2,
+        "name": "16 MP & above",
+        "rh": "p_n_g-1003477899111:25131572011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003477899111%3A25131572011&dc&qid=1774238968&rnid=25131543011&ref=sr_nr_p_n_g-1003477899111_2&ds=v1%3AFHrypCfmu4XmbUqOtZlTU1iZ3uhcfPmz5cqNJ4WxuA0",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003477899111%3A25131572011"
+      }
+    ],
+    "security_feature": [
+      {
+        "position": 1,
+        "name": "Face Recognition",
+        "rh": "p_n_g-1002085472111:23703130011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002085472111%3A23703130011&dc&qid=1774238968&rnid=23703125011&ref=sr_nr_p_n_g-1002085472111_1&ds=v1%3ApO4CmXDjtjPgYrzTk7FgEy0wYGmz1NkzCGveOppPt88",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002085472111%3A23703130011"
+      },
+      {
+        "position": 2,
+        "name": "Fingerprint Recognition",
+        "rh": "p_n_g-1002085472111:23703133011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002085472111%3A23703133011&dc&qid=1774238968&rnid=23703125011&ref=sr_nr_p_n_g-1002085472111_2&ds=v1%3AnUTkl4Jic3BonR16FyDMaX%2FyZiUcZyWW4rZBjgDTv2E",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002085472111%3A23703133011"
+      }
+    ],
+    "form_factor": [
+      {
+        "position": 1,
+        "name": "Bar",
+        "rh": "p_n_g-1003236090111:23896855011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003236090111%3A23896855011&dc&qid=1774238968&rnid=23896854011&ref=sr_nr_p_n_g-1003236090111_1&ds=v1%3A%2BW%2Bk9E3lDOCKTGtSuQCTUd8DfcjGdclL0Fm3qzzGdII",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003236090111%3A23896855011"
+      },
+      {
+        "position": 2,
+        "name": "Slate",
+        "rh": "p_n_g-1003236090111:23896858011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003236090111%3A23896858011&dc&qid=1774238968&rnid=23896854011&ref=sr_nr_p_n_g-1003236090111_2&ds=v1%3ACCQeH5I8Q6kMM%2B6Qfunw7qP0S9OWrZKMzi9mjheTRKw",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003236090111%3A23896858011"
+      }
+    ],
+    "weight": [
+      {
+        "position": 1,
+        "name": "142 to 197.9 g",
+        "rh": "p_n_g-1003491669111:25140786011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003491669111%3A25140786011&dc&qid=1774238968&rnid=25140785011&ref=sr_nr_p_n_g-1003491669111_1&ds=v1%3AjAY%2Bm7eiegohqvu9gzFznh9EeMbKsX0MzTJzkNDGs9o",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003491669111%3A25140786011"
+      },
+      {
+        "position": 2,
+        "name": "198 to 254.9 g",
+        "rh": "p_n_g-1003491669111:25140787011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003491669111%3A25140787011&dc&qid=1774238968&rnid=25140785011&ref=sr_nr_p_n_g-1003491669111_2&ds=v1%3A2HsD6FRU8N9kqNsfaNC%2Bw2S8sd6aO9P3kBmO3Rqlmvw",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003491669111%3A25140787011"
+      },
+      {
+        "position": 3,
+        "name": "255 g & Above",
+        "rh": "p_n_g-1003491669111:25140789011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003491669111%3A25140789011&dc&qid=1774238968&rnid=25140785011&ref=sr_nr_p_n_g-1003491669111_3&ds=v1%3AMdhuukzpkJQnWU1Sm23lrcGMV8W6lRzeXePYPnGR7cQ",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1003491669111%3A25140789011"
+      }
+    ],
+    "wireless_network_technology": [
+      {
+        "position": 1,
+        "name": "Wi-Fi",
+        "rh": "p_n_g-101015498571111:122269311011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A122269311011&dc&qid=1774238968&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_1&ds=v1%3AYYNAsqMhzqkkrH1RJbTzsKzfOkSkmAvkHHvIcau1ACU",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A122269311011"
+      },
+      {
+        "position": 2,
+        "name": "GSM",
+        "rh": "p_n_g-101015498571111:122269315011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A122269315011&dc&qid=1774238968&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_2&ds=v1%3AnoNcU1%2BbGHpqAB7dy4ECCPxCc1Ceb9xDDqjfmwOZhEc",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A122269315011"
+      },
+      {
+        "position": 3,
+        "name": "Bluetooth",
+        "rh": "p_n_g-101015498571111:207962806011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A207962806011&dc&qid=1774238968&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_3&ds=v1%3AULV8Snck4tTA5gvTyEwyclZG2kFcnxzptg7BPghYw%2F8",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A207962806011"
+      },
+      {
+        "position": 4,
+        "name": "LTE",
+        "rh": "p_n_g-101015498571111:122269313011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A122269313011&dc&qid=1774238968&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_4&ds=v1%3AIixKeSWTHfUOwHSgun5YDODYPeIS5TzJcAtFHM41hhw",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A122269313011"
+      },
+      {
+        "position": 5,
+        "name": "UMTS",
+        "rh": "p_n_g-101015498571111:122269317011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A122269317011&dc&qid=1774238968&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_5&ds=v1%3AgBruwtzs3UrOgQm1jMD2KLCANnv0lu0EfsCLlNl7klo",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A122269317011"
+      },
+      {
+        "position": 6,
+        "name": "NFC",
+        "rh": "p_n_g-101015498571111:207962805011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A207962805011&dc&qid=1774238968&rnid=122269300011&ref=sr_nr_p_n_g-101015498571111_6&ds=v1%3ATjtKbug7eP1Kw0b9ZjgxOTnIdzlvN%2FYXPINKBZbPQQE",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498571111%3A207962805011"
+      }
+    ],
+    "camera_modes": [
+      {
+        "position": 1,
+        "name": "High Dynamic Range",
+        "rh": "p_n_g-1002252610111:23695574011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002252610111%3A23695574011&dc&qid=1774238968&rnid=23695568011&ref=sr_nr_p_n_g-1002252610111_1&ds=v1%3ASAyH8%2FpEd2ORKwpAzcsB7Ku15gFmUMGIUilgbsGoESM",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-1002252610111%3A23695574011"
+      }
+    ],
+    "supported_satellite_navigation_system": [
+      {
+        "position": 1,
+        "name": "GPS",
+        "rh": "p_n_g-101015498432111:122266237011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498432111%3A122266237011&dc&qid=1774238968&rnid=122266227011&ref=sr_nr_p_n_g-101015498432111_1&ds=v1%3ARBAyxfDLVKIkTRBo%2FvUurGEqyzcKR6VJLCkmHWJ9qvg",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015498432111%3A122266237011"
+      }
+    ],
+    "gps_navigation": [
+      {
+        "position": 1,
+        "name": "True",
+        "rh": "p_n_g-101015364874111:121475758011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015364874111%3A121475758011&dc&qid=1774238968&rnid=121475745011&ref=sr_nr_p_n_g-101015364874111_1&ds=v1%3ANUngOkqD9WVVbjsSkmpv6NO7sRUIadW%2Fn8BCYvB4OQw",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015364874111%3A121475758011"
+      }
+    ],
+    "gen_ai_model": [
+      {
+        "position": 1,
+        "name": "Apple Intelligence",
+        "rh": "p_n_g-101016978070111:211735176011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101016978070111%3A211735176011&dc&qid=1774238968&rnid=211735173011&ref=sr_nr_p_n_g-101016978070111_1&ds=v1%3AZpgY8yKrgRGI3cKQ14uhWjLtWSBqdBYgKoi6g%2BDPTec",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101016978070111%3A211735176011"
+      }
+    ],
+    "flash": [
+      {
+        "position": 1,
+        "name": "LED",
+        "rh": "p_n_g-101015500208111:122266716011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015500208111%3A122266716011&dc&qid=1774238968&rnid=122266707011&ref=sr_nr_p_n_g-101015500208111_1&ds=v1%3AgHTRaiD9HHE8RCKkEcobYSKSttLbrCRa6EhhJsCm07o",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015500208111%3A122266716011"
+      }
+    ],
+    "battery_type": [
+      {
+        "position": 1,
+        "name": "Lithium-Ion",
+        "rh": "p_n_g-101015500034111:122266714011",
+        "link": "https://www.amazon.ca/s?k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015500034111%3A122266714011&dc&qid=1774238968&rnid=122266706011&ref=sr_nr_p_n_g-101015500034111_1&ds=v1%3ANlT0Ql%2BS9VhlcZS30fdPhfmxgF%2Fjwy%2FPn%2FqpJBi1bdk",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.ca&device=desktop&engine=amazon&k=iPhone+16+Pro+expensive+overpriced+worth+it+premium&rh=n%3A21522509011%2Cp_n_g-101015500034111%3A122266714011"
+      }
+    ]
+  }
+}

@@ -1,0 +1,882 @@
+{
+  "query": "Apple Intelligence AI smartphone features",
+  "date": "today 12-m",
+  "_timeseries": {
+    "interest_over_time": {
+      "timeline_data": [
+        {
+          "date": "Mar 23\u2009\u2013\u200929, 2025",
+          "timestamp": "1742688000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Mar 30\u2009\u2013\u2009Apr 5, 2025",
+          "timestamp": "1743292800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Apr 6\u2009\u2013\u200912, 2025",
+          "timestamp": "1743897600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Apr 13\u2009\u2013\u200919, 2025",
+          "timestamp": "1744502400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Apr 20\u2009\u2013\u200926, 2025",
+          "timestamp": "1745107200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Apr 27\u2009\u2013\u2009May 3, 2025",
+          "timestamp": "1745712000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "May 4\u2009\u2013\u200910, 2025",
+          "timestamp": "1746316800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "May 11\u2009\u2013\u200917, 2025",
+          "timestamp": "1746921600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "May 18\u2009\u2013\u200924, 2025",
+          "timestamp": "1747526400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "May 25\u2009\u2013\u200931, 2025",
+          "timestamp": "1748131200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jun 1\u2009\u2013\u20097, 2025",
+          "timestamp": "1748736000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jun 8\u2009\u2013\u200914, 2025",
+          "timestamp": "1749340800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jun 15\u2009\u2013\u200921, 2025",
+          "timestamp": "1749945600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jun 22\u2009\u2013\u200928, 2025",
+          "timestamp": "1750550400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jun 29\u2009\u2013\u2009Jul 5, 2025",
+          "timestamp": "1751155200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jul 6\u2009\u2013\u200912, 2025",
+          "timestamp": "1751760000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jul 13\u2009\u2013\u200919, 2025",
+          "timestamp": "1752364800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jul 20\u2009\u2013\u200926, 2025",
+          "timestamp": "1752969600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jul 27\u2009\u2013\u2009Aug 2, 2025",
+          "timestamp": "1753574400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Aug 3\u2009\u2013\u20099, 2025",
+          "timestamp": "1754179200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Aug 10\u2009\u2013\u200916, 2025",
+          "timestamp": "1754784000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Aug 17\u2009\u2013\u200923, 2025",
+          "timestamp": "1755388800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Aug 24\u2009\u2013\u200930, 2025",
+          "timestamp": "1755993600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Aug 31\u2009\u2013\u2009Sep 6, 2025",
+          "timestamp": "1756598400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Sep 7\u2009\u2013\u200913, 2025",
+          "timestamp": "1757203200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Sep 14\u2009\u2013\u200920, 2025",
+          "timestamp": "1757808000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Sep 21\u2009\u2013\u200927, 2025",
+          "timestamp": "1758412800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Sep 28\u2009\u2013\u2009Oct 4, 2025",
+          "timestamp": "1759017600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Oct 5\u2009\u2013\u200911, 2025",
+          "timestamp": "1759622400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Oct 12\u2009\u2013\u200918, 2025",
+          "timestamp": "1760227200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Oct 19\u2009\u2013\u200925, 2025",
+          "timestamp": "1760832000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Oct 26\u2009\u2013\u2009Nov 1, 2025",
+          "timestamp": "1761436800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Nov 2\u2009\u2013\u20098, 2025",
+          "timestamp": "1762041600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Nov 9\u2009\u2013\u200915, 2025",
+          "timestamp": "1762646400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Nov 16\u2009\u2013\u200922, 2025",
+          "timestamp": "1763251200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Nov 23\u2009\u2013\u200929, 2025",
+          "timestamp": "1763856000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Nov 30\u2009\u2013\u2009Dec 6, 2025",
+          "timestamp": "1764460800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Dec 7\u2009\u2013\u200913, 2025",
+          "timestamp": "1765065600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Dec 14\u2009\u2013\u200920, 2025",
+          "timestamp": "1765670400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Dec 21\u2009\u2013\u200927, 2025",
+          "timestamp": "1766275200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Dec 28, 2025\u2009\u2013\u2009Jan 3, 2026",
+          "timestamp": "1766880000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jan 4\u2009\u2013\u200910, 2026",
+          "timestamp": "1767484800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jan 11\u2009\u2013\u200917, 2026",
+          "timestamp": "1768089600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jan 18\u2009\u2013\u200924, 2026",
+          "timestamp": "1768694400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Jan 25\u2009\u2013\u200931, 2026",
+          "timestamp": "1769299200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Feb 1\u2009\u2013\u20097, 2026",
+          "timestamp": "1769904000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Feb 8\u2009\u2013\u200914, 2026",
+          "timestamp": "1770508800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Feb 15\u2009\u2013\u200921, 2026",
+          "timestamp": "1771113600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Feb 22\u2009\u2013\u200928, 2026",
+          "timestamp": "1771718400",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Mar 1\u2009\u2013\u20097, 2026",
+          "timestamp": "1772323200",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        },
+        {
+          "date": "Mar 8\u2009\u2013\u200914, 2026",
+          "timestamp": "1772928000",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "100",
+              "extracted_value": 100
+            }
+          ]
+        },
+        {
+          "date": "Mar 15\u2009\u2013\u200921, 2026",
+          "timestamp": "1773532800",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "87",
+              "extracted_value": 87
+            }
+          ]
+        },
+        {
+          "date": "Mar 22\u2009\u2013\u200928, 2026",
+          "timestamp": "1774137600",
+          "values": [
+            {
+              "query": "Apple Intelligence AI smartphone features",
+              "value": "0",
+              "extracted_value": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "_related_topics": {
+    "related_topics": {
+      "rising": [
+        {
+          "topic": {
+            "value": "/m/0k8z",
+            "title": "Apple",
+            "type": "Technology company"
+          },
+          "value": "Breakout",
+          "extracted_value": 9448700,
+          "link": "https://trends.google.com/trends/explore?q=/m/0k8z&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11bc6hq8w2",
+            "title": "Apple",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 9160500,
+          "link": "https://trends.google.com/trends/explore?q=/g/11bc6hq8w2&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0mkz",
+            "title": "Artificial intelligence",
+            "type": "Field of study"
+          },
+          "value": "Breakout",
+          "extracted_value": 8697750,
+          "link": "https://trends.google.com/trends/explore?q=/m/0mkz&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/04st9hr",
+            "title": "Apple",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 8166050,
+          "link": "https://trends.google.com/trends/explore?q=/m/04st9hr&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0169zh",
+            "title": "Smartphone",
+            "type": "Computing platform"
+          },
+          "value": "Breakout",
+          "extracted_value": 7208300,
+          "link": "https://trends.google.com/trends/explore?q=/m/0169zh&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11w3l9pd15",
+            "title": "Apple Intelligence",
+            "type": "Software"
+          },
+          "value": "Breakout",
+          "extracted_value": 6079850,
+          "link": "https://trends.google.com/trends/explore?q=/g/11w3l9pd15&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11b77d3kyg",
+            "title": "2025",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 5120900,
+          "link": "https://trends.google.com/trends/explore?q=/g/11b77d3kyg&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/050k8",
+            "title": "Mobile phone",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 4777600,
+          "link": "https://trends.google.com/trends/explore?q=/m/050k8&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/02kwz2",
+            "title": "Intelligence",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 4107750,
+          "link": "https://trends.google.com/trends/explore?q=/m/02kwz2&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/027lnzs",
+            "title": "iPhone",
+            "type": "Mobile phone"
+          },
+          "value": "Breakout",
+          "extracted_value": 3230850,
+          "link": "https://trends.google.com/trends/explore?q=/m/027lnzs&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/04zjj11",
+            "title": "Samsung",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 3034250,
+          "link": "https://trends.google.com/trends/explore?q=/m/04zjj11&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 2774600,
+          "link": "https://trends.google.com/trends/explore?q=/g/11b77d6b6g&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01d_1l",
+            "title": "Price",
+            "type": "Topic"
+          },
+          "value": "Breakout",
+          "extracted_value": 2598950,
+          "link": "https://trends.google.com/trends/explore?q=/m/01d_1l&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0hnbsn3",
+            "title": "Samsung Galaxy",
+            "type": "Mobile phone"
+          },
+          "value": "Breakout",
+          "extracted_value": 1856650,
+          "link": "https://trends.google.com/trends/explore?q=/m/0hnbsn3&date=today+12-m"
+        }
+      ],
+      "top": [
+        {
+          "topic": {
+            "value": "/m/0k8z",
+            "title": "Apple",
+            "type": "Technology company"
+          },
+          "value": "100",
+          "extracted_value": 100,
+          "link": "https://trends.google.com/trends/explore?q=/m/0k8z&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11bc6hq8w2",
+            "title": "Apple",
+            "type": "Topic"
+          },
+          "value": "97",
+          "extracted_value": 97,
+          "link": "https://trends.google.com/trends/explore?q=/g/11bc6hq8w2&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0mkz",
+            "title": "Artificial intelligence",
+            "type": "Field of study"
+          },
+          "value": "92",
+          "extracted_value": 92,
+          "link": "https://trends.google.com/trends/explore?q=/m/0mkz&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/04st9hr",
+            "title": "Apple",
+            "type": "Topic"
+          },
+          "value": "86",
+          "extracted_value": 86,
+          "link": "https://trends.google.com/trends/explore?q=/m/04st9hr&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0169zh",
+            "title": "Smartphone",
+            "type": "Computing platform"
+          },
+          "value": "76",
+          "extracted_value": 76,
+          "link": "https://trends.google.com/trends/explore?q=/m/0169zh&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11w3l9pd15",
+            "title": "Apple Intelligence",
+            "type": "Software"
+          },
+          "value": "64",
+          "extracted_value": 64,
+          "link": "https://trends.google.com/trends/explore?q=/g/11w3l9pd15&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11b77d3kyg",
+            "title": "2025",
+            "type": "Topic"
+          },
+          "value": "54",
+          "extracted_value": 54,
+          "link": "https://trends.google.com/trends/explore?q=/g/11b77d3kyg&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/050k8",
+            "title": "Mobile phone",
+            "type": "Topic"
+          },
+          "value": "51",
+          "extracted_value": 51,
+          "link": "https://trends.google.com/trends/explore?q=/m/050k8&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/02kwz2",
+            "title": "Intelligence",
+            "type": "Topic"
+          },
+          "value": "43",
+          "extracted_value": 43,
+          "link": "https://trends.google.com/trends/explore?q=/m/02kwz2&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/027lnzs",
+            "title": "iPhone",
+            "type": "Mobile phone"
+          },
+          "value": "34",
+          "extracted_value": 34,
+          "link": "https://trends.google.com/trends/explore?q=/m/027lnzs&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/04zjj11",
+            "title": "Samsung",
+            "type": "Topic"
+          },
+          "value": "32",
+          "extracted_value": 32,
+          "link": "https://trends.google.com/trends/explore?q=/m/04zjj11&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Topic"
+          },
+          "value": "29",
+          "extracted_value": 29,
+          "link": "https://trends.google.com/trends/explore?q=/g/11b77d6b6g&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/01d_1l",
+            "title": "Price",
+            "type": "Topic"
+          },
+          "value": "28",
+          "extracted_value": 28,
+          "link": "https://trends.google.com/trends/explore?q=/m/01d_1l&date=today+12-m"
+        },
+        {
+          "topic": {
+            "value": "/m/0hnbsn3",
+            "title": "Samsung Galaxy",
+            "type": "Mobile phone"
+          },
+          "value": "20",
+          "extracted_value": 20,
+          "link": "https://trends.google.com/trends/explore?q=/m/0hnbsn3&date=today+12-m"
+        }
+      ]
+    }
+  },
+  "_related_queries": {}
+}

@@ -1,0 +1,55 @@
+{
+  "product_results": {
+    "asin": "B0DTJDNL7M",
+    "title": "Apple iPhone 15 Pro (eSIM only), 128GB, Natural Titanium - Unlocked (Renewed)",
+    "brand": "Visit the Amazon Renewed Store",
+    "rating": 4.1,
+    "reviews": 10,
+    "extracted_price": 726.92
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 67,
+        "4 star": 14,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 19
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "excellent phone",
+        "text": "Excellent condition phone. I haven\u2019t seen any scratch on screen or back. Battery health is at 86%Arrived as described no issue. thanks",
+        "rating": 5.0,
+        "date": "March 16, 2026",
+        "author": "Bob",
+        "verified_purchase": true
+      },
+      {
+        "title": "Refurbished bit like new",
+        "text": "Works good like new",
+        "rating": 5.0,
+        "date": "February 13, 2026",
+        "author": "Natz",
+        "verified_purchase": true
+      },
+      {
+        "title": "Phone not as described",
+        "text": "Item received was in worst condition then what was advertised as \u201cExcellent\u201d condition. Phone has scratches all over the screen and a scratch on the camera lens. This phone should have been categorized as \u201cacceptable\u201d condition. Not worth the \u201cexcellent\u201d pricing I paid for!",
+        "rating": 1.0,
+        "date": "April 16, 2025",
+        "author": "Jack N.",
+        "verified_purchase": true
+      },
+      {
+        "title": "Great phone!",
+        "text": "Very good quality! There were no scratches on the cameras or the sides or screen. eSIM transferred easily during setup. Battery health was 88% which seems good for a refurb.",
+        "rating": 5.0,
+        "date": "January 24, 2026",
+        "author": "Angelo S.",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

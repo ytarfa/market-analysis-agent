@@ -27,7 +27,7 @@ class Review(BaseModel):
 
 class FetchReviewStrategy(ABC):
     @abstractmethod
-    def fetch_reviews(self, query: str, max_products: int) -> list[Review]:
+    def fetch_reviews(self, query: str) -> list[Review]:
         pass
 
 
@@ -39,7 +39,8 @@ class AmazonFetchReviewStrategy(FetchReviewStrategy):
         self.amazon_search_service = get_amazon_search_service()
         self.amazon_product_service = get_amazon_product_service()
 
-    def fetch_reviews(self, query: str, max_products: int) -> list[Review]:
+    def fetch_reviews(self, query: str) -> list[Review]:
+        max_products = settings.max_review_products
         search_results = self.amazon_search_service.search_product(query)
         asins: list[str] = [r.asin for r in search_results[:max_products]]
 
@@ -98,9 +99,7 @@ def fetch_reviews(query: str) -> list[Review]:
     reviews = []
     for strategy in FETCH_REVIEW_STRATEGY_LIST:
         try:
-            result = strategy.fetch_reviews(
-                query, max_products=settings.max_review_products
-            )
+            result = strategy.fetch_reviews(query)
             reviews.extend(result)
         except Exception:
             print("Strategy %s failed for query=%s", type(strategy).__name__, query)

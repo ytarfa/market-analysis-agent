@@ -1,4 +1,5 @@
 # ruff: noqa: E501
+from typing import cast
 from unittest.mock import MagicMock, patch
 
 import pytest
@@ -107,12 +108,15 @@ def service() -> SerpapiAmazonProductService:
     with patch.object(SerpapiAmazonProductService, "__init__", return_value=None):
         instance = SerpapiAmazonProductService()
         instance.client = MagicMock()
+        instance._cache = MagicMock()
+        instance._cache.read.return_value = None
         return instance
 
 
 def test_search_product_returns_amazon_product_response(
     service: SerpapiAmazonProductService,
 ) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
     service.client.search = MagicMock(return_value=MOCK_PRODUCT_RESPONSE)
 
     result: AmazonProductResponse = service.search_product("B0C4922P4M")
@@ -125,6 +129,7 @@ def test_search_product_returns_amazon_product_response(
 def test_search_product_maps_product_info_correctly(
     service: SerpapiAmazonProductService,
 ) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
     service.client.search = MagicMock(return_value=MOCK_PRODUCT_RESPONSE)
 
     result: AmazonProductResponse = service.search_product("B0C4922P4M")
@@ -143,6 +148,7 @@ def test_search_product_maps_product_info_correctly(
 def test_search_product_maps_review_summary_correctly(
     service: SerpapiAmazonProductService,
 ) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
     service.client.search = MagicMock(return_value=MOCK_PRODUCT_RESPONSE)
 
     result: AmazonProductResponse = service.search_product("B0C4922P4M")
@@ -155,6 +161,7 @@ def test_search_product_maps_review_summary_correctly(
 def test_search_product_maps_star_histogram_correctly(
     service: SerpapiAmazonProductService,
 ) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
     service.client.search = MagicMock(return_value=MOCK_PRODUCT_RESPONSE)
 
     result: AmazonProductResponse = service.search_product("B0C4922P4M")
@@ -170,6 +177,7 @@ def test_search_product_maps_star_histogram_correctly(
 def test_search_product_maps_author_reviews_correctly(
     service: SerpapiAmazonProductService,
 ) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
     service.client.search = MagicMock(return_value=MOCK_PRODUCT_RESPONSE)
 
     result: AmazonProductResponse = service.search_product("B0C4922P4M")
@@ -188,6 +196,7 @@ def test_search_product_maps_author_reviews_correctly(
 def test_search_product_raises_on_missing_product_results(
     service: SerpapiAmazonProductService,
 ) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
     service.client.search = MagicMock(
         return_value={
             "reviews_information": MOCK_PRODUCT_RESPONSE["reviews_information"]
@@ -201,6 +210,7 @@ def test_search_product_raises_on_missing_product_results(
 def test_search_product_raises_on_invalid_product_schema(
     service: SerpapiAmazonProductService,
 ) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
     service.client.search = MagicMock(
         return_value={"product_results": {"bad_field": "no_asin"}}
     )
@@ -212,6 +222,7 @@ def test_search_product_raises_on_invalid_product_schema(
 def test_search_product_handles_missing_reviews_information(
     service: SerpapiAmazonProductService,
 ) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
     service.client.search = MagicMock(
         return_value={
             "product_results": MOCK_PRODUCT_RESPONSE["product_results"],
@@ -222,3 +233,28 @@ def test_search_product_handles_missing_reviews_information(
 
     assert result.product_info.asin == "B0C4922P4M"
     assert result.reviews_information is None
+
+
+def test_search_product_returns_cached_result_on_cache_hit(
+    service: SerpapiAmazonProductService,
+) -> None:
+    cast(MagicMock, service._cache).read.return_value = MOCK_PRODUCT_RESPONSE
+
+    result: AmazonProductResponse = service.search_product("B0C4922P4M")
+
+    cast(MagicMock, service.client.search).assert_not_called()
+    assert isinstance(result, AmazonProductResponse)
+    assert result.product_info.asin == "B0C4922P4M"
+
+
+def test_search_product_writes_to_cache_on_cache_miss(
+    service: SerpapiAmazonProductService,
+) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
+    service.client.search = MagicMock(return_value=MOCK_PRODUCT_RESPONSE)
+
+    service.search_product("B0C4922P4M")
+
+    cast(MagicMock, service._cache).write.assert_called_once_with(
+        "B0C4922P4M", dict(MOCK_PRODUCT_RESPONSE)
+    )

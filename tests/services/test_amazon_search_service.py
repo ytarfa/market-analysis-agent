@@ -1,4 +1,5 @@
 # ruff: noqa: E501
+from typing import cast
 from unittest.mock import MagicMock, patch
 
 import pytest
@@ -49,21 +50,24 @@ MOCK_ORGANIC_RESULTS = [
     },
 ]
 
+MOCK_SEARCH_RESPONSE = {"organic_results": MOCK_ORGANIC_RESULTS}
+
 
 @pytest.fixture
 def service() -> SerpApiAmazonSearchService:
     with patch.object(SerpApiAmazonSearchService, "__init__", return_value=None):
         instance = SerpApiAmazonSearchService()
         instance.client = MagicMock()
+        instance._cache = MagicMock()
+        instance._cache.read.return_value = None
         return instance
 
 
 def test_search_product_returns_list_of_organic_results(
     service: SerpApiAmazonSearchService,
 ) -> None:
-    service.client.search = MagicMock(
-        return_value={"organic_results": MOCK_ORGANIC_RESULTS}
-    )
+    cast(MagicMock, service._cache).read.return_value = None
+    service.client.search = MagicMock(return_value=MOCK_SEARCH_RESPONSE)
 
     results = service.search_product("iPhone 16")
 
@@ -74,9 +78,8 @@ def test_search_product_returns_list_of_organic_results(
 def test_search_product_maps_fields_correctly(
     service: SerpApiAmazonSearchService,
 ) -> None:
-    service.client.search = MagicMock(
-        return_value={"organic_results": MOCK_ORGANIC_RESULTS}
-    )
+    cast(MagicMock, service._cache).read.return_value = None
+    service.client.search = MagicMock(return_value=MOCK_SEARCH_RESPONSE)
 
     results = service.search_product("iPhone 16")
 
@@ -91,9 +94,45 @@ def test_search_product_maps_fields_correctly(
 def test_search_product_raises_on_invalid_result_schema(
     service: SerpApiAmazonSearchService,
 ) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
     service.client.search = MagicMock(
         return_value={"organic_results": [{"bad_field": "no_asin_or_position"}]}
     )
 
     with pytest.raises(Exception):
         service.search_product("iPhone 16")
+
+
+def test_search_product_returns_cached_results_on_cache_hit(
+    service: SerpApiAmazonSearchService,
+) -> None:
+    cast(MagicMock, service._cache).read.return_value = MOCK_SEARCH_RESPONSE
+
+    results = service.search_product("iPhone 16")
+
+    cast(MagicMock, service.client.search).assert_not_called()
+    assert len(results) == 2
+    assert all(isinstance(r, AmazonSearchResult) for r in results)
+
+
+def test_search_product_writes_to_cache_on_cache_miss(
+    service: SerpApiAmazonSearchService,
+) -> None:
+    cast(MagicMock, service._cache).read.return_value = None
+    service.client.search = MagicMock(return_value=MOCK_SEARCH_RESPONSE)
+
+    service.search_product("iPhone 16")
+
+    cast(MagicMock, service._cache).write.assert_called_once_with(
+        "iPhone 16", dict(MOCK_SEARCH_RESPONSE)
+    )
+
+
+def test_search_product_does_not_call_api_on_cache_hit(
+    service: SerpApiAmazonSearchService,
+) -> None:
+    cast(MagicMock, service._cache).read.return_value = MOCK_SEARCH_RESPONSE
+
+    service.search_product("iPhone 16")
+
+    cast(MagicMock, service.client.search).assert_not_called()

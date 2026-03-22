@@ -1,20 +1,35 @@
-from fastapi import APIRouter, HTTPException
-from langchain_core.messages import HumanMessage
+from typing import Any
 
-from app.graph.graph import agent
+from fastapi import APIRouter, HTTPException
+
+from app.graph.analysis_pipeline import build_analysis_pipeline
 from app.schemas.analyze import AnalyzeRequest, AnalyzeResponse
+from app.schemas.research import CompressedResearch, ResearchBrief
 
 router = APIRouter()
 
 
 @router.post("/analyze", response_model=AnalyzeResponse)
 async def analyze(request: AnalyzeRequest) -> AnalyzeResponse:
+    pipeline = build_analysis_pipeline()
     try:
-        result = await agent.ainvoke(
-            {"messages": [HumanMessage(content=request.query)]}
-        )
+        result: dict[str, Any] = await pipeline.ainvoke({"query": request.query})
     except Exception as e:
-        raise HTTPException(status_code=502, detail=f"Agent call failed: {e}")
+        raise HTTPException(status_code=502, detail=f"Pipeline failed: {e}")
 
-    last_message = result["messages"][-1]
-    return AnalyzeResponse(query=request.query, response=last_message.content)
+    brief: ResearchBrief | None = result.get("brief")
+    if brief and not isinstance(brief, ResearchBrief):
+        brief = ResearchBrief.model_validate(brief)
+
+    raw_results: list[Any] = result.get("research_results", [])
+    research_results: list[CompressedResearch] = [
+        r if isinstance(r, CompressedResearch) else CompressedResearch.model_validate(r)
+        for r in raw_results
+    ]
+
+    return AnalyzeResponse(
+        query=request.query,
+        brief=brief,
+        research_results=research_results,
+        report=result.get("report", ""),
+    )

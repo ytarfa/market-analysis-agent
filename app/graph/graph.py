@@ -9,6 +9,7 @@ from langgraph.graph.state import CompiledStateGraph
 from app.config import settings
 from app.graph.state import AgentState
 from app.tools.fetch_reviews import fetch_reviews
+from app.tools.google_trends import google_trends
 from app.tools.web_search import web_search
 
 SYSTEM_PROMPT = """
@@ -32,7 +33,7 @@ llm = init_chat_model(
     max_tokens=settings.max_tokens,
 )
 
-tools: list[BaseTool] = [web_search, fetch_reviews]
+tools: list[BaseTool] = [web_search, fetch_reviews, google_trends]
 tools_by_name: dict[str, BaseTool] = {t.name: t for t in tools}
 llm_with_tools = llm.bind_tools(tools)
 

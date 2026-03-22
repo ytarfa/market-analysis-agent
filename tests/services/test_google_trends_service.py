@@ -194,13 +194,14 @@ def test_mock_service_returns_response_on_cache_hit(
     assert result.query == "electric bike"
 
 
-def test_mock_service_raises_on_cache_miss(
+def test_mock_service_returns_none_on_cache_miss(
     mock_service: MockGoogleTrendsService,
 ) -> None:
     cast(MagicMock, mock_service._cache).read.return_value = None
 
-    with pytest.raises(Exception, match="Google Trends cache wasn't hit"):
-        mock_service.search_trend("electric bike", "today 5-y")
+    result = mock_service.search_trend("electric bike", "today 5-y")
+
+    assert result is None
 
 
 def test_google_trends_response_flatten_with_all_data() -> None:

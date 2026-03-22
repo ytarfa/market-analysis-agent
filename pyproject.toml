@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "langsmith>=0.7.22",
+    "serpapi>=1.0.2",
 ]
 
 [tool.ruff]

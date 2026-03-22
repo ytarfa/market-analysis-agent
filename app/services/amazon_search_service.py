@@ -26,7 +26,7 @@ class SerpApiAmazonSearchService(AmazonSearchService, SerpapiService):
         super().__init__()
 
     def search_product(self, product_name: str) -> list[AmazonSearchResult]:
-        results = self.search(engine=ENGINE, query=product_name, amazon_domain=DOMAIN)
+        results = self.search(engine=ENGINE, k=product_name, amazon_domain=DOMAIN)
         organic_results: list[dict[str, Any]] = results["organic_results"]
         return [AmazonSearchResult.model_validate(r) for r in organic_results]
 

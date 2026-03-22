@@ -13,5 +13,5 @@ class SerpapiService:
             raise ValueError("SERPAPI_API_KEY is not set")
         self.client = Client(api_key=settings.serpapi_api_key)
 
-    def search(self, engine: str, query: str, **kwargs: Any) -> SerpResults:
-        return self.client.search({"engine": engine, "k": query, **kwargs})
+    def search(self, engine: str, **kwargs: Any) -> SerpResults:
+        return self.client.search({"engine": engine, **kwargs})

@@ -46,7 +46,7 @@ class Settings(BaseSettings):
     researcher_max_tokens: int = Field(default=1024, alias="RESEARCHER_MAX_TOKENS")
 
     compress_research_model: str = Field(
-        default="claude-haiku-4-5-20251001", alias="COMPRESS_RESEARCH_MODEL"
+        default="claude-sonnet-4-20250514", alias="COMPRESS_RESEARCH_MODEL"
     )
     compress_research_temperature: float = Field(
         default=0.0, alias="COMPRESS_RESEARCH_TEMPERATURE"
@@ -65,7 +65,7 @@ class Settings(BaseSettings):
     final_report_temperature: float = Field(
         default=0.5, alias="FINAL_REPORT_TEMPERATURE"
     )
-    final_report_max_tokens: int = Field(default=4096, alias="FINAL_REPORT_MAX_TOKENS")
+    final_report_max_tokens: int = Field(default=8192, alias="FINAL_REPORT_MAX_TOKENS")
 
     model_config = {"env_file": ".env", "populate_by_name": True}
 

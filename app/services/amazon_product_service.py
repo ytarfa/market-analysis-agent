@@ -1,3 +1,4 @@
+# ruff: noqa: E501
 from abc import ABC, abstractmethod
 from typing import Any
 
@@ -13,7 +14,7 @@ DOMAIN = "amazon.ca"
 AMAZON_PRODUCT_RESTRICTOR = [
     "product_results.{asin, title, brand, rating, reviews, extracted_price}",
     "reviews_information.summary.{text, customer_reviews}",
-    "reviews_information.authors_reviews[].{title, text, rating, date, author, verified_purchase}",  # noqa: E501
+    "reviews_information.authors_reviews[].{title, text, rating, date, author, verified_purchase}",
 ]
 
 

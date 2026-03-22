@@ -38,18 +38,15 @@ async def analyze(request: AnalyzeRequest) -> AnalyzeResponse:
     ]
 
     report: str = result.get("report", "")
-    report_path = ""
     if report:
         REPORTS_DIR.mkdir(parents=True, exist_ok=True)
         filename = f"{_slugify(request.query)}.md"
         path = REPORTS_DIR / filename
         path.write_text(report, encoding="utf-8")
-        report_path = str(path)
 
     return AnalyzeResponse(
         query=request.query,
         brief=brief,
         research_results=research_results,
         report=report,
-        report_path=report_path,
     )

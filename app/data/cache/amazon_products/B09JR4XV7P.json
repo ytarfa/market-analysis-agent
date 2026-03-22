@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B09JR4XV7P",
+    "title": "2021 Apple MacBook Pro (16-inch, Apple M1 Pro chip with 10\u2011core CPU and 16\u2011core GPU, 16GB RAM, 512GB SSD) - Space Grey - French",
+    "brand": "Visit the Apple Store",
+    "rating": 4.5,
+    "reviews": 897,
+    "extracted_price": 3399.0
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "The notebook computer delivers solid performance and is described as an extremely capable machine. Customers find the battery life impressive with a more robust battery. The screen and display receive praise for being amazing with excellent display hue. The speakers are fantastic and the camera and speakers are also good. However, some customers report durability issues, with one unit breaking in 3 days and shutting down a few seconds later.",
+      "customer_reviews": {
+        "5 star": 83,
+        "4 star": 7,
+        "3 star": 1,
+        "2 star": 1,
+        "1 star": 8
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Tr\u00e8s bon ordinateur",
+        "text": "Magnifique \u00e9cran, ordinateur tr\u00e8s rapide et silencieux. Cher mais \u00e7a vaut le prix. La garantie n'\u00e9tait pas activ\u00e9e initiallement, mais facilement regl\u00e9 avec Apple, donc aucun probl\u00e8me!",
+        "rating": 5.0,
+        "date": "December 8, 2023",
+        "author": "anton",
+        "verified_purchase": true
+      },
+      {
+        "title": "Flagship Laptop",
+        "text": "I chose this laptop over the M2 pro 16 as its SSD spend is twice as fast, is just as fast as the m2 in the real world for most things but stays cool when really pushed unlike the m2 and has a better sound. Even though I got this at a lower cost, I still would chose it over the m2 pro 16.",
+        "rating": 5.0,
+        "date": "October 29, 2023",
+        "author": "JP Edmonton AB",
+        "verified_purchase": true
+      },
+      {
+        "title": "Macbook pro",
+        "text": "excellent ordinateur qui va durer tres longtemps wow super",
+        "rating": 5.0,
+        "date": "December 30, 2022",
+        "author": "Jocelyn Saulnier",
+        "verified_purchase": true
+      },
+      {
+        "title": "Get what you pay for",
+        "text": "Very pricey but great computer without all the PC problems",
+        "rating": 5.0,
+        "date": "September 24, 2022",
+        "author": "Bill G",
+        "verified_purchase": true
+      },
+      {
+        "title": "Solid",
+        "text": "Solid performance and build quality.",
+        "rating": 5.0,
+        "date": "September 29, 2022",
+        "author": "Nwokedi N.",
+        "verified_purchase": true
+      },
+      {
+        "title": "SOUND AND D\u0130SPLAY +Battery life(Perfect)",
+        "text": "First Macbook And Best Mac Ever",
+        "rating": 5.0,
+        "date": "July 19, 2022",
+        "author": "serkan",
+        "verified_purchase": true
+      },
+      {
+        "title": "Issue macbook",
+        "text": "I think there's a problem with this Mac: if I move it, it makes a noise like something is detached inside. It's the same issue that was reported by a customer on Amazon on February 17, 2024. There's a video that was uploaded by the customer.",
+        "rating": 1.0,
+        "date": "April 10, 2024",
+        "author": "Byron Mcdonnell",
+        "verified_purchase": true
+      },
+      {
+        "title": "Mat\u00e9riel",
+        "text": "Bon achat",
+        "rating": 4.0,
+        "date": "June 27, 2023",
+        "author": "Paul",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

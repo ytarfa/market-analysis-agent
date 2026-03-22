@@ -1,4 +1,5 @@
 from typing import Any
+from urllib.parse import quote
 
 from fastapi import APIRouter, HTTPException
 
@@ -7,6 +8,13 @@ from app.schemas.analyze import AnalyzeRequest, AnalyzeResponse
 from app.schemas.research import CompressedResearch, ResearchBrief
 
 router = APIRouter()
+
+MARKDOWN_VIEWER_BASE = "https://markdownviewer.pages.dev"
+
+
+def _build_report_url(report: str) -> str:
+    cleaned = report.replace("\\n", "\n")
+    return f"{MARKDOWN_VIEWER_BASE}?md={quote(cleaned, safe='')}"
 
 
 @router.post("/analyze", response_model=AnalyzeResponse)
@@ -27,9 +35,13 @@ async def analyze(request: AnalyzeRequest) -> AnalyzeResponse:
         for r in raw_results
     ]
 
+    report: str = result.get("report", "")
+    report_url = _build_report_url(report) if report else ""
+
     return AnalyzeResponse(
         query=request.query,
         brief=brief,
         research_results=research_results,
-        report=result.get("report", ""),
+        report=report,
+        report_url=report_url,
     )

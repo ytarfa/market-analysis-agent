@@ -61,6 +61,15 @@ class ResearchPlan(BaseModel):
     )
 
 
+class DataSeries(BaseModel):
+    label: str = Field(
+        description="Name of this dataset (e.g. 'Retailer Prices', 'Monthly Search Interest').",
+    )
+    entries: dict[str, float] = Field(
+        description="Mapping of category/label to numeric value.",
+    )
+
+
 class CompressedResearch(BaseModel):
     topic_title: str = Field(
         description="The topic this research addresses.",
@@ -71,6 +80,14 @@ class CompressedResearch(BaseModel):
     key_data_points: list[str] = Field(
         default_factory=list,
         description=("Specific facts, figures, or quotes extracted from tool results."),
+    )
+    numeric_datasets: list[DataSeries] = Field(
+        default_factory=list,
+        description=(
+            "Structured numeric datasets extracted from tool results. "
+            "Extract whenever comparable numbers were found across items, "
+            "platforms, or time periods."
+        ),
     )
     confidence: float = Field(
         default=0.5,

@@ -105,6 +105,12 @@ def final_report_node(state: PipelineState) -> dict[str, str]:
         for r in state.research_results
     )
 
+    datasets_context: str = "\n\n".join(
+        f"### {ds.label}\n" + "\n".join(f"- {k}: {v}" for k, v in ds.entries.items())
+        for r in state.research_results
+        for ds in r.numeric_datasets
+    )
+
     report: str = cast(
         str,
         _report_llm.invoke(
@@ -120,7 +126,8 @@ def final_report_node(state: PipelineState) -> dict[str, str]:
                         f"Research questions:\n"
                         + "\n".join(f"- {q}" for q in brief.research_questions)
                         + f"\n</brief>\n\n"
-                        f"<research>\n{research_context}\n</research>"
+                        f"<research>\n{research_context}\n</research>\n\n"
+                        f"<datasets>\n{datasets_context}\n</datasets>"
                     ),
                 },
             ]

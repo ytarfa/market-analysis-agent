@@ -1,3 +1,4 @@
+# ruff: noqa: E501
 RESEARCHER_SYSTEM_PROMPT = """\
 You are a focused market research agent. Your assigned topic is:
 
@@ -37,6 +38,14 @@ Rules:
   0.6 = reasonable coverage with some gaps
   0.9 = strong data from multiple sources
   1.0 = comprehensive coverage
+
+- numeric_datasets should capture any comparable numeric data you found.
+  Each DataSeries has a label describing what the numbers represent and
+  an entries dict mapping category names to values. Examples:
+    • {"label": "Price by Retailer", "entries": {"Amazon": 999, "Best Buy": 1049, "Apple Store": 999}}
+    • {"label": "Rating by Competitor", "entries": {"Product A": 4.5, "Product B": 3.8, "Product C": 4.1}}
+    • {"label": "Monthly Search Interest", "entries": {"Jan": 72, "Feb": 65, "Mar": 80, "Apr": 91}}
+  If no comparable numbers exist, leave numeric_datasets empty.
 
 Do not fabricate data. If the tools returned nothing useful, say so
 and set confidence accordingly.

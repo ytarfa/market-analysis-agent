@@ -20,6 +20,8 @@ from app.tools.fetch_reviews import fetch_reviews
 from app.tools.google_trends import google_trends
 from app.tools.web_search import web_search
 
+COMPRESS_RETRY_LIMIT = 2
+
 
 class ResearcherState(BaseModel):
     topic: ResearchTopic = Field(
@@ -44,11 +46,15 @@ _researcher_llm = init_chat_model(
     max_tokens=settings.researcher_max_tokens,
 ).bind_tools(_tools)
 
-_compress_llm = init_chat_model(
-    model=settings.compress_research_model,
-    temperature=settings.compress_research_temperature,
-    api_key=settings.anthropic_api_key,
-).with_structured_output(CompressedResearch)
+_compress_llm = (
+    init_chat_model(
+        model=settings.compress_research_model,
+        temperature=settings.compress_research_temperature,
+        api_key=settings.anthropic_api_key,
+    )
+    .with_structured_output(CompressedResearch)
+    .with_retry(stop_after_attempt=2)
+)
 
 
 def researcher_node(state: ResearcherState) -> dict[str, list[BaseMessage]]:

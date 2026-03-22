@@ -51,7 +51,6 @@ class AmazonFetchReviewStrategy(FetchReviewStrategy):
             try:
                 reviews.extend(self._reviews_for_asin(asin))
             except Exception:
-                print("Failed to fetch reviews for ASIN=%s", asin)
                 continue
         return reviews
 
@@ -105,7 +104,6 @@ def fetch_reviews(query: str) -> list[Review]:
             result = strategy.fetch_reviews(query)
             reviews.extend(result)
         except Exception:
-            print("Strategy %s failed for query=%s", type(strategy).__name__, query)
             continue
 
     return reviews

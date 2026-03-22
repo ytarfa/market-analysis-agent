@@ -31,7 +31,6 @@ class SerpApiAmazonSearchService(AmazonSearchService, SerpapiService):
     def search_product(self, product_name: str) -> list[AmazonSearchResult]:
         cached: dict[str, Any] | None = self._cache.read(product_name)
         if cached is not None:
-            print("cache hit heheh")
             return [
                 AmazonSearchResult.model_validate(r) for r in cached["organic_results"]
             ]

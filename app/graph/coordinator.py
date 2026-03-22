@@ -10,7 +10,7 @@ from app.graph.coordinator_prompts import (
     EVALUATE_SUFFICIENCY_PROMPT,
     PLAN_RESEARCH_PROMPT,
 )
-from app.graph.researcher import _researcher_graph
+from app.graph.researcher import build_researcher_subgraph
 from app.schemas.research import (
     CompressedResearch,
     ResearchBrief,
@@ -53,6 +53,8 @@ _base_llm = init_chat_model(
 
 _plan_llm = _base_llm.with_structured_output(ResearchPlan)
 _sufficiency_llm = _base_llm.with_structured_output(ResearchComplete)
+
+_researcher_graph = build_researcher_subgraph()
 
 
 def plan_research_node(

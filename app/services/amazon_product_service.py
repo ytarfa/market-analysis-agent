@@ -1,9 +1,11 @@
 from abc import ABC, abstractmethod
+from typing import Any
 
 from pydantic import BaseModel, Field, model_validator
 
 from app.config import settings
 from app.services.serpapi_service import SerpapiService
+from app.utils.cache import FileCache
 
 ENGINE = "amazon_product"
 DOMAIN = "amazon.ca"
@@ -92,19 +94,31 @@ class AmazonProductService(ABC):
 class SerpapiAmazonProductService(AmazonProductService, SerpapiService):
     def __init__(self) -> None:
         super().__init__()
+        self._cache: FileCache = FileCache(namespace="amazon_products")
 
     def search_product(self, asin: str) -> AmazonProductResponse:
+        cached: dict[str, Any] | None = self._cache.read(asin)
+        if cached is not None:
+            return AmazonProductResponse.model_validate(cached)
         results = self.search(
             engine=ENGINE,
             asin=asin,
             amazon_domain=DOMAIN,
             json_restrictor=",".join(AMAZON_PRODUCT_RESTRICTOR),
         )
+        self._cache.write(asin, dict(results))
         return AmazonProductResponse.model_validate(results)
 
 
 class MockAmazonProductService(AmazonProductService):
-    pass
+    def __init__(self) -> None:
+        self._cache: FileCache = FileCache(namespace="amazon_products")
+
+    def search_product(self, asin: str) -> AmazonProductResponse:
+        cached: dict[str, Any] | None = self._cache.read(asin)
+        if cached is None:
+            raise Exception("Product cache wasn't hit...")
+        return AmazonProductResponse.model_validate(cached)
 
 
 def get_amazon_product_service() -> AmazonProductService:

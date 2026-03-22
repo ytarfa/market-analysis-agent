@@ -22,6 +22,7 @@ class Settings(BaseSettings):
     langsmith_project: str = Field(default="market-agent", alias="LANGSMITH_PROJECT")
     # SerpApi
     serpapi_api_key: str | None = Field(default=None, alias="SERPAPI_API_KEY")
+    max_review_products: int = Field(default=5, alias="MAX_REVIEW_PRODUCTS")
     # Model config
     model: str = Field(default="claude-sonnet-4-20250514", alias="MODEL")
     max_tokens: int = Field(default=1024, alias="MAX_TOKENS")

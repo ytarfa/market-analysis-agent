@@ -1,8 +1,10 @@
+# ruff: noqa: E501
 from abc import ABC, abstractmethod
 
 from langchain.tools import tool
 from pydantic import BaseModel
 
+from app.config import settings
 from app.services.amazon_product_service import (
     AmazonAuthorReview,
     AmazonProductResponse,
@@ -25,7 +27,7 @@ class Review(BaseModel):
 
 class FetchReviewStrategy(ABC):
     @abstractmethod
-    def fetch_reviews(self, query: str) -> list[Review]:
+    def fetch_reviews(self, query: str, max_products: int) -> list[Review]:
         pass
 
 
@@ -37,9 +39,9 @@ class AmazonFetchReviewStrategy(FetchReviewStrategy):
         self.amazon_search_service = get_amazon_search_service()
         self.amazon_product_service = get_amazon_product_service()
 
-    def fetch_reviews(self, query: str) -> list[Review]:
+    def fetch_reviews(self, query: str, max_products: int) -> list[Review]:
         search_results = self.amazon_search_service.search_product(query)
-        asins: list[str] = [r.asin for r in search_results]
+        asins: list[str] = [r.asin for r in search_results[:max_products]]
 
         reviews: list[Review] = []
         for asin in asins:
@@ -93,11 +95,12 @@ def fetch_reviews(query: str) -> list[Review]:
     Args:
         query: Product name or search terms (e.g. "iPhone 16 Pro", "Nike Air Max 90")
     """
-
     reviews = []
     for strategy in FETCH_REVIEW_STRATEGY_LIST:
         try:
-            result = strategy.fetch_reviews(query)
+            result = strategy.fetch_reviews(
+                query, max_products=settings.max_review_products
+            )
             reviews.extend(result)
         except Exception:
             print("Strategy %s failed for query=%s", type(strategy).__name__, query)

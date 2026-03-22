@@ -1,0 +1,30 @@
+{
+  "product_results": {
+    "asin": "B0073JVB9U",
+    "title": "Nike Men's Air Max Command Shoe Running Shoes, Black White Cool Grey, 8 US",
+    "brand": "Brand: Nike",
+    "rating": 4.2,
+    "reviews": 40
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 76,
+        "4 star": 5,
+        "3 star": 0,
+        "2 star": 7,
+        "1 star": 12
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Comfortable shoes",
+        "text": "Fit to right size as ordered. Very comfortable.",
+        "rating": 5.0,
+        "date": "April 11, 2025",
+        "author": "Steven MacDonald",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "product_results": {
+    "asin": "B0C1P9119R",
+    "title": "Nike Mens Running Shoes Running Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 2979,
+    "extracted_price": 99.93
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be good quality products that are super comfortable for running and training. They appreciate the good fit and lightweight design. The shoes have a nice look and are designed with attention to detail. Customers also value their versatility and durability.",
+      "customer_reviews": {
+        "5 star": 71,
+        "4 star": 15,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "They\u2019re good",
+        "text": "Used them for work. Pretty durable - other models didn\u2019t last as long. Comfortable.",
+        "rating": 5.0,
+        "date": "July 18, 2025",
+        "author": "Mike",
+        "verified_purchase": true
+      },
+      {
+        "title": "Looks expensive on my feet \ud83d\ude06",
+        "text": "I like the sneakers.",
+        "rating": 5.0,
+        "date": "November 8, 2025",
+        "author": "Duran Bahadur",
+        "verified_purchase": true
+      },
+      {
+        "title": "Tr\u00e8s bon service",
+        "text": "Tr\u00e8s bon",
+        "rating": 5.0,
+        "date": "August 9, 2025",
+        "author": "guy boucher",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

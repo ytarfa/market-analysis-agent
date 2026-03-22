@@ -1,0 +1,20 @@
+{
+  "product_results": {
+    "asin": "B077PXTMXH",
+    "title": "Nike - Air Max 270 GS - Color: White-Black - Size: 6.0US",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 101
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 79,
+        "4 star": 6,
+        "3 star": 6,
+        "2 star": 5,
+        "1 star": 4
+      }
+    }
+  }
+}

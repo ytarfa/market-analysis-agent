@@ -1,0 +1,31 @@
+{
+  "product_results": {
+    "asin": "B07QRY8Z29",
+    "title": "Nike Mens Formation Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 2102
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "These shoes receive positive feedback for their quality, with customers describing them as good shoes with great shoe quality. Comfort stands out as a strong point, with users finding them super comfortable and noting they don't make feet hurt. The appearance also garners praise, with customers saying they look good and describing them as pretty shoes for winter and spring. However, customers have mixed opinions on fit and durability, while the color receives mostly negative feedback.",
+      "customer_reviews": {
+        "5 star": 81,
+        "4 star": 7,
+        "3 star": 5,
+        "2 star": 1,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Nice",
+        "text": "Shoe",
+        "rating": 3.0,
+        "date": "February 14, 2025",
+        "author": "Patton carlos",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

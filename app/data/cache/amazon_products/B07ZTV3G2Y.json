@@ -1,0 +1,48 @@
+{
+  "product_results": {
+    "asin": "B07ZTV3G2Y",
+    "title": "Nike Womens Running. Running Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 1265,
+    "extracted_price": 234.92
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes visually appealing, describing them as nice and noting they look good. The shoes provide comfort, with users finding them very comfortable and particularly suitable for running. The fit receives positive feedback, with customers reporting a perfect fit. However, concerns arise regarding durability, with some expressing doubts about the durability of the stitching on the leather and describing them as very hard. Customers have mixed opinions on the size and quality of stitching.",
+      "customer_reviews": {
+        "5 star": 79,
+        "4 star": 8,
+        "3 star": 5,
+        "2 star": 2,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Nice boots",
+        "text": "I like this product.",
+        "rating": 5.0,
+        "date": "July 27, 2023",
+        "author": "Y",
+        "verified_purchase": true
+      },
+      {
+        "title": "They are nice and came to size",
+        "text": "Not sure if they are real \u2026 the stitching isn\u2019t exactly perfect on the right compared to the left .. of they are real then they are a reasonable price . The toe stitching looks as though it may cause problems in the future",
+        "rating": 3.0,
+        "date": "April 16, 2023",
+        "author": "Trevor N.",
+        "verified_purchase": true
+      },
+      {
+        "title": "Super Sweet Kicks!",
+        "text": "These particular Nike\u2019s fit just to perfection. Like taking a time machine back to the 90\u2019s \u2026 they look rad, but more importantly these Nike Air\u2019s are the most comfortable shoe I\u2019ve ever owned. Total home run.",
+        "rating": 5.0,
+        "date": "November 6, 2021",
+        "author": "Christopher",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

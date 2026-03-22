@@ -1,0 +1,32 @@
+{
+  "product_results": {
+    "asin": "B0CSF3TQ5N",
+    "title": "Nike Mens Air Max 90 Running Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 2602,
+    "extracted_price": 259.84
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to have awesome quality and describe them as a good product. They appreciate the elegant appearance and note that the shoes look fresh. The cushioning receives positive feedback, with customers saying they are very comfortable and that the sole provides good shock absorption for walking. Customers are satisfied with the color and appreciate the durability. However, customers have different opinions on fit and disagree on sizing.",
+      "customer_reviews": {
+        "5 star": 74,
+        "4 star": 13,
+        "3 star": 4,
+        "2 star": 2,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Rapidit\u00e9 de livraison",
+        "text": "Tout \u00e9tais parfait",
+        "rating": 5.0,
+        "date": "January 10, 2021",
+        "author": "roberto d`angeli",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

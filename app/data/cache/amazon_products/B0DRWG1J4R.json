@@ -1,0 +1,20 @@
+{
+  "product_results": {
+    "asin": "B0DRWG1J4R",
+    "title": "Nike Women's Low Neck Running Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.1,
+    "reviews": 15
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 61,
+        "4 star": 15,
+        "3 star": 8,
+        "2 star": 8,
+        "1 star": 8
+      }
+    }
+  }
+}

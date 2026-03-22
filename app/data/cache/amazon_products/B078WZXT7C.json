@@ -1,0 +1,31 @@
+{
+  "product_results": {
+    "asin": "B078WZXT7C",
+    "title": "Nike Men's Air Max 270, BLACK/WHITE, 12 M US",
+    "brand": "Brand: Nike",
+    "rating": 3.9,
+    "reviews": 180
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "The shoes are comfortable to wear. However, customers report issues with durability, noting that the sides tear apart and the tread wears down over time.",
+      "customer_reviews": {
+        "5 star": 63,
+        "4 star": 9,
+        "3 star": 5,
+        "2 star": 5,
+        "1 star": 18
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "best shoes out there.",
+        "text": "love these kicks, like walking on air.",
+        "rating": 5.0,
+        "date": "September 21, 2025",
+        "author": "rick giovannini",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

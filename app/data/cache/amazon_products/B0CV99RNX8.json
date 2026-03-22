@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0CV99RNX8",
+    "title": "Nike Air Max 270 Women's Shoes (AH6789-703, Team Gold/Saturn Gold/Metallic Gold/Black)",
+    "brand": "Brand: Nike",
+    "rating": 4.2,
+    "reviews": 19,
+    "extracted_price": 249.0
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 69,
+        "4 star": 12,
+        "3 star": 0,
+        "2 star": 8,
+        "1 star": 11
+      }
+    }
+  }
+}

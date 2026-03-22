@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0DS6LQ1B4",
+    "title": "Nike Air Max 270 Men's Shoes (AH8050-703, Light Lemon Twist/Black/Anthracite/White)",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 34,
+    "extracted_price": 243.24
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 71,
+        "4 star": 7,
+        "3 star": 11,
+        "2 star": 7,
+        "1 star": 4
+      }
+    }
+  }
+}

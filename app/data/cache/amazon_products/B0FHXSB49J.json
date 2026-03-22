@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0FHXSB49J",
+    "title": "Nike Womens Air Max 270 2 Laced Shoes",
+    "brand": "Brand: Nike",
+    "rating": 3.4,
+    "reviews": 13,
+    "extracted_price": 311.5
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 52,
+        "4 star": 0,
+        "3 star": 18,
+        "2 star": 0,
+        "1 star": 30
+      }
+    }
+  }
+}

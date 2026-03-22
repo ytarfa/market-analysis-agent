@@ -1,0 +1,40 @@
+{
+  "product_results": {
+    "asin": "B0F4VKSJZK",
+    "title": "LUCKY STEP Women's Fashion Sneakers Classic Retro Fancy Casual Shoes Gum Sole Leisure Walking Skate Shoes",
+    "brand": "Brand: LUCKY STEP",
+    "rating": 4.2,
+    "reviews": 232,
+    "extracted_price": 53.99
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes look adorable and work well for dressing down more polished outfits. They describe the shoes as super comfortable with feet never becoming sore. The quality receives positive feedback, with customers calling them good quality and great shoes. The color options are well-received, particularly the neutral tones that are easy to style. Customers are satisfied with the value for money, though they have mixed opinions on the fit.",
+      "customer_reviews": {
+        "5 star": 65,
+        "4 star": 14,
+        "3 star": 11,
+        "2 star": 4,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Court shoes",
+        "text": "Love them. Comfortable, look good . A great choice",
+        "rating": 5.0,
+        "date": "January 25, 2026",
+        "author": "Cindy Bojda",
+        "verified_purchase": true
+      },
+      {
+        "title": "SUPER CUTE!",
+        "text": "These are super cute and totally comfortable I wear them waitressing and my feet are never sore after an 8 hour day",
+        "rating": 5.0,
+        "date": "February 10, 2026",
+        "author": "Therese Cushing",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

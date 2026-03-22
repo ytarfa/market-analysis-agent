@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0DSCSCHV8",
+    "title": "Nike Women's Air Max 270 Sneakers",
+    "brand": "Brand: Nike",
+    "rating": 4.6,
+    "reviews": 25,
+    "extracted_price": 219.28
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 78,
+        "4 star": 10,
+        "3 star": 12,
+        "2 star": 0,
+        "1 star": 0
+      }
+    }
+  }
+}

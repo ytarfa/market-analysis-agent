@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0B1YF6486",
+    "title": "Nike Womens AH6789",
+    "brand": "Brand: Nike",
+    "rating": 4.2,
+    "reviews": 76
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "The shoes have a great look that customers appreciate. However, opinions on comfort vary among users, with some finding them comfortable while others have different experiences.",
+      "customer_reviews": {
+        "5 star": 68,
+        "4 star": 11,
+        "3 star": 11,
+        "2 star": 2,
+        "1 star": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B08R151QJH",
+    "title": "Nike Womens Air Max Correlate Running Trainers 511417 Sneakers Shoes",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 1430,
+    "extracted_price": 120.7
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes comfortable and supportive. They describe the shoes as good looking and mention they have a big mom vibe. Customers are happy with the color. However, opinions are mixed regarding the fit, quality, and size of the shoes.",
+      "customer_reviews": {
+        "5 star": 74,
+        "4 star": 11,
+        "3 star": 7,
+        "2 star": 3,
+        "1 star": 5
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Good fit, good support, and nice colour combinations.",
+        "text": "These are my go to shoes for walking on holidays. Good support and they never hurt my feet. I do a lot of walking so that is important.",
+        "rating": 5.0,
+        "date": "February 6, 2026",
+        "author": "Margaret",
+        "verified_purchase": true
+      },
+      {
+        "title": "Super comfortable and looks great",
+        "text": "Great shoes, great price",
+        "rating": 5.0,
+        "date": "October 20, 2025",
+        "author": "paul c.",
+        "verified_purchase": true
+      },
+      {
+        "title": "Robuste",
+        "text": "Tr\u00e8s belle , bonne taille et super confortable . Arriv\u00e9 dans sa boite Nike .",
+        "rating": 5.0,
+        "date": "August 25, 2025",
+        "author": "Claudine Carrier",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nice shoes",
+        "text": "Fit true to size, beautiful shoes. Only giving 4 stars because they came a little later than they said they would. They were delayed awhile, but did come!",
+        "rating": 4.0,
+        "date": "December 16, 2025",
+        "author": "Cassia Davy",
+        "verified_purchase": true
+      },
+      {
+        "title": "Love these!!",
+        "text": "Fit great and super comfy!! Absolutely love the colours!",
+        "rating": 5.0,
+        "date": "January 29, 2026",
+        "author": "Ken",
+        "verified_purchase": true
+      },
+      {
+        "title": "Don\u2019t question, just buy them!",
+        "text": "Sizing is perfect, great condition, super comfortable!",
+        "rating": 5.0,
+        "date": "March 5, 2026",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Run small l, colour may be different but super cute!!!",
+        "text": "I'll start by saying these shoes are so sharp. Honestly, great looking sneakers. If that is all you are looking for then these are for you.I will be returning mine unfortunately.Reasons:They fit small. I am usually an 8.5 to 9 depending on the shoe. I ordered a 9 and they fit but my foot felt crammed in. The width was not a comfortable wide for me. They could be good with a narrower foot but go a half size up for sure.Colour was not quite as pictured. The colour was more purple than the burgundy as pictured. Still nice but not what I expected.These could be comfy if I went a half size up but not for exercise. They are very bulky in the back and didn't feel stable for anything more than walking.All in all, very attractive shoe. Comfy for minimal exercise, great looking everyday sneaker, not for the gym or a run etcThey just were not for me and for what I was looking for. Honestly, I would have kept them just for a stylish running shoe and for everyday wear but my budget was for something I could work out in and these just aren't it.",
+        "rating": 3.0,
+        "date": "January 21, 2026",
+        "author": "stephanie loreto",
+        "verified_purchase": true
+      },
+      {
+        "title": "Fits well looking good",
+        "text": "Am loving it very comfortable",
+        "rating": 5.0,
+        "date": "February 1, 2026",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

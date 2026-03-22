@@ -1,0 +1,22 @@
+{
+  "product_results": {
+    "asin": "B0DBKSXLKP",
+    "title": "LUCKY STEP Women's Fashion Sneakers Neutral Comfortable Walking Running Gym Workout Shoes",
+    "brand": "Brand: LUCKY STEP",
+    "rating": 4.2,
+    "reviews": 147,
+    "extracted_price": 56.99
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes comfortable and suitable for wide feet. The shoes look lovely and can be dressed up or down for various occasions. Users describe them as good shoes and a nice product overall. The fit receives positive feedback, with customers noting they work well for walking or gym activities. However, customers have mixed opinions regarding the sizing.",
+      "customer_reviews": {
+        "5 star": 65,
+        "4 star": 16,
+        "3 star": 7,
+        "2 star": 5,
+        "1 star": 7
+      }
+    }
+  }
+}

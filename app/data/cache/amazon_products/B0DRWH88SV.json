@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0DRWH88SV",
+    "title": "Nike Air Max 90 LV8 Women's Shoes (FD4328-111, White/Soft Pearl/Platinum Tint/Sail)",
+    "brand": "Brand: Nike",
+    "rating": 3.8,
+    "reviews": 5,
+    "extracted_price": 407.81
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 54,
+        "4 star": 22,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 24
+      }
+    }
+  }
+}

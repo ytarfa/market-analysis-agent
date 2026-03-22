@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B078WZXT65",
+    "title": "Nike Men's Black Black",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 488
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be of great quality and very stylish. They describe them as comfortable to wear. However, customers have mixed opinions regarding the fit of the shoes.",
+      "customer_reviews": {
+        "5 star": 80,
+        "4 star": 8,
+        "3 star": 3,
+        "2 star": 1,
+        "1 star": 8
+      }
+    }
+  }
+}

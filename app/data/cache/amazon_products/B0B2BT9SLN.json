@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0B2BT9SLN",
+    "title": "Nike Mens Air Max 90 NRG DC6083 200 Ridgerock - Size 4",
+    "brand": "Brand: Nike",
+    "rating": 5.0,
+    "reviews": 1,
+    "extracted_price": 156.33
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 100,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 0
+      }
+    }
+  }
+}

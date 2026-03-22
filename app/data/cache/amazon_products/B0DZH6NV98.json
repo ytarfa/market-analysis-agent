@@ -1,0 +1,56 @@
+{
+  "product_results": {
+    "asin": "B0DZH6NV98",
+    "title": "LUCKY STEP Women's Retro Fashion Sneakers Thin Sole Casual Walking Lightweight Tennis Trainers Running Gym Workout Classic Comfortable Athletic Shoes",
+    "brand": "Brand: LUCKY STEP",
+    "rating": 4.4,
+    "reviews": 173,
+    "extracted_price": 59.99
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes super comfortable with no pain during wear. They describe the shoes as super cute and very cool in appearance. The fit is perfect and offers great value for the money. Customers consider them an excellent pair of shoes and a good product overall. However, customers have mixed opinions on sizing and foot support.",
+      "customer_reviews": {
+        "5 star": 72,
+        "4 star": 14,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Size up",
+        "text": "Size up! I found the toe box a little tight even though I sized up, but it stretched out after a few wears. Look cute.",
+        "rating": 5.0,
+        "date": "February 19, 2026",
+        "author": "Chad",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nice walking shoe",
+        "text": "I normally wear size 7 but I sized up to an 8 based on other customer reviews. I am glad I did because the fit is perfect. size 7 would have been too tight and small.",
+        "rating": 4.0,
+        "date": "November 12, 2025",
+        "author": "Tallia",
+        "verified_purchase": true
+      },
+      {
+        "title": "Not the best shoes",
+        "text": "Fit on the smaller side, had an odd smell out of the box and the tag at the back was bigger and stuck out",
+        "rating": 2.0,
+        "date": "October 14, 2025",
+        "author": "Hayley",
+        "verified_purchase": true
+      },
+      {
+        "title": "Small",
+        "text": "Great but small definitely size up!",
+        "rating": 4.0,
+        "date": "January 7, 2026",
+        "author": "Blanche",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

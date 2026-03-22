@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B005OD8438",
+    "title": "NIKE Air MAX Correlate, Men's Running Shoes",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 572,
+    "extracted_price": 169.89
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be good quality and super comfortable. They appreciate the great look and great details of the appearance. However, some customers experience issues with staining. Opinions are mixed regarding the fit and durability of the shoes.",
+      "customer_reviews": {
+        "5 star": 77,
+        "4 star": 9,
+        "3 star": 6,
+        "2 star": 1,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Nike product is the best",
+        "text": "Nice and comfortable shoe.",
+        "rating": 5.0,
+        "date": "March 2, 2026",
+        "author": "Christopher ilori",
+        "verified_purchase": true
+      },
+      {
+        "title": "Parfaite!",
+        "text": "Tout ce que l'on peut attendre d'une paire de Nike air! Juste parfaite, tr\u00e8s belle, tr\u00e8s confortable et durable.",
+        "rating": 5.0,
+        "date": "August 20, 2025",
+        "author": "Ludo",
+        "verified_purchase": true
+      },
+      {
+        "title": "It\u2019s Nike air",
+        "text": "Very comfortable but you know it\u2019s Nike air ! You can\u2019t go wrong e with this class of shoes ,i wear between 11.5 and 12 and and I got 12 and they fit just right:/",
+        "rating": 5.0,
+        "date": "April 21, 2025",
+        "author": "Alex",
+        "verified_purchase": true
+      },
+      {
+        "title": "Looks great",
+        "text": "Beautiful shoes",
+        "rating": 5.0,
+        "date": "June 7, 2025",
+        "author": "Fadi Ephrem",
+        "verified_purchase": true
+      },
+      {
+        "title": "Sucks",
+        "text": "Very poor quality!",
+        "rating": 1.0,
+        "date": "October 6, 2023",
+        "author": "Gerry",
+        "verified_purchase": true
+      },
+      {
+        "title": "Well quality",
+        "text": "Very nice and well built",
+        "rating": 5.0,
+        "date": "June 29, 2023",
+        "author": "Lex M.",
+        "verified_purchase": true
+      },
+      {
+        "title": "Possibly defective",
+        "text": "I love the shoes, unfortunately mine showed up in half a box (missing lid) and one of the shoes has a slight defect - not super noticeable but i think the seller gets discounted defective shoes and resells them at premium prices.",
+        "rating": 2.0,
+        "date": "November 13, 2024",
+        "author": "rusty",
+        "verified_purchase": true
+      },
+      {
+        "title": "They are really nice",
+        "text": "They are so well made.Beautiful runner.",
+        "rating": 5.0,
+        "date": "December 8, 2025",
+        "author": "Wendy",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

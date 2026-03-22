@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B084JRWXWS",
+    "title": "Nike Air Max 270 React Mens Running Trainers Cv1641 Sneakers Shoes",
+    "brand": "Brand: Nike",
+    "rating": 4.2,
+    "reviews": 22,
+    "extracted_price": 469.97
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 54,
+        "4 star": 35,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 11
+      }
+    }
+  }
+}

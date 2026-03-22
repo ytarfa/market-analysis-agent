@@ -1,0 +1,87 @@
+{
+  "product_results": {
+    "asin": "B08ZGWKZ3Q",
+    "title": "Nike Men's Free Run 2018 Running Shoes",
+    "brand": "Brand: Nike",
+    "rating": 4.6,
+    "reviews": 12847,
+    "extracted_price": 281.06
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be of good quality and very durable, with many noting they withstand punishment well. The shoes fit true to size, though some mention they can be very tight. Users describe them as super comfortable and soft, providing good foot support. The shoes have a great look and work well with casual or relaxed outfits.",
+      "customer_reviews": {
+        "5 star": 81,
+        "4 star": 9,
+        "3 star": 4,
+        "2 star": 1,
+        "1 star": 5
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "So soft!",
+        "text": "Love it, so soft, I\u2019m feel in heaven!",
+        "rating": 5.0,
+        "date": "July 8, 2025",
+        "author": "Angiie HV",
+        "verified_purchase": true
+      },
+      {
+        "title": "Thanks",
+        "text": "Beautiful",
+        "rating": 5.0,
+        "date": "October 3, 2025",
+        "author": "Diana Estefanos",
+        "verified_purchase": true
+      },
+      {
+        "title": "Highly recommended",
+        "text": "I love this shoe. No regrets at all buying it . It is so beautiful and classy. Highly recommended if you are looking for a good shoe.",
+        "rating": 5.0,
+        "date": "August 29, 2024",
+        "author": "Funke Anifowose",
+        "verified_purchase": true
+      },
+      {
+        "title": "Very comfy",
+        "text": "Most comfortable pair of slides I own, I\u2019m on my second pair and they are true to size. Would be nice if they made them in half sizes too though.",
+        "rating": 5.0,
+        "date": "January 24, 2023",
+        "author": "Cynthia",
+        "verified_purchase": true
+      },
+      {
+        "title": "\ud83d\udc4d\ud83c\udffb",
+        "rating": 4.0,
+        "date": "September 24, 2025",
+        "author": "Rajdeep singh",
+        "verified_purchase": true
+      },
+      {
+        "title": "I love these shoes",
+        "text": "I love these shoes. I have beat the living crap out of them and after a wash they are as good as new. I mean like I literally went mudding in them and then walked a kilometre in a river with the shoes submerged. No sign of the shoe giving up.",
+        "rating": 5.0,
+        "date": "February 2, 2017",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Perfect",
+        "text": "My son loves them",
+        "rating": 5.0,
+        "date": "November 5, 2020",
+        "author": "Janie Tremblay",
+        "verified_purchase": true
+      },
+      {
+        "title": "Five Stars",
+        "text": "thanks",
+        "rating": 5.0,
+        "date": "April 11, 2018",
+        "author": "Marvin B. Ostrom",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "product_results": {
+    "asin": "B078X1CGNP",
+    "title": "Nike Air Max 270 - US 11",
+    "brand": "Brand: Nike",
+    "rating": 4.2,
+    "reviews": 281
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 69,
+        "4 star": 10,
+        "3 star": 7,
+        "2 star": 3,
+        "1 star": 11
+      }
+    }
+  }
+}

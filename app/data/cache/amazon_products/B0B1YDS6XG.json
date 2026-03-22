@@ -1,0 +1,22 @@
+{
+  "product_results": {
+    "asin": "B0B1YDS6XG",
+    "title": "Nike Womens Gymnastics ShoesSneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 2772,
+    "extracted_price": 254.73
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes super comfortable and safe. They describe them as nice shoes and the bestest goodness shoe. The shoes look really nice and are considered sexy. However, customers have mixed opinions on the fit, size, and durability of the shoes.",
+      "customer_reviews": {
+        "5 star": 77,
+        "4 star": 9,
+        "3 star": 5,
+        "2 star": 2,
+        "1 star": 7
+      }
+    }
+  }
+}

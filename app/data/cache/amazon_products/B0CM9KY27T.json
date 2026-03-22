@@ -1,0 +1,20 @@
+{
+  "product_results": {
+    "asin": "B0CM9KY27T",
+    "title": "Nike - Air Max 90 - FN8005100",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 41
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 67,
+        "4 star": 14,
+        "3 star": 6,
+        "2 star": 6,
+        "1 star": 7
+      }
+    }
+  }
+}

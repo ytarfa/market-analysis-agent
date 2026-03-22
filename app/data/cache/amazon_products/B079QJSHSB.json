@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B079QJSHSB",
+    "title": "Nike Women's WMNS Air Max 270, White/Black-White, 7.5 M US",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 317
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes comfortable and note they never make them hurt. They describe them as good shoes with good quality. However, customers have different opinions on the fit and disagree on durability.",
+      "customer_reviews": {
+        "5 star": 84,
+        "4 star": 5,
+        "3 star": 3,
+        "2 star": 1,
+        "1 star": 7
+      }
+    }
+  }
+}

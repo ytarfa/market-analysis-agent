@@ -1,0 +1,31 @@
+{
+  "product_results": {
+    "asin": "B07TJ9VG4D",
+    "title": "Nike Women's Air Max Excee Shoes",
+    "brand": "Brand: Nike",
+    "rating": 4.2,
+    "reviews": 2769
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes super comfortable and note they never make feet sore. They describe them as a good pair of shoes with nice quality. The shoes look new and are considered the best looking. Customers are satisfied with the foot support. However, opinions are mixed regarding the fit, durability, and size of the shoes.",
+      "customer_reviews": {
+        "5 star": 65,
+        "4 star": 16,
+        "3 star": 8,
+        "2 star": 4,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Great",
+        "text": "They are exactly the same as the ones in the sports stores, I would recommend getting the half size up for wide foot as they recommend, I did not and they are tight in the toes",
+        "rating": 5.0,
+        "date": "May 25, 2025",
+        "author": "willow gordon",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

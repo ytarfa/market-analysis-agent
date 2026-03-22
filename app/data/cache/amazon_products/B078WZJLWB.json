@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B078WZJLWB",
+    "title": "Nike Mens Air Max 270 Running Shoes Black/White/Solar Red/Anthracite AH8050-002 Size 10",
+    "brand": "Brand: Nike",
+    "rating": 4.1,
+    "reviews": 399
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes comfortable to wear. However, opinions on the fit vary among users.",
+      "customer_reviews": {
+        "5 star": 67,
+        "4 star": 11,
+        "3 star": 4,
+        "2 star": 2,
+        "1 star": 16
+      }
+    }
+  }
+}

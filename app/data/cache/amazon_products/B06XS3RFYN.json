@@ -1,0 +1,80 @@
+{
+  "product_results": {
+    "asin": "B06XS3RFYN",
+    "title": "Nike Men's Air Max Torch 4 Running Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 1690,
+    "extracted_price": 158.99
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be very good quality and nice sneakers. They describe them as wicked comfortable, with feet not hurting anymore. The shoes look great and are well designed. Customers are satisfied with the value for money and like the weight. However, opinions are mixed regarding the fit and durability of the shoes.",
+      "customer_reviews": {
+        "5 star": 78,
+        "4 star": 11,
+        "3 star": 4,
+        "2 star": 1,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "One of the best torch\u2019s out there",
+        "text": "This is my second pair, the first lasted 7years of use and abuse. They are comfortable and long lasting, almost perfect for me",
+        "rating": 5.0,
+        "date": "November 11, 2024",
+        "author": "Osiricat",
+        "verified_purchase": true
+      },
+      {
+        "title": "So satisfied with my purchase!",
+        "text": "I bought these as a gift for my husband, he loved them as well as receiving compliments from others.Very satisfied with these shoes!",
+        "rating": 5.0,
+        "date": "January 2, 2021",
+        "author": "Gillian W.",
+        "verified_purchase": true
+      },
+      {
+        "title": "great trail runners.",
+        "text": "Had a these runners previously. Liked them so much I bought 2 pairs.",
+        "rating": 5.0,
+        "date": "November 25, 2019",
+        "author": "Brent McLellan",
+        "verified_purchase": true
+      },
+      {
+        "title": "Very Comfortable",
+        "text": "Item arrived on time and fits perfectly.",
+        "rating": 5.0,
+        "date": "August 16, 2019",
+        "author": "Kenneth F",
+        "verified_purchase": true
+      },
+      {
+        "title": "Try them on before buying",
+        "text": "The foot pad/sole is firmer than the lightweight cushioning ones I'm use to (air-max 90). The outer shell is narrower, harder better quality & heavier shoe than the nylon, stretchy & lighter ones I'm use to, so they fit a little tighter & didn't feel like a glove from the get go. The first week felt odd, but am getting use to them. Wearing certain types of socks do matter when slipping these on. 4* is generous. 3.5* more likely.",
+        "rating": 4.0,
+        "date": "September 10, 2021",
+        "author": "RedDog",
+        "verified_purchase": true
+      },
+      {
+        "title": "most comfortable shoes ever",
+        "text": "best shoes ever",
+        "rating": 5.0,
+        "date": "November 15, 2019",
+        "author": "greg",
+        "verified_purchase": true
+      },
+      {
+        "title": "Five Stars",
+        "text": "good running shoe and showed up on time.",
+        "rating": 5.0,
+        "date": "August 24, 2018",
+        "author": "HWillan",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

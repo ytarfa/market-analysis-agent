@@ -1,0 +1,39 @@
+{
+  "product_results": {
+    "asin": "B098PDST5C",
+    "title": "Nike Mens Air Jordan 1 Mid Se",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 1350,
+    "extracted_price": 380.0
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes super comfortable and very supportive. They describe the shoes as great and awesome in terms of quality. The style receives positive feedback, with customers noting they are very stylish and cute. The color also gets praise from buyers. However, customers have mixed opinions about the fit.",
+      "customer_reviews": {
+        "5 star": 77,
+        "4 star": 11,
+        "3 star": 4,
+        "2 star": 2,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Fraud",
+        "text": "Wrong size and quality is very poor.",
+        "rating": 1.0,
+        "date": "June 26, 2025",
+        "author": "Vishvdeep bhaniwal",
+        "verified_purchase": true
+      },
+      {
+        "title": "Not worth the brand!",
+        "text": "As cute as these are .. don\u2019t waste your money.. the fabric in these didn\u2019t last long ( holes in the fabric and they came apart from the seem) .. maybe a month of wear.. cheap made but over priced just for the brand.",
+        "rating": 3.0,
+        "date": "January 2, 2024",
+        "author": "Elize M"
+      }
+    ]
+  }
+}

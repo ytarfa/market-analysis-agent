@@ -1,0 +1,30 @@
+{
+  "product_results": {
+    "asin": "B09Y9L6KX3",
+    "title": "Nike - Air Max 90 - DH8010001 - Color: Black - Size: 7.5",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 42
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 76,
+        "4 star": 5,
+        "3 star": 6,
+        "2 star": 4,
+        "1 star": 9
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Beau cadeau \u00e0 offrir!",
+        "text": "Je les ai offert \u00e0 ma copine et elle les aime bien.",
+        "rating": 5.0,
+        "date": "December 30, 2024",
+        "author": "Simon R\u00e9millard",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

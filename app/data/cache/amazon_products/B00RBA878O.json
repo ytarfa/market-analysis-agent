@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B00RBA878O",
+    "title": "K-Swiss Men's ST329 CMF Sneaker",
+    "brand": "Brand: K-Swiss",
+    "rating": 4.5,
+    "reviews": 16571,
+    "extracted_price": 110.25
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes comfortable and supportive, with many noting they fit great and work well for wide feet. The shoes are described as good quality and great looking, with some calling them stunning espadrilles. Customers appreciate the lightweight design and sizing. However, opinions are mixed regarding durability and how easy they are to clean.",
+      "customer_reviews": {
+        "5 star": 79,
+        "4 star": 10,
+        "3 star": 4,
+        "2 star": 3,
+        "1 star": 4
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Bought a second pair",
+        "text": "So comfy I bought a second pair because they are so hard to find. Nice and wide",
+        "rating": 5.0,
+        "date": "December 27, 2025",
+        "author": "Rick T",
+        "verified_purchase": true
+      },
+      {
+        "title": "Amazing shoes",
+        "text": "Amazing shoes an style",
+        "rating": 5.0,
+        "date": "March 1, 2026",
+        "author": "Rene n.",
+        "verified_purchase": true
+      },
+      {
+        "title": "LOVE these sneakers!!!",
+        "text": "I had a problem with my feet, and needed a wide sneaker, these are perfect, they are super comfortable, fit great, i love everything about them.",
+        "rating": 5.0,
+        "date": "March 2, 2026",
+        "author": "Todd laurette",
+        "verified_purchase": true
+      },
+      {
+        "title": "Very well made but needs to also be sewn.",
+        "text": "I have worn many different brands but the K Swiss are the absolutely best. They are very well made, well formed and glued. Also available in Wide width these running shoes allow for my foot flex as I run. walk and work.Thanks to the people at K Swiss for a fabulous runner!The only improvement that needs to be made is that they need to be sewn in addition to the glueing. This will reduce the chance of the sole detaching.",
+        "rating": 5.0,
+        "date": "June 12, 2025",
+        "author": "Richard",
+        "verified_purchase": true
+      },
+      {
+        "title": "Half size to big despite ordering size 8 , my size ,so order half size smaller maybe for this shoe?",
+        "text": "Excellent shoe as always, i ordered the size i wear but oddly these shoes are a half size to big which makes no sense. Sometimes its easier if not smarter to go to a store and try on shoes, find the one you like and fits properly , then buy it off amazon as it is bound to be cheaper then a store. The return seems like a hassle so ill just wear them as a spare and go buy a new pair. Size 8 but very long shoe. k Swiss is a great brand and hard to find so if you can find a pair its worth the purchase.",
+        "rating": 4.0,
+        "date": "September 15, 2025",
+        "author": "Rick",
+        "verified_purchase": true
+      },
+      {
+        "title": "Les essayer cest les adopter !!",
+        "text": "Superbe chaussure tres classe !!",
+        "rating": 5.0,
+        "date": "January 25, 2026",
+        "author": "Fred S",
+        "verified_purchase": true
+      },
+      {
+        "title": "K-SWISS",
+        "text": "my favorite shoes very comfortable and stylish..Hard to find",
+        "rating": 5.0,
+        "date": "February 25, 2026",
+        "author": "Robin Henkel",
+        "verified_purchase": true
+      },
+      {
+        "title": "Excellent confort",
+        "text": "Excellent confort.",
+        "rating": 5.0,
+        "date": "February 9, 2026",
+        "author": "Martin Racette",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

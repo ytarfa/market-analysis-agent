@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B00A40GJXS",
+    "title": "Nike Mens Air Max 90 Essential Black Leather Trainers 7 US",
+    "brand": "Brand: Nike",
+    "rating": 3.7,
+    "reviews": 20,
+    "extracted_price": 233.74
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 51,
+        "4 star": 12,
+        "3 star": 10,
+        "2 star": 10,
+        "1 star": 17
+      }
+    }
+  }
+}

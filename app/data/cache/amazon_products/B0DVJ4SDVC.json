@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0DVJ4SDVC",
+    "title": "Nike Air Max 270 Men's Shoes (AH8050-031, Vast Grey/College Grey/Racer Blue/Summit White)",
+    "brand": "Brand: Nike",
+    "rating": 4.1,
+    "reviews": 13,
+    "extracted_price": 550.6
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 74,
+        "4 star": 0,
+        "3 star": 10,
+        "2 star": 0,
+        "1 star": 16
+      }
+    }
+  }
+}

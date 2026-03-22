@@ -1,0 +1,31 @@
+{
+  "product_results": {
+    "asin": "B0FQ3JVRJ5",
+    "title": "Nike Air Max 270 Women's Shoes (Photon Dust/Hyper Pink/White/Metallic Silver)",
+    "brand": "Brand: Nike",
+    "rating": 3.9,
+    "reviews": 3,
+    "extracted_price": 176.71
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 63,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 37,
+        "1 star": 0
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Horrible",
+        "text": "Do not purchase return item is a pain and you have to pay and you don't get all your money back.",
+        "rating": 2.0,
+        "date": "February 18, 2026",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

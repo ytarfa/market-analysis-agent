@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0FWD8ZG13",
+    "title": "Nike Air Max 90 Men's Shoes (Platinum Tint/Blue Lightning/Wolf Grey/Iron Grey)",
+    "brand": "Brand: Nike",
+    "rating": 5.0,
+    "reviews": 3,
+    "extracted_price": 205.8
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 100,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 0
+      }
+    }
+  }
+}

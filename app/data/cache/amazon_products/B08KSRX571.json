@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B08KSRX571",
+    "title": "Nike Women's Shoes Air Max 90 Eggplant CW1360-100",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 19,
+    "extracted_price": 175.21
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 55,
+        "4 star": 27,
+        "3 star": 18,
+        "2 star": 0,
+        "1 star": 0
+      }
+    }
+  }
+}

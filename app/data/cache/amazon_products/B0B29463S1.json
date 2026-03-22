@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0B29463S1",
+    "title": "Nike Mens Air Max 90 SE Fashion Sneakers (9.5)",
+    "brand": "Brand: Nike",
+    "rating": 3.6,
+    "reviews": 2,
+    "extracted_price": 221.82
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 53,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 47,
+        "1 star": 0
+      }
+    }
+  }
+}

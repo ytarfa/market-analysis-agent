@@ -1,0 +1,72 @@
+{
+  "product_results": {
+    "asin": "B084N5G59H",
+    "title": "Nike Mens Low-Top Sneakers Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 3371,
+    "extracted_price": 222.08
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be a great product with excellent quality. They describe them as very comfortable and note that they look great with a trendy appearance. The color receives praise, with customers calling it fabulous. The shoes provide good traction and foot support. However, customers have mixed opinions about the fit, and some express concerns about durability.",
+      "customer_reviews": {
+        "5 star": 72,
+        "4 star": 14,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Really nice kicks",
+        "text": "Wife loves Air Max 95's and this is a great colourway. Happy to have found.",
+        "rating": 5.0,
+        "date": "March 18, 2025",
+        "author": "Tactical Dad",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nike Men's Kyrie Flytrap IV Basketball Shoe",
+        "text": "Great fit, comfort, responsiveness and traction from what you would want in a shoe! I would highly recommend the Flytraps!",
+        "rating": 5.0,
+        "date": "June 2, 2023",
+        "author": "Rob Dawson",
+        "verified_purchase": true
+      },
+      {
+        "title": "Je me demande si ce sont de vrais Nike",
+        "text": "J'utilise des souliers Nike depuis plus de 20 ans et c'est la premi\u00e8re fois que j'ai des probl\u00e8mes avec la grandeur. Je chausse du 12 et j'ai dut retourner cette paire en \u00e9change de 13. M\u00eame le 13 n'est pas tr\u00e8s confortable car trop serr\u00e9. Je ne recommande pas.",
+        "rating": 2.0,
+        "date": "August 2, 2023",
+        "author": "Madeleine Morse",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nike",
+        "text": "The Shoe is below expectations and the material is very cheap in quality",
+        "rating": 1.0,
+        "date": "August 17, 2023",
+        "author": "Salam Sawaya",
+        "verified_purchase": true
+      },
+      {
+        "title": "After 3 months of light use, started creasing near the white foam piece",
+        "text": "My Nike Men's Kyrie Flytrap IV Basketball Shoe Black/White have started to crease all around the white foam peace and doesn't look nice anymore. I\u2019ve only had the shoes for 3 months, and would like the issue resolved please. Either it be a replacement, or some sort of compensation. It is disappointing for the price. I would definitely expect something of higher quality then this from Nike.",
+        "rating": 2.0,
+        "date": "November 7, 2022",
+        "author": "Evan",
+        "verified_purchase": true
+      },
+      {
+        "title": "Good",
+        "text": "La grandeur est parfaite et tr\u00e8s confortable",
+        "rating": 5.0,
+        "date": "September 2, 2022",
+        "author": "carmen savard",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

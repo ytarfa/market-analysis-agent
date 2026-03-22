@@ -1,0 +1,48 @@
+{
+  "product_results": {
+    "asin": "B098PBSDY8",
+    "title": "Nike Mens Air Max Running Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 2942,
+    "extracted_price": 197.22
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "These shoes receive positive feedback across multiple aspects. Customers describe them as very nice shoes and good sneakers. The comfort level stands out, with users finding them super comfortable, particularly praising the air bubble feature. The fit performs well, with customers noting a perfect fit and that the size runs true. Regarding color, most customers love the colours, though one mentions the color was too light. The durability impresses users, with reports that the shoes last years and remain in better shape over time.",
+      "customer_reviews": {
+        "5 star": 74,
+        "4 star": 13,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 5
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Great shoes",
+        "text": "Perfect",
+        "rating": 5.0,
+        "date": "January 3, 2020",
+        "author": "Carolyn",
+        "verified_purchase": true
+      },
+      {
+        "title": "Smaller then k expected",
+        "text": "Just fits to small",
+        "rating": 5.0,
+        "date": "December 28, 2022",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Fast delivery",
+        "text": "Made of cheap non water resistant materials. Not sure if it's a true Nike shoe or knock off.",
+        "rating": 3.0,
+        "date": "June 21, 2023",
+        "author": "Tim Porter",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

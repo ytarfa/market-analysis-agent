@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0B5YCQ1VV",
+    "title": "Nike Mens Air Max 270 Running Shoes, White/Rush Pink/Washed Teal/Black, 11.5",
+    "brand": "Brand: Nike",
+    "rating": 4.8,
+    "reviews": 6,
+    "extracted_price": 253.48
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 79,
+        "4 star": 21,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 0
+      }
+    }
+  }
+}

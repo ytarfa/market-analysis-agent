@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0D9P6G9J4",
+    "title": "Nike 9038/309 Icon Air Max 90 Card 068 Neutral Grey/Infrared/Cool Grey",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 40,
+    "extracted_price": 50.13
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 87,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 5,
+        "1 star": 8
+      }
+    }
+  }
+}

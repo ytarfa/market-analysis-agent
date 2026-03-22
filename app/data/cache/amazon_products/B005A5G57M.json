@@ -1,0 +1,32 @@
+{
+  "product_results": {
+    "asin": "B005A5G57M",
+    "title": "Nike Womens Low-Top Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 380,
+    "extracted_price": 179.91
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "The shoes are described as lovely trainers with an attractive appearance. Customers find them super comfortable to wear.",
+      "customer_reviews": {
+        "5 star": 80,
+        "4 star": 7,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 5
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Can\u2019t beat Nike",
+        "text": "Like walking on pillows",
+        "rating": 5.0,
+        "date": "March 12, 2026",
+        "author": "Robin",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

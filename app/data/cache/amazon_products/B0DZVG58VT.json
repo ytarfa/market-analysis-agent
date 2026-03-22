@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0DZVG58VT",
+    "title": "Nike Air Max 90 G Golf Shoes (HV9305-100, White/Royal Pulse)",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 11,
+    "extracted_price": 135.91
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 66,
+        "4 star": 22,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 12
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "product_results": {
+    "asin": "B079QLLXM6",
+    "title": "Nike Air Max 270 Mens Style : Ah8050",
+    "brand": "Brand: Nike",
+    "rating": 4.6,
+    "reviews": 102
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 81,
+        "4 star": 6,
+        "3 star": 7,
+        "2 star": 3,
+        "1 star": 3
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Meh",
+        "text": "People love these shoes, I don't. 13 EE and can't get them on, Nike always fit me. Also the cushion on the heal makes me feel like I'm going to break my ankles.",
+        "rating": 2.0,
+        "date": "December 3, 2022",
+        "author": "John Love",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

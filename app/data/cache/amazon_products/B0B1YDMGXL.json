@@ -1,0 +1,86 @@
+{
+  "product_results": {
+    "asin": "B0B1YDMGXL",
+    "title": "Nike Womens Race Running Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 3054
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "The shoes are very comfortable and provide good support. Customers find them cute looking and feminine in appearance. They describe the shoes as great quality and appreciate the great color combination. However, customers have mixed opinions about the fit.",
+      "customer_reviews": {
+        "5 star": 76,
+        "4 star": 10,
+        "3 star": 4,
+        "2 star": 3,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Great find!",
+        "text": "Shipping did take a little while, however it was worth it! They are great looking and very comfortable. Nothing looks off on them and they seem to be \u201cthe real deal\u201d I\u2019d buy them again for sure.",
+        "rating": 5.0,
+        "date": "October 22, 2022",
+        "author": "Anthea",
+        "verified_purchase": true
+      },
+      {
+        "title": "Comfortable",
+        "text": "Fit as expectedThe toe is more narrow than my other air max shoes but I'm loyal to this brand due to the dependable comfort",
+        "rating": 5.0,
+        "date": "December 12, 2022",
+        "author": "nmcavoy",
+        "verified_purchase": true
+      },
+      {
+        "title": "Very nice",
+        "text": "Nice quality, exactly what I was expected!Fit perfectly!",
+        "rating": 5.0,
+        "date": "July 6, 2023",
+        "author": "TiRomain",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nice runners",
+        "text": "Very comfortable, well made and met all expectations. I would recommend.",
+        "rating": 5.0,
+        "date": "August 15, 2022",
+        "author": "Jennifer Boudreau",
+        "verified_purchase": true
+      },
+      {
+        "title": "You get what you paid for!",
+        "text": "Finally I found womens Nike Air runners! I had to drop 1 star as not too keen on the colors & the width could be a tad wider but overall it fits like a charm. Super happy! Nice that you could put in insoles in them too. I normally wear size 7 but went for 7.5 instead.",
+        "rating": 4.0,
+        "date": "March 28, 2021",
+        "author": "Blue",
+        "verified_purchase": true
+      },
+      {
+        "title": "My favorite",
+        "text": "Still my favorite shoes. Didn't come in the actual Nike box so that was a little disappointing but otherwise, they're good.",
+        "rating": 5.0,
+        "date": "October 13, 2025",
+        "author": "Lucky Ros",
+        "verified_purchase": true
+      },
+      {
+        "title": "Qualit\u00e9",
+        "text": "Amazing shoes",
+        "rating": 5.0,
+        "date": "December 28, 2023",
+        "author": "CB",
+        "verified_purchase": true
+      },
+      {
+        "title": "True to size",
+        "text": "Perfect fit & looks exactly the way I wanted it to. I was a little hesitant at first due to the fact that the Nike box it came in being completely destroyed and had an awkward smell but once opened and tried on, I was pleased.",
+        "rating": 5.0,
+        "date": "July 4, 2021",
+        "author": "Tea"
+      }
+    ]
+  }
+}

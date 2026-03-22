@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0DVSDJ3GT",
+    "title": "Nike Air Max 270 Women's Shoes (IB4017-468, Aluminum/Alabaster/Pink Foam/Sail)",
+    "brand": "Brand: Nike",
+    "rating": 4.8,
+    "reviews": 22,
+    "extracted_price": 351.16
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 77,
+        "4 star": 23,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 0
+      }
+    }
+  }
+}

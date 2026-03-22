@@ -1,0 +1,20 @@
+{
+  "product_results": {
+    "asin": "B0DQDGM6X5",
+    "title": "Nike Womens Air Max 90 Se Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 27
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 75,
+        "4 star": 6,
+        "3 star": 9,
+        "2 star": 5,
+        "1 star": 5
+      }
+    }
+  }
+}

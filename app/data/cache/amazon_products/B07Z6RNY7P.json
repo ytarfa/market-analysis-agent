@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B07Z6RNY7P",
+    "title": "Nike Air Max 270 React",
+    "brand": "Brand: Nike",
+    "rating": 3.5,
+    "reviews": 49,
+    "extracted_price": 205.74
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 47,
+        "4 star": 14,
+        "3 star": 8,
+        "2 star": 7,
+        "1 star": 24
+      }
+    }
+  }
+}

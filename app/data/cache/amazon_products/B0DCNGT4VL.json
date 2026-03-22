@@ -1,0 +1,80 @@
+{
+  "product_results": {
+    "asin": "B0DCNGT4VL",
+    "title": "LUCKY STEP Women's Platform Canvas Sneaker Casual Lace-up Stylish Tennis Running Retro Classic Trainers Walking Fashion Sneakers",
+    "brand": "Brand: LUCKY STEP",
+    "rating": 4.4,
+    "reviews": 366,
+    "extracted_price": 53.99
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes super comfortable, noting that feet won't hurt from long standing or walking. They describe the shoes as very stylish and trendy in appearance. The quality receives positive feedback, with customers calling them good shoes and expressing appreciation for the quality. However, customers have mixed opinions about the fit.",
+      "customer_reviews": {
+        "5 star": 73,
+        "4 star": 13,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Looks amazing, very comfortable for all day use, standing/walking",
+        "text": "I've become such a fan of this brand. They are comfortable, fit true to size, are well made, and unique. I'm on my feet all day but have to be fashionable in my job. This brand hits the mark. I have 2 pairs/styles sp far and a few in my cart for future purchases.",
+        "rating": 5.0,
+        "date": "January 11, 2026",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Qualit\u00e9",
+        "text": "Sont tr\u00e8s confortable et le look vintage j\u2019aime beaucoup",
+        "rating": 5.0,
+        "date": "September 17, 2025",
+        "author": "Lise L.",
+        "verified_purchase": true
+      },
+      {
+        "title": "La mati\u00e8re est pareille que la photo",
+        "text": "C\u2019est de la bonne qualit\u00e9",
+        "rating": 5.0,
+        "date": "November 12, 2025",
+        "author": "Fatoumata souare",
+        "verified_purchase": true
+      },
+      {
+        "title": "Look good",
+        "text": "Comfortable, can dress up or down",
+        "rating": 5.0,
+        "date": "December 17, 2025",
+        "author": "KE",
+        "verified_purchase": true
+      },
+      {
+        "title": "Excellent comfy shoes!",
+        "text": "My second pair! I\u2019m a true size 8 women\u2019s and they fit perfectly. They are very comfy!!!",
+        "rating": 5.0,
+        "date": "March 15, 2026",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Shoes",
+        "text": "Good quality for the price",
+        "rating": 5.0,
+        "date": "January 9, 2026",
+        "author": "Nick",
+        "verified_purchase": true
+      },
+      {
+        "title": "Not as pictured",
+        "text": "Item was much different than what I expected. Disappointed in the quality and sizing.",
+        "rating": 1.0,
+        "date": "September 29, 2025",
+        "author": "Rob",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

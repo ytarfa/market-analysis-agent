@@ -1,0 +1,20 @@
+{
+  "product_results": {
+    "asin": "B078WZY13N",
+    "title": "Nike Men's Air Max 270 Competition Running Shoes, White, 10.5 US",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 181
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 74,
+        "4 star": 13,
+        "3 star": 5,
+        "2 star": 1,
+        "1 star": 7
+      }
+    }
+  }
+}

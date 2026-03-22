@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0D6Y94X3C",
+    "title": "Nike Air Max 90 Men's Shoes (DM0029-107, White/Cyber/Dark Smoke Grey/Khaki)",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 31,
+    "extracted_price": 155.06
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 67,
+        "4 star": 20,
+        "3 star": 5,
+        "2 star": 4,
+        "1 star": 4
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "product_results": {
+    "asin": "B0978LM9H8",
+    "title": "Nike Unisex-Adult Nike Metcon 6 Soccer Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 2168,
+    "extracted_price": 144.85
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "These running shoes receive positive feedback for their quality, with customers describing them as really good sneakers and excellent running shoes. Users find them comfortable and supportive, with a great fit that's not too tight or loose. The shoes are very suitable for running and great to work and workout in. Customers note that they look just ok and look just how they feel. However, opinions are mixed regarding the color and durability of the shoes.",
+      "customer_reviews": {
+        "5 star": 71,
+        "4 star": 15,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 6
+      }
+    }
+  }
+}

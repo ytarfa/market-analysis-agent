@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0G31J76Y2",
+    "title": "Nike Air Max 270 - Women's (Summit White/Pink Spell/Summit White)",
+    "brand": "Brand: Nike",
+    "rating": 5.0,
+    "reviews": 1,
+    "extracted_price": 329.58
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 100,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 0
+      }
+    }
+  }
+}

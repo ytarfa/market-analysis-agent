@@ -1,0 +1,32 @@
+{
+  "product_results": {
+    "asin": "B0CSF3PKR4",
+    "title": "Nike Mens Air Max 90 Gore-tex Men's Shoes Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 154,
+    "extracted_price": 156.83
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "These shoes receive positive feedback for their overall quality, with customers describing them as great and amazing. The fit is generally well-received, with customers noting they look and fit clean. The style appeals to buyers, who find it trendy. However, comfort presents some challenges, as customers report the shoes are very uncomfortable at first and feet tend to hurt after extended wear.",
+      "customer_reviews": {
+        "5 star": 70,
+        "4 star": 12,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 10
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Fire",
+        "text": "Amazing!",
+        "rating": 5.0,
+        "date": "July 13, 2025",
+        "author": "Cody",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

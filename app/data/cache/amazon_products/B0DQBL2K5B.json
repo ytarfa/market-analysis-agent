@@ -1,0 +1,64 @@
+{
+  "product_results": {
+    "asin": "B0DQBL2K5B",
+    "title": "LUCKY STEP Women's Retro Fashion Sneakers Non Slip Comfortable Casual Running Shoes Breathable Classic Walking Trainers",
+    "brand": "Brand: LUCKY STEP",
+    "rating": 4.2,
+    "reviews": 170,
+    "extracted_price": 56.99
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "The shoes are described as super cute and strike a balance between trendy. Customers find them to be quality school shoes and great shoes overall. They are super comfortable, with feet and legs not cramping or fatigued during wear. Customers are satisfied with the color, though they have mixed opinions about the size and fit.",
+      "customer_reviews": {
+        "5 star": 65,
+        "4 star": 14,
+        "3 star": 9,
+        "2 star": 5,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Great sneakers for fashion wear not sports, but great!",
+        "text": "These are so fabulous! Color is so amazing (baby blue) , so comfy and so stylish. Love the flatter sole as opposed to a chucky sole. I\u2019m a 9.5 and ordered a 10. Fits perfectly. Get them!\ud83d\udc4d",
+        "rating": 5.0,
+        "date": "March 14, 2026",
+        "author": "V",
+        "verified_purchase": true
+      },
+      {
+        "title": "Lucky shoes",
+        "text": "Really good quality.A little tight at first, but the more you wear it the more comfortable it gets",
+        "rating": 5.0,
+        "date": "January 10, 2026",
+        "author": "Felly",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nice quality",
+        "text": "Nice Quality, but a little on the Small Side. Consider ordering a Size Bigger.",
+        "rating": 4.0,
+        "date": "March 17, 2026",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Runs smallish but super cute",
+        "text": "Cute but fits tight. I got a 7 (normal size) and it pinches my toes. Returned them",
+        "rating": 3.0,
+        "date": "January 16, 2026",
+        "author": "sarah sidebottom",
+        "verified_purchase": true
+      },
+      {
+        "title": "Cute and comfortable shoes",
+        "text": "Very cute and comfortable shoes, fast delivery and good quality.",
+        "rating": 5.0,
+        "date": "November 14, 2025",
+        "author": "Kindle Customer",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

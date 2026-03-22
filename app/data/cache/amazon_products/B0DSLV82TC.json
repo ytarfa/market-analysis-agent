@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0DSLV82TC",
+    "title": "Nike Air Max 90 Men's Shoes (DM0029-112, White/Light Smoke Grey/Black/Particle Grey)",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 37,
+    "extracted_price": 437.75
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 77,
+        "4 star": 9,
+        "3 star": 8,
+        "2 star": 3,
+        "1 star": 3
+      }
+    }
+  }
+}

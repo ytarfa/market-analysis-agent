@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B00Q6ZBUB6",
+    "title": "Nike Zoom Hyperspeed Court CI2964 010 Black/White (Unisex)",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 4132,
+    "extracted_price": 99.9
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "These shoes receive positive feedback across multiple aspects. Customers describe them as good shoes with nice quality. The fit works well, with customers noting they fit good and are the right size. Comfort stands out as a strong point, with users finding them super comfortable and very comfortable lightweight shoes. The appearance also impresses customers, who say they look good and are very well designed. Customers appreciate the ankle support and find them versatile. However, opinions on durability are mixed among users.",
+      "customer_reviews": {
+        "5 star": 78,
+        "4 star": 10,
+        "3 star": 6,
+        "2 star": 1,
+        "1 star": 5
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Soulier conforme et bonne taille",
+        "text": "Super confortable et beau",
+        "rating": 5.0,
+        "date": "January 9, 2026",
+        "author": "Tr\u00e8s satisfait",
+        "verified_purchase": true
+      },
+      {
+        "title": "Great shoe",
+        "text": "These are awesome shoes ! Best looking shoes iv seen lately",
+        "rating": 5.0,
+        "date": "December 30, 2025",
+        "author": "Steve Purvis",
+        "verified_purchase": true
+      },
+      {
+        "title": "Shoes",
+        "text": "Shoes are perfect fit and very comfortable",
+        "rating": 5.0,
+        "date": "December 5, 2025",
+        "author": "Madhu",
+        "verified_purchase": true
+      },
+      {
+        "title": "Best Deal Worth It",
+        "text": "Beautiful Great Quality",
+        "rating": 5.0,
+        "date": "February 21, 2026",
+        "author": "Suzanne Bellefeuille",
+        "verified_purchase": true
+      },
+      {
+        "title": "Good choice",
+        "text": "Loved them and comfy",
+        "rating": 4.0,
+        "date": "December 24, 2025",
+        "author": "S.B",
+        "verified_purchase": true
+      },
+      {
+        "title": "Highly recommend these shoes",
+        "text": "I bought these Nike shoes for my son he loves them.",
+        "rating": 5.0,
+        "date": "March 20, 2026",
+        "author": "BC",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nike basketball shoes",
+        "text": "My grandson loves his new sneakers",
+        "rating": 5.0,
+        "date": "March 7, 2026",
+        "author": "I can\u2019t rate, as I didn\u2019t receive it. I hope I can get a refund",
+        "verified_purchase": true
+      },
+      {
+        "title": "Basketball",
+        "text": "Fits well can't wait to play",
+        "rating": 5.0,
+        "date": "January 7, 2026",
+        "author": "Bob",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

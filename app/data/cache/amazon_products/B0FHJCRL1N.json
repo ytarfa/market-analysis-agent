@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0FHJCRL1N",
+    "title": "Nike Air Max 270 Men's Shoes (Gym Red/Black/White)",
+    "brand": "Brand: Nike",
+    "rating": 4.7,
+    "reviews": 14,
+    "extracted_price": 481.51
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 91,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 9,
+        "1 star": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+[project]
+name = "market-analysis-agent-moov-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.135.1",
+    "langchain>=1.2.13",
+    "langgraph>=1.1.3",
+]

@@ -12,4 +12,3 @@ class AnalyzeResponse(BaseModel):
     brief: ResearchBrief | None = None
     research_results: list[CompressedResearch] = Field(default_factory=list)
     report: str = ""
-    report_url: str = ""

@@ -15,6 +15,10 @@ select = ["E", "F", "I"]  # pycodestyle, pyflakes, isort
 strict = true
 python_version = "3.13"
 
+[[tool.mypy.overrides]]
+module = ["tavily.*"]
+follow_untyped_imports = true
+
 dependencies = [
     "fastapi[standard]>=0.135.1",
     "langchain>=1.2.13",

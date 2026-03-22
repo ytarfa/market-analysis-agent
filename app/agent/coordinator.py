@@ -5,12 +5,12 @@ from langgraph.graph import START, StateGraph
 from langgraph.graph.state import CompiledStateGraph
 from pydantic import BaseModel, Field
 
-from app.config import settings
-from app.graph.coordinator_prompts import (
+from app.agent.coordinator_prompts import (
     EVALUATE_SUFFICIENCY_PROMPT,
     PLAN_RESEARCH_PROMPT,
 )
-from app.graph.researcher import build_researcher_subgraph
+from app.agent.researcher import build_researcher_subgraph
+from app.config import settings
 from app.schemas.research import (
     CompressedResearch,
     ResearchBrief,

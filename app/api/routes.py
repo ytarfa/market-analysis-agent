@@ -2,7 +2,7 @@ from typing import Any
 
 from fastapi import APIRouter, HTTPException
 
-from app.graph.analysis_pipeline import build_analysis_pipeline
+from app.agent.analysis_pipeline import build_analysis_pipeline
 from app.schemas.analyze import AnalyzeRequest, AnalyzeResponse
 from app.schemas.research import CompressedResearch, ResearchBrief
 

@@ -11,11 +11,11 @@ from langgraph.graph.message import add_messages
 from langgraph.graph.state import CompiledStateGraph
 from pydantic import BaseModel, Field
 
-from app.config import settings
-from app.graph.researcher_prompts import (
+from app.agent.researcher_prompts import (
     COMPRESS_RESEARCH_PROMPT,
     RESEARCHER_SYSTEM_PROMPT,
 )
+from app.config import settings
 from app.schemas.research import CompressedResearch, ResearchTopic
 from app.tools.fetch_reviews import fetch_reviews
 from app.tools.google_trends import google_trends

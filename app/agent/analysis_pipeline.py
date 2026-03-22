@@ -8,12 +8,12 @@ from langgraph.graph import END, START, StateGraph
 from langgraph.graph.state import CompiledStateGraph
 from pydantic import BaseModel, Field
 
-from app.config import settings
-from app.graph.analysis_pipeline_prompts import (
+from app.agent.analysis_pipeline_prompts import (
     FINAL_REPORT_PROMPT,
     GENERATE_BRIEF_PROMPT,
 )
-from app.graph.coordinator import build_research_coordinator
+from app.agent.coordinator import build_research_coordinator
+from app.config import settings
 from app.schemas.research import CompressedResearch, ResearchBrief
 
 

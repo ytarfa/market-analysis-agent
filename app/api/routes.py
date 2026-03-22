@@ -1,5 +1,6 @@
+import re
+from pathlib import Path
 from typing import Any
-from urllib.parse import quote
 
 from fastapi import APIRouter, HTTPException
 
@@ -9,12 +10,13 @@ from app.schemas.research import CompressedResearch, ResearchBrief
 
 router = APIRouter()
 
-MARKDOWN_VIEWER_BASE = "https://markdownviewer.pages.dev"
+REPORTS_DIR = Path("reports")
 
 
-def _build_report_url(report: str) -> str:
-    cleaned = report.replace("\\n", "\n")
-    return f"{MARKDOWN_VIEWER_BASE}?md={quote(cleaned, safe='')}"
+def _slugify(text: str, max_length: int = 80) -> str:
+    slug = re.sub(r"[^\w\s-]", "", text.lower())
+    slug = re.sub(r"[\s_]+", "_", slug).strip("_")
+    return slug[:max_length]
 
 
 @router.post("/analyze", response_model=AnalyzeResponse)
@@ -36,12 +38,18 @@ async def analyze(request: AnalyzeRequest) -> AnalyzeResponse:
     ]
 
     report: str = result.get("report", "")
-    report_url = _build_report_url(report) if report else ""
+    report_path = ""
+    if report:
+        REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+        filename = f"{_slugify(request.query)}.md"
+        path = REPORTS_DIR / filename
+        path.write_text(report, encoding="utf-8")
+        report_path = str(path)
 
     return AnalyzeResponse(
         query=request.query,
         brief=brief,
         research_results=research_results,
         report=report,
-        report_url=report_url,
+        report_path=report_path,
     )

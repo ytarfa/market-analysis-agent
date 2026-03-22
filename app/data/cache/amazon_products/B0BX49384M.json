@@ -1,0 +1,72 @@
+{
+  "product_results": {
+    "asin": "B0BX49384M",
+    "title": "Nike Mens Sneaker Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 2551,
+    "extracted_price": 162.9
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be good quality products that are very comfortable with great cushion while walking. The shoes fit well true to size and are good for wide feet. They also appreciate the appearance, describing them as very beautiful. Customers are happy with the weight of the shoes, though they have mixed opinions on durability.",
+      "customer_reviews": {
+        "5 star": 71,
+        "4 star": 13,
+        "3 star": 5,
+        "2 star": 3,
+        "1 star": 8
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Bon produit et de qualit\u00e9",
+        "text": "Tr\u00e8s bonne produits mon ados est satisfait",
+        "rating": 5.0,
+        "date": "October 17, 2025",
+        "author": "Samuel Pruneau",
+        "verified_purchase": true
+      },
+      {
+        "title": "I like it \ud83d\ude0d",
+        "text": "Nice shoes",
+        "rating": 5.0,
+        "date": "October 21, 2025",
+        "author": "Frank Gahaya",
+        "verified_purchase": true
+      },
+      {
+        "title": "S\u00faper",
+        "text": "Excelente",
+        "rating": 5.0,
+        "date": "November 22, 2025",
+        "author": "juan carlos",
+        "verified_purchase": true
+      },
+      {
+        "title": "Confortables",
+        "text": "Belle couleurLivraison rapide",
+        "rating": 5.0,
+        "date": "March 26, 2024",
+        "author": "Luis valencia",
+        "verified_purchase": true
+      },
+      {
+        "title": "For my son",
+        "text": "He love it beautiful",
+        "rating": 5.0,
+        "date": "September 11, 2024",
+        "author": "Kizzy",
+        "verified_purchase": true
+      },
+      {
+        "title": "Awesome!",
+        "text": "Perfect! Gotta order again for sure.\u2764\ufe0f",
+        "rating": 5.0,
+        "date": "September 21, 2023",
+        "author": "Its my first time to order in amazon,",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

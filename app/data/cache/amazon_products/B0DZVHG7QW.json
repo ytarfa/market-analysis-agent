@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0DZVHG7QW",
+    "title": "Nike Mens Air Max 90 G",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 22,
+    "extracted_price": 135.88
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 75,
+        "4 star": 6,
+        "3 star": 6,
+        "2 star": 7,
+        "1 star": 6
+      }
+    }
+  }
+}

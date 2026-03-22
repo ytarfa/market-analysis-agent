@@ -1,0 +1,19 @@
+{
+  "product_results": {
+    "asin": "B0CSKNDQ3P",
+    "title": "Nike Air Max 1 Womens Shoes",
+    "brand": "Brand: Nike",
+    "extracted_price": 251.21
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 0,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "product_results": {
+    "asin": "B0CMBFW7W3",
+    "title": "Nike Mens Air Max Pulse",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 315,
+    "extracted_price": 233.0
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "These shoes receive positive feedback for their overall quality, with customers describing them as awesome and super. The comfort level stands out as a strong point, with users finding them comfortable to wear. The appearance also impresses customers, who say they look great. The fit consistently meets expectations, with customers reporting that the shoes fit great. However, opinions on sizing vary among users.",
+      "customer_reviews": {
+        "5 star": 74,
+        "4 star": 12,
+        "3 star": 4,
+        "2 star": 2,
+        "1 star": 8
+      }
+    }
+  }
+}

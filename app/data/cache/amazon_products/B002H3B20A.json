@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B002H3B20A",
+    "title": "Nike Men's Air Max Torch 4 Running Shoe- Black - Footwear||Men's Footwear||Men's",
+    "brand": "Brand: Nike",
+    "rating": 3.0,
+    "reviews": 4,
+    "extracted_price": 198.71
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 50,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 50
+      }
+    }
+  }
+}

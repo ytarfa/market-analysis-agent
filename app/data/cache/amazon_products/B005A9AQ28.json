@@ -1,0 +1,31 @@
+{
+  "product_results": {
+    "asin": "B005A9AQ28",
+    "title": "Nike Men's Air Max Torch 4 Running Shoe #343846-002, Anthracite/Metallic Silver-Black,",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 199,
+    "extracted_price": 144.31
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "The shoes are comfortable and stylish. Customers find them to have a good fit.",
+      "customer_reviews": {
+        "5 star": 74,
+        "4 star": 10,
+        "3 star": 5,
+        "2 star": 4,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Exceptionally comfortable..Buy them",
+        "text": "Most comfortable shoes ever..Well worth the money..",
+        "rating": 5.0,
+        "date": "April 10, 2021",
+        "author": "Rick Wayne Chahor"
+      }
+    ]
+  }
+}

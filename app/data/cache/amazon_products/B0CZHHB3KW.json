@@ -1,0 +1,20 @@
+{
+  "product_results": {
+    "asin": "B0CZHHB3KW",
+    "title": "Nike Mens Air Max 1 Men's Shoes Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.7,
+    "reviews": 34
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 90,
+        "4 star": 4,
+        "3 star": 0,
+        "2 star": 0,
+        "1 star": 6
+      }
+    }
+  }
+}

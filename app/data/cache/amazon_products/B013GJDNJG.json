@@ -1,0 +1,40 @@
+{
+  "product_results": {
+    "asin": "B013GJDNJG",
+    "title": "Nike Womens WMNS Air Max Correlate 511417 136 - Size 8W",
+    "brand": "Brand: Nike",
+    "rating": 4.2,
+    "reviews": 168,
+    "extracted_price": 142.33
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes visually appealing, noting they look great and are very nice in appearance. However, opinions are mixed regarding the fit, comfort, and overall quality of the shoes.",
+      "customer_reviews": {
+        "5 star": 69,
+        "4 star": 10,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 13
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Great Purchase!",
+        "text": "SO CUTE and comfy! Love them so much!",
+        "rating": 5.0,
+        "date": "November 18, 2025",
+        "author": "Danielle",
+        "verified_purchase": true
+      },
+      {
+        "title": "Poor quality",
+        "text": "Please see on the left shoe black is separating I have worn these less than 10 times I\u2019m beyond sad about this !Left is lifting right is perfect",
+        "rating": 1.0,
+        "date": "August 20, 2024",
+        "author": "Coral Rackstraw",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

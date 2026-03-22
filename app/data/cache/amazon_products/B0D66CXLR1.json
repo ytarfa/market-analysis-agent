@@ -1,0 +1,31 @@
+{
+  "product_results": {
+    "asin": "B0D66CXLR1",
+    "title": "Endoto Round Shoe Laces for Nike Air Max 97/95/720, 4MM Replacement Shoelaces Strings for Shoes",
+    "brand": "Brand: Endoto",
+    "rating": 4.6,
+    "reviews": 39,
+    "extracted_price": 13.99
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 82,
+        "4 star": 7,
+        "3 star": 5,
+        "2 star": 0,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Fits and is good",
+        "text": "Perfect",
+        "rating": 5.0,
+        "date": "November 22, 2025",
+        "author": "rayvan brown",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

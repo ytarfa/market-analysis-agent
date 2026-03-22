@@ -1,0 +1,87 @@
+{
+  "product_results": {
+    "asin": "B0C863X3B3",
+    "title": "Nike Men's Air Winflo 9 Trainers",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 7237,
+    "extracted_price": 195.22
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes very comfortable with great support and superb quality. They appreciate the great look and versatility of the lightweight design. However, many note that the sizing runs small and is inaccurate. Customers have mixed opinions on the overall fit and durability of the shoes.",
+      "customer_reviews": {
+        "5 star": 66,
+        "4 star": 17,
+        "3 star": 8,
+        "2 star": 3,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Best shoes",
+        "text": "I\u2019ve always loved Nike shoes. They are amazing and they feel so comfortable and I love working out with them. They also look so sexy.",
+        "rating": 5.0,
+        "date": "February 14, 2023",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Perfect Fit. I love this shoe",
+        "text": "I liked this shoe the first time I ordered it years ago, I ordered it again. A very comfortable well-fitting shoe. I walk a lot and this is the perfect shoe. It's nice-looking too",
+        "rating": 5.0,
+        "date": "December 16, 2022",
+        "author": "Margaret",
+        "verified_purchase": true
+      },
+      {
+        "title": "It's comfortable and cute",
+        "text": "It fits nicely and I like the style. It's not too flashy which is what I was aiming for, but still a good-looking shoe.",
+        "rating": 4.0,
+        "date": "March 20, 2023",
+        "author": "Kris",
+        "verified_purchase": true
+      },
+      {
+        "title": "Lightweight and good quality",
+        "text": "Shoes arrived quickly and were a good fit. Nice and lightweight for exercising.",
+        "rating": 5.0,
+        "date": "August 23, 2023",
+        "author": "janis dilk",
+        "verified_purchase": true
+      },
+      {
+        "title": "Excellent shoes",
+        "text": "very comfortable shoes",
+        "rating": 5.0,
+        "date": "December 28, 2023",
+        "author": "Alvaro",
+        "verified_purchase": true
+      },
+      {
+        "title": "On time, the right fit. I just felt they were not comfortable enough. Not walking on a cloud.",
+        "text": "On time, the right fit. I just felt they were not comfortable enough. Not walking on a cloud.",
+        "rating": 3.0,
+        "date": "May 11, 2023",
+        "author": "Tiggs"
+      },
+      {
+        "title": "Comfortable shoe",
+        "text": "Nike shoes fit me perfectly. A very comfortable shoe for long distance walking/running",
+        "rating": 5.0,
+        "date": "February 23, 2023",
+        "author": "Linda Hedderson",
+        "verified_purchase": true
+      },
+      {
+        "title": "Arrived stained and dirty.",
+        "text": "Very disappointed to receive with several bright yellow stains like something was spilled on one of the shoes? I had to reorder a new pair, hopefully they will be clean and new?",
+        "rating": 1.0,
+        "date": "January 29, 2024",
+        "author": "Jen",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

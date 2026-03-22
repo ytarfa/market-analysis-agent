@@ -1,0 +1,46 @@
+{
+  "product_results": {
+    "asin": "B0096AAW1M",
+    "title": "Nike Men's Air Max LTD 3 Shoes",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 1531
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be good quality and absolutely fabulous. They describe them as very comfortable and elegant with a comfortable fit. The shoes are considered very nice looking in terms of appearance. However, customers have mixed opinions regarding the fit and durability of the shoes.",
+      "customer_reviews": {
+        "5 star": 76,
+        "4 star": 9,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Comfortable shoe",
+        "text": "I would suggest buy a half size up or try on at Champs or Foot locker for sizing. This is my second pair love these shoes. My standard size is 8.5 wear a 9 in these.",
+        "rating": 5.0,
+        "date": "May 15, 2024",
+        "author": "JD Shaw",
+        "verified_purchase": true
+      },
+      {
+        "title": "One Star",
+        "text": "Not worth what you pay for them!",
+        "rating": 1.0,
+        "date": "November 24, 2016",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Fake shoes",
+        "text": "Fake product do not buy",
+        "rating": 1.0,
+        "date": "July 19, 2023",
+        "author": "Josh Ackerman"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "product_results": {
+    "asin": "B072MGXVX5",
+    "title": "Nike Mens Air Max Torch 4 Shoes",
+    "brand": "Brand: Nike",
+    "rating": 4.6,
+    "reviews": 24,
+    "extracted_price": 167.99
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 86,
+        "4 star": 0,
+        "3 star": 7,
+        "2 star": 0,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Comfortable!!!",
+        "text": "Beauty shoes!",
+        "rating": 5.0,
+        "date": "March 4, 2026",
+        "author": "mike barry",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

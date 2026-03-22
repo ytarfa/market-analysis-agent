@@ -1,0 +1,56 @@
+{
+  "product_results": {
+    "asin": "B003UY2K60",
+    "title": "Nike Men's Sneaker,Running Shoes, Anthracite/Metallic Silver/Black, 9.5",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 587,
+    "extracted_price": 154.25
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes comfortable and note they provide comfort to aching lower legs. The shoes are described as well put together and great quality. Customers appreciate the great look and mention the shoes look like floor models. However, customers have mixed opinions about the fit.",
+      "customer_reviews": {
+        "5 star": 72,
+        "4 star": 10,
+        "3 star": 6,
+        "2 star": 1,
+        "1 star": 11
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Great shoe",
+        "text": "Very nice looking shoe and very comfortable",
+        "rating": 5.0,
+        "date": "November 20, 2025",
+        "author": "Stephanie",
+        "verified_purchase": true
+      },
+      {
+        "title": "Sleek runner",
+        "text": "Shoes are awesome but had to return them.Ordered a size 12 and received a size 9.5?",
+        "rating": 5.0,
+        "date": "December 27, 2020",
+        "author": "Carmen Lesperance",
+        "verified_purchase": true
+      },
+      {
+        "title": "Questionable if real",
+        "text": "started falling apart after 2 weeks",
+        "rating": 1.0,
+        "date": "July 9, 2025",
+        "author": "Bad Girl",
+        "verified_purchase": true
+      },
+      {
+        "title": "Disappointed",
+        "text": "So so comfort. Disappointed but didn\u2019t return because vendor couldn\u2019t pay for delivery",
+        "rating": 3.0,
+        "date": "August 4, 2025",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

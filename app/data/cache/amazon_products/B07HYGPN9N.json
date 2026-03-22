@@ -1,0 +1,64 @@
+{
+  "product_results": {
+    "asin": "B07HYGPN9N",
+    "title": "Nike Mens React Vision Running Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 5906,
+    "extracted_price": 195.0
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "These shoes receive positive feedback for their quality, with customers describing them as amazing with quality and very good shoes. Comfort stands out as a strong point, with users finding them very comfortable and pleasant from the first day. The fit also performs well, with customers noting they fit very well and have a nice, good-fitting appearance. The shoes look very good and appear new, adding to their appeal. However, customers have mixed opinions regarding durability and sizing.",
+      "customer_reviews": {
+        "5 star": 73,
+        "4 star": 13,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Good shoe",
+        "text": "I am happy with the Nike shoes I got, fit well, nice design",
+        "rating": 5.0,
+        "date": "April 21, 2021",
+        "author": "Aaron James",
+        "verified_purchase": true
+      },
+      {
+        "title": "Four Stars",
+        "text": "trais trais nice loock super cool trais comfortable resiste a la pluie aux froid a la neige trop hot merci nike",
+        "rating": 5.0,
+        "date": "June 29, 2018",
+        "author": "Pat Patrick Quebec",
+        "verified_purchase": true
+      },
+      {
+        "title": "Happy!",
+        "text": "Amazing fast delivery and exactly what I orderedCouple dents in the box from shipping but otherwise perfect",
+        "rating": 4.0,
+        "date": "March 11, 2026",
+        "author": "Tyler Glover",
+        "verified_purchase": true
+      },
+      {
+        "title": "Great affordable Nike Air Max",
+        "text": "Shoes were very comfortable, very stylish and well made. The only problem the box was really damaged but other than that great black sneakers \ud83d\udcaa\ud83c\udffc",
+        "rating": 4.0,
+        "date": "July 25, 2023",
+        "author": "Randy Rey",
+        "verified_purchase": true
+      },
+      {
+        "title": "Ok",
+        "text": "More of a \u201cstyle\u201d shoe than used for actual running",
+        "rating": 3.0,
+        "date": "December 5, 2021",
+        "author": "Chris",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

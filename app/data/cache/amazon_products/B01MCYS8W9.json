@@ -1,0 +1,48 @@
+{
+  "product_results": {
+    "asin": "B01MCYS8W9",
+    "title": "N I K E I N C Air Max Torch 4 002ANTHRACITE/SILVER 9",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 452,
+    "extracted_price": 133.29
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be of very good quality and describe them as nice shoes. The fit receives positive feedback, with customers noting they are true to size and fit all their needs. Comfort is also well-received, with customers finding them very comfortable. The sizing appears accurate, with customers confirming they receive the right size.",
+      "customer_reviews": {
+        "5 star": 75,
+        "4 star": 16,
+        "3 star": 3,
+        "2 star": 3,
+        "1 star": 3
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Super",
+        "text": "Super",
+        "rating": 5.0,
+        "date": "March 31, 2020",
+        "author": "Stephane roy",
+        "verified_purchase": true
+      },
+      {
+        "title": ".",
+        "text": "Wrong product!",
+        "rating": 1.0,
+        "date": "January 20, 2020",
+        "author": "rafaelvillegas",
+        "verified_purchase": true
+      },
+      {
+        "title": "Attention pointure Retour Payant",
+        "text": "J'ai achet\u00e9 la poiture 9 mais surprise trop serr\u00e9, je dois le retourner pour changer de pointure.J'ai un compte Amazone prime mais surprise je dois payer les frais de retour 25$ !!!c'\u00e9tait une mauvaise exp\u00e9rience!",
+        "rating": 1.0,
+        "date": "November 28, 2020",
+        "author": "Halim",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

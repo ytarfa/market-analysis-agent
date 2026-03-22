@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B09PNMSRYD",
+    "title": "Nike Men's Track & Field Shoes",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 542
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be of top quality and describe them as very good baskets. They look great and are considered lovely runners. The shoes are super comfortable to wear.",
+      "customer_reviews": {
+        "5 star": 78,
+        "4 star": 8,
+        "3 star": 5,
+        "2 star": 1,
+        "1 star": 8
+      }
+    }
+  }
+}

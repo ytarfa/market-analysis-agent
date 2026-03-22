@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B009PCJFOQ",
+    "title": "Nike - Air Max Command - 629993032 - Color: Black - Size: 7",
+    "brand": "Brand: Nike",
+    "rating": 3.6,
+    "reviews": 21,
+    "extracted_price": 111.17
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 47,
+        "4 star": 17,
+        "3 star": 10,
+        "2 star": 0,
+        "1 star": 26
+      }
+    }
+  }
+}

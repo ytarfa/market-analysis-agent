@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B096VK5FWM",
+    "title": "SURRAY Running Shoes Womens Tennis Walking Sneakers Athletic Gym Breathable Lightweight Jogging Sport Shoe US Size 5.5-11",
+    "brand": "Brand: SURRAY",
+    "rating": 3.9,
+    "reviews": 238,
+    "extracted_price": 38.97
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes super comfortable and note they feel very smooth on a walk. They describe the shoes as really nice and great in appearance. However, customers report issues with the sole material, describing it as hard plastic. Opinions on fit vary among customers.",
+      "customer_reviews": {
+        "5 star": 55,
+        "4 star": 16,
+        "3 star": 9,
+        "2 star": 6,
+        "1 star": 14
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Amazing",
+        "text": "Great shoes, so comfy. They fit wide width feet",
+        "rating": 5.0,
+        "date": "November 26, 2025",
+        "author": "Amazon customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Comfortable running shoe",
+        "text": "Very comfortable",
+        "rating": 5.0,
+        "date": "March 8, 2026",
+        "author": "Julie Parsons",
+        "verified_purchase": true
+      },
+      {
+        "title": "True to size",
+        "text": "Comfortable and good quality",
+        "rating": 4.0,
+        "date": "January 21, 2026",
+        "author": "S.Lamperd",
+        "verified_purchase": true
+      },
+      {
+        "title": "Woman's running shoes",
+        "text": "These runners have a plastic sole on outside. There isn't much give, and stretching the toe area was impossible it seemed like. Will not buy them again",
+        "rating": 1.0,
+        "date": "November 25, 2025",
+        "author": "Leanne Bennett",
+        "verified_purchase": true
+      },
+      {
+        "title": "\u2764\ufe0f",
+        "text": "I love these. Super comfy. I wear them daily to and from work.",
+        "rating": 5.0,
+        "date": "January 22, 2026",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Slippy grip",
+        "text": "I\u2019m giving 3 stars because I found the shoe feel to be very hard and plastic and not hold a good grip indoors.",
+        "rating": 3.0,
+        "date": "May 1, 2025",
+        "author": "Lindsay Hopps",
+        "verified_purchase": true
+      },
+      {
+        "title": "Size fits perfectly",
+        "text": "Amazing quality and fits perfectly. A bit brighter purple than I had expected. If you love purple then definitely get it. Also very comfortable as well!",
+        "rating": 5.0,
+        "date": "November 9, 2025",
+        "author": "Chee",
+        "verified_purchase": true
+      },
+      {
+        "title": "Perfect",
+        "text": "Perfect",
+        "rating": 5.0,
+        "date": "March 9, 2026",
+        "author": "Ingrida Collins",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

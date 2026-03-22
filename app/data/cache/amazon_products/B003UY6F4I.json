@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B003UY6F4I",
+    "title": "Nike Womens Air Force 1 Mid 07 Le Hi-Top Trainers",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 21736,
+    "extracted_price": 102.91
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be great quality with an amazing appearance that they like. The shoes are durable, though some mention they can be easy to break. Customers are satisfied with the fabric. However, opinions are mixed regarding the fit and comfort of the shoes.",
+      "customer_reviews": {
+        "5 star": 75,
+        "4 star": 14,
+        "3 star": 5,
+        "2 star": 2,
+        "1 star": 4
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Great product",
+        "text": "They fit nicely, and look amazing.",
+        "rating": 5.0,
+        "date": "June 9, 2024",
+        "author": "Tim Porter",
+        "verified_purchase": true
+      },
+      {
+        "title": "The best",
+        "text": "Best boot or shoe I\u2019ve ever owned. I\u2019ve got wide feet in a size 12 and these are great for walking long distances, working in the yard, anything other than running or athletic activities. I own 2 pairs. I had a 3rd pair before that, but the dog chewed it.",
+        "rating": 5.0,
+        "date": "May 13, 2023",
+        "author": "John Zelowsky",
+        "verified_purchase": true
+      },
+      {
+        "title": "Great Tee",
+        "text": "True to size and great price delivered right to the door!",
+        "rating": 5.0,
+        "date": "September 14, 2025",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Conforme \u00e0 la description",
+        "text": "La qualit\u00e9 est l\u00e0 et la grandeur est bonne.",
+        "rating": 4.0,
+        "date": "January 20, 2026",
+        "author": "louisette",
+        "verified_purchase": true
+      },
+      {
+        "title": "Super pretty t-shirt!",
+        "text": "Very good fabric and super pretty t-shirt!",
+        "rating": 5.0,
+        "date": "September 6, 2025",
+        "author": "ADRIANA LEMOS DA SILVA",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nike Roshe are too light& delivery are on time",
+        "text": "Too small to my feet,I love roshe but the only problem cnnt fit for my expectation.Thank you Nike for free & refunded the cost,happy to donate for those who need because of the pandemic it\u2019s free & no need to return the items.Delivery is always on time & fast..Thank you NIKE ROSHE ...",
+        "rating": 5.0,
+        "date": "March 12, 2021",
+        "author": "vicky",
+        "verified_purchase": true
+      },
+      {
+        "title": "Great price for a great shoe.",
+        "text": "I have only been using these for the last few weeks in the gym. But so far so good, they are a sturdy shoe which is easy to break it. The do not feel cheap or like they are going to fall apart. Good purchase imo.",
+        "rating": 5.0,
+        "date": "March 4, 2020",
+        "author": "Frequent Shopper",
+        "verified_purchase": true
+      },
+      {
+        "title": "Bought as A gift - Well Loved",
+        "text": "My nephew will ONLY wear these socks. We bought these for him as part of a gift and he absolutely loves them!",
+        "rating": 5.0,
+        "date": "February 12, 2021",
+        "author": "Tracy",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

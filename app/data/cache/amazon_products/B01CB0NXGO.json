@@ -1,0 +1,64 @@
+{
+  "product_results": {
+    "asin": "B01CB0NXGO",
+    "title": "Nike Men's Air Max Torch 4 Anthracite/Metallic/Silverq Running Shoe 10.5 Men US",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 884,
+    "extracted_price": 139.2
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "These shoes receive positive feedback for their appearance, with customers describing them as very nice and good. The comfort level is well-regarded, with users finding them very comfortable. The foot support is appreciated, as customers note they provide good support for feet. However, customers have mixed opinions regarding the fit and size of the shoes.",
+      "customer_reviews": {
+        "5 star": 77,
+        "4 star": 12,
+        "3 star": 5,
+        "2 star": 1,
+        "1 star": 5
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Best",
+        "text": "Very happy with this product \u2014 it works exactly as described and feels well-made for the price. Easy to use and performs reliably; I would definitely recommend it.",
+        "rating": 5.0,
+        "date": "January 28, 2026",
+        "author": "Md Harun Roshid",
+        "verified_purchase": true
+      },
+      {
+        "title": "Apprecie",
+        "text": "Tres cool",
+        "rating": 5.0,
+        "date": "March 10, 2025",
+        "author": "Gilbert",
+        "verified_purchase": true
+      },
+      {
+        "title": "Not real",
+        "text": "Not real",
+        "rating": 1.0,
+        "date": "October 28, 2025",
+        "author": "Michael Legault",
+        "verified_purchase": true
+      },
+      {
+        "title": "Hyper confo",
+        "text": "Tr\u00e8s l\u00e9g\u00e8re ideal pour la course",
+        "rating": 5.0,
+        "date": "March 8, 2025",
+        "author": "Client d'Amazon",
+        "verified_purchase": true
+      },
+      {
+        "title": "They hot shoes",
+        "text": "I got 10.5 but had to reorder size 11 so get a size a bit bigger than normal",
+        "rating": 5.0,
+        "date": "October 22, 2020",
+        "author": "peter bogdala",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

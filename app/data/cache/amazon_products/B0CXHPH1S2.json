@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B0CXHPH1S2",
+    "title": "Nike Mens Nike Court Vision Mid Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 6753,
+    "extracted_price": 186.98
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be very good quality products. They describe them as comfortable with soft cushioning underfoot. The shoes are considered great-looking and very nice in appearance. Customers appreciate the nice fit, noting they are not too loose. However, customers have mixed opinions on durability and sizing.",
+      "customer_reviews": {
+        "5 star": 68,
+        "4 star": 14,
+        "3 star": 7,
+        "2 star": 2,
+        "1 star": 9
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "True",
+        "text": "Nice & what expected",
+        "rating": 5.0,
+        "date": "October 5, 2025",
+        "author": "anna",
+        "verified_purchase": true
+      },
+      {
+        "title": "Great gift idea",
+        "text": "Bought for my hubby and he likes them, does say they run a little small though! Other than that I believe they\u2019re authentic and he\u2019s happy, so I am happy \ud83d\ude02",
+        "rating": 5.0,
+        "date": "December 14, 2025",
+        "author": "amanda christensen",
+        "verified_purchase": true
+      },
+      {
+        "title": "Perfect fit",
+        "text": "Nice shoes & comfortable",
+        "rating": 5.0,
+        "date": "February 14, 2024",
+        "author": "Tina S",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nice Shoes go a half size down when you order them",
+        "text": "I ordered these in my normal shoes size which is an 8 but they fit like a 8.5 -9 so go a half size downOverall they are really nice and comfortable",
+        "rating": 4.0,
+        "date": "January 4, 2023",
+        "author": "Aidan",
+        "verified_purchase": true
+      },
+      {
+        "title": "Happy with my purchase.",
+        "text": "Came in perfect condition and on time. Love them, thank you.",
+        "rating": 5.0,
+        "date": "July 29, 2025",
+        "author": "Randy",
+        "verified_purchase": true
+      },
+      {
+        "title": "Not comfortable",
+        "text": "Very uncomfortable",
+        "rating": 1.0,
+        "date": "January 6, 2026",
+        "author": "Jodie H",
+        "verified_purchase": true
+      },
+      {
+        "title": "Price and quality",
+        "text": "Exactly as pictured",
+        "rating": 5.0,
+        "date": "May 27, 2025",
+        "author": "Mike",
+        "verified_purchase": true
+      },
+      {
+        "title": "Super Comfortable and very close to Jordan 11",
+        "text": "Tried these on and I\u2019ll admit\u2014they felt like walking on clouds. Super cushioned, solid build, definitely Jordan quality. But once I had them on feet, the style just didn\u2019t click with me. Great shoe overall, and if you love the design, it'll definitely give you max aura",
+        "rating": 3.0,
+        "date": "August 29, 2025",
+        "author": "Joe",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

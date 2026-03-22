@@ -1,0 +1,56 @@
+{
+  "product_results": {
+    "asin": "B01CB0TGOW",
+    "title": "N I K E I N C Air Max Torch 4 002ANTHRACITE/SILVER 12",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 792,
+    "extracted_price": 129.97
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "These shoes receive positive feedback for their overall quality, with customers describing them as great and good. The comfort level is generally appreciated, with users finding them very nice and comfortable. The appearance stands out as a strong point, with customers noting they are great looking and stand out visually. However, customers have mixed opinions regarding the fit and durability of the shoes.",
+      "customer_reviews": {
+        "5 star": 77,
+        "4 star": 11,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 4
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Great shoe, but a bit snug.",
+        "text": "Really nice shoes for the price. A bit narrow and not much extra room. Really comfortable, though. Love it.",
+        "rating": 5.0,
+        "date": "September 16, 2020",
+        "author": "Christopher McLarty",
+        "verified_purchase": true
+      },
+      {
+        "title": "My husband and nephews were pleased with their shoes",
+        "text": "I have to regret buy those shoes",
+        "rating": 5.0,
+        "date": "October 22, 2025",
+        "author": "Stacey Ann brown",
+        "verified_purchase": true
+      },
+      {
+        "title": "Good shoes",
+        "text": "Just what I was looking for",
+        "rating": 4.0,
+        "date": "March 6, 2026",
+        "author": "Curtis Hincke-Prevost",
+        "verified_purchase": true
+      },
+      {
+        "title": "Very disappointed",
+        "text": "Product seems to be as expected and of fairly good quality but I received one size 10 and one size 12 not sure what happened there. Very disappointing considering I waited two weeks to get them",
+        "rating": 1.0,
+        "date": "February 11, 2020",
+        "author": "Terry s",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

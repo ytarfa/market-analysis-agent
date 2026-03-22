@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B001T94BSI",
+    "title": "Nike Men's Sneaker,Running Shoes, Anthracite/Metallic Silver/Black, 10",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 671,
+    "extracted_price": 124.99
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be very good with fantastic sneaker quality. They describe them as very comfortable and cumfy. The shoes look great in appearance. However, some customers note they seem a half size small, and opinions on fit vary among users.",
+      "customer_reviews": {
+        "5 star": 72,
+        "4 star": 9,
+        "3 star": 7,
+        "2 star": 5,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Very confy",
+        "text": "Very good product",
+        "rating": 5.0,
+        "date": "January 12, 2021",
+        "author": "maxim",
+        "verified_purchase": true
+      },
+      {
+        "title": "Vous pouvez faire enti\u00e8rement confiance \u00e0 ce d\u00e9taillant",
+        "text": "Le produit est exactement comme la description, le seul probl\u00e8me VIENS DE MON C\u00d4T\u00c9, j'ai oubli\u00e9 d'indiquer la grandeur donc le d\u00e9taillant m'a envoy\u00e9 la grandeur indiqu\u00e9e par d\u00e9faut, lorsque j'ai expliqu\u00e9 mon erreur, le d\u00e9taillant m'a rembours\u00e9 sans aucune h\u00e9sitation et aucune autre question. C'est ce que j'appelle UN EXCELLENT SERVICEMerci beaucoup.",
+        "rating": 5.0,
+        "date": "September 18, 2025",
+        "author": "Eric Martin",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nice looking shoes and comfortable",
+        "text": "The runners were purchased as a gift. My son is very happy. He likes the look and the comfort and support.",
+        "rating": 5.0,
+        "date": "December 27, 2020",
+        "author": "Cindy",
+        "verified_purchase": true
+      },
+      {
+        "title": "Love them",
+        "text": "Great shoes. Love them. Perfect fit and supper comfortable.",
+        "rating": 5.0,
+        "date": "May 25, 2019",
+        "author": "Gilles R. Godin",
+        "verified_purchase": true
+      },
+      {
+        "title": "Very comfortable shoes",
+        "text": "The best shoes I own 2 pair I\u2019ve bought of these! So comfortable to",
+        "rating": 5.0,
+        "date": "October 29, 2020",
+        "author": "Scott",
+        "verified_purchase": true
+      },
+      {
+        "title": "Beautiful shoes!",
+        "text": "They are perfect and flawless! Shipped faster than expected",
+        "rating": 5.0,
+        "date": "October 10, 2017",
+        "author": "dan piscopo",
+        "verified_purchase": true
+      },
+      {
+        "title": "and the quality is poor",
+        "text": "Very tide...and the quality is poor",
+        "rating": 3.0,
+        "date": "June 23, 2018",
+        "author": "Bogdan",
+        "verified_purchase": true
+      },
+      {
+        "title": "Comfortable",
+        "text": "Good",
+        "rating": 5.0,
+        "date": "April 9, 2021",
+        "author": "Mandeep R.",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

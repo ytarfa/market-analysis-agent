@@ -1,0 +1,32 @@
+{
+  "product_results": {
+    "asin": "B0DRWHT92Z",
+    "title": "Nike Womens Nike Air Max 270 Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.2,
+    "reviews": 85,
+    "extracted_price": 146.14
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes super comfortable and good looking. They describe them as great sneakers that are perfect in quality. However, customers have mixed opinions about the fit.",
+      "customer_reviews": {
+        "5 star": 69,
+        "4 star": 7,
+        "3 star": 10,
+        "2 star": 6,
+        "1 star": 8
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "yellowed",
+        "text": "way to small and turned yellow after third wear. for the price it was an aweful purchase",
+        "rating": 1.0,
+        "date": "November 21, 2025",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

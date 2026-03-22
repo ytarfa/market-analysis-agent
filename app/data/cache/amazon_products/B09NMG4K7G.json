@@ -1,0 +1,48 @@
+{
+  "product_results": {
+    "asin": "B09NMG4K7G",
+    "title": "Nike Womens Running Running Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 85,
+    "extracted_price": 139.91
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be of good quality and very comfortable, noting they do not hurt their feet. However, opinions on the fit vary among users.",
+      "customer_reviews": {
+        "5 star": 75,
+        "4 star": 8,
+        "3 star": 5,
+        "2 star": 5,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Comfort",
+        "text": "Incredibly comfortable",
+        "rating": 5.0,
+        "date": "March 14, 2026",
+        "author": "Virginia Barnes",
+        "verified_purchase": true
+      },
+      {
+        "title": "Very good",
+        "text": "very nice !! my daughter was super happy !!",
+        "rating": 4.0,
+        "date": "December 31, 2024",
+        "author": "Brad Kennedy",
+        "verified_purchase": true
+      },
+      {
+        "title": "Low quality. Price not commensurate.",
+        "text": "Shoe quality was poor.Very cheap material/fabric.Very expensive for this kind of quality.Seriously would have given it a 1-star, but the black and white color looks good from a distance.Canadian customer.",
+        "rating": 2.0,
+        "date": "September 25, 2025",
+        "author": "Chuck Ufondu",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

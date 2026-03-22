@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B079YZDLKD",
+    "title": "Nike Mens Nike Ebernon Low Basketball Shoe",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 3874,
+    "extracted_price": 99.99
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be good quality products that are very comfortable to wear. They appreciate the nice appearance, particularly noting the shiny black finish. However, customers have mixed opinions regarding the fit and durability of the shoes.",
+      "customer_reviews": {
+        "5 star": 69,
+        "4 star": 15,
+        "3 star": 6,
+        "2 star": 2,
+        "1 star": 8
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Good fit",
+        "text": "They were for school and they are very comfy. Good quality shoe he said.",
+        "rating": 5.0,
+        "date": "September 2, 2025",
+        "author": "Happy Mom",
+        "verified_purchase": true
+      },
+      {
+        "title": "Great purchase",
+        "text": "Perfect. Exactly as pictured. Very nice product, great quality. Very pleased",
+        "rating": 5.0,
+        "date": "December 5, 2025",
+        "author": "Moulun",
+        "verified_purchase": true
+      },
+      {
+        "title": "Good shoe",
+        "text": "The shoes lasted long and were very good but i would say to go on a real shoe store site instead but these were great!",
+        "rating": 4.0,
+        "date": "October 6, 2025",
+        "author": "royal",
+        "verified_purchase": true
+      },
+      {
+        "title": "Comfortable shoe",
+        "text": "look good and comfy",
+        "rating": 5.0,
+        "date": "October 22, 2025",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Nice",
+        "text": "Good quality for price",
+        "rating": 5.0,
+        "date": "February 8, 2026",
+        "author": "Nick Csordas",
+        "verified_purchase": true
+      },
+      {
+        "title": "Knock off Air Force",
+        "text": "These are a knock off Air Force brand please make sure you review product before you buy so your not disappointed when they arrive",
+        "rating": 1.0,
+        "date": "December 24, 2025",
+        "author": "KH CPS",
+        "verified_purchase": true
+      },
+      {
+        "title": "NICE DRESS SNEAKER",
+        "text": "VERY COMFORTABLE.. VERY SHINY BLACK SO LOOKS GOOD FOR SOMEONE WHO WOULD LIKE A NIKE SNEAKER THAT LOOKS PROFESSIONAL. THICK SOLE.",
+        "rating": 5.0,
+        "date": "July 10, 2023",
+        "author": "Doug B.",
+        "verified_purchase": true
+      },
+      {
+        "title": "beauty",
+        "text": "beauty",
+        "rating": 5.0,
+        "date": "October 5, 2024",
+        "author": "Dave LeBlanc",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

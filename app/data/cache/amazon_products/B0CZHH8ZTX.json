@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0CZHH8ZTX",
+    "title": "Nike AIR MAX Solo EWT Mens Laced Shoes",
+    "brand": "Brand: Nike",
+    "rating": 3.8,
+    "reviews": 6,
+    "extracted_price": 97.74
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 66,
+        "4 star": 0,
+        "3 star": 0,
+        "2 star": 19,
+        "1 star": 15
+      }
+    }
+  }
+}

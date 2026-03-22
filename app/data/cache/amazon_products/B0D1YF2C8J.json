@@ -1,0 +1,21 @@
+{
+  "product_results": {
+    "asin": "B0D1YF2C8J",
+    "title": "Nike Women's Air Max DN Trainers",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 63,
+    "extracted_price": 402.47
+  },
+  "reviews_information": {
+    "summary": {
+      "customer_reviews": {
+        "5 star": 78,
+        "4 star": 12,
+        "3 star": 2,
+        "2 star": 0,
+        "1 star": 8
+      }
+    }
+  }
+}

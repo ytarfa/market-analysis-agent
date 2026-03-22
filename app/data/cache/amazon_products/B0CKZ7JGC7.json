@@ -1,0 +1,56 @@
+{
+  "product_results": {
+    "asin": "B0CKZ7JGC7",
+    "title": "Nike Mens Sneaker Sneaker",
+    "brand": "Brand: Nike",
+    "rating": 4.3,
+    "reviews": 2742,
+    "extracted_price": 68.94
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be of good quality with top-tier comfort and great cushioning. They appreciate the fit, noting they work well for larger sizes. The shoes are described as very stylish and suitable for pairing with favorite pairs of jeans. Customers also value their lightweight design and versatility. However, some customers express disappointment with noise levels, while opinions on durability remain mixed among users.",
+      "customer_reviews": {
+        "5 star": 67,
+        "4 star": 16,
+        "3 star": 6,
+        "2 star": 3,
+        "1 star": 8
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Inappropriate quality and horrible customer service",
+        "text": "Very uncomfortable and trashy lookingAnd still haven\u2019t received a refund upon returning. Wouldn\u2019t buy from them again that\u2019s for sure.Very suspicious",
+        "rating": 1.0,
+        "date": "March 19, 2024",
+        "author": "Zandy",
+        "verified_purchase": true
+      },
+      {
+        "title": "Inferior material",
+        "text": "After decades of appreciating many different Nike running shoes for the first time IDisappointed in the material of the quality used. See photos attached",
+        "rating": 1.0,
+        "date": "June 8, 2024",
+        "author": "Javier Seas",
+        "verified_purchase": true
+      },
+      {
+        "title": "Creating noise when walking",
+        "text": "Style is good but when you walk, there is a noise that is also mentioned in other comments.",
+        "rating": 3.0,
+        "date": "May 10, 2024",
+        "author": "Mohammad",
+        "verified_purchase": true
+      },
+      {
+        "title": "Comfortable shoes. Not durable",
+        "text": "Topnmesh tore in 2 weeks of normal wear",
+        "rating": 1.0,
+        "date": "July 2, 2025",
+        "author": "Jonathan Rodericks",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

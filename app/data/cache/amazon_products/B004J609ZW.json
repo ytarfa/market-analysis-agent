@@ -1,0 +1,88 @@
+{
+  "product_results": {
+    "asin": "B004J609ZW",
+    "title": "Nike Men's Sneaker,Running Shoes, Anthracite/Metallic Silver/Black, 11",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 807,
+    "extracted_price": 141.25
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes to be of good quality and very comfortable, particularly noting they are lightweight. The shoes look good and maintain the same design. They are durable and break in nicely. However, customers have different opinions on the fit.",
+      "customer_reviews": {
+        "5 star": 76,
+        "4 star": 11,
+        "3 star": 8,
+        "2 star": 2,
+        "1 star": 3
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "To small",
+        "text": "Shoes were amazing but unfortunately to small. Ive been wearing size 11 nike for years. These fit like a 9 or 10 at best.",
+        "rating": 5.0,
+        "date": "February 4, 2026",
+        "author": "Wade Bader",
+        "verified_purchase": true
+      },
+      {
+        "title": "Great fit Nike quality",
+        "text": "Excellent style great fit , I'm really glad that there not that silvery, that there are a darker then I thought this is a good thing . Nike quality nice fitting sole thanks",
+        "rating": 5.0,
+        "date": "August 3, 2021",
+        "author": "anthony",
+        "verified_purchase": true
+      },
+      {
+        "title": "Good",
+        "text": "Product was delivered",
+        "rating": 5.0,
+        "date": "November 13, 2025",
+        "author": "Zeshan",
+        "verified_purchase": true
+      },
+      {
+        "title": "Used shoe",
+        "text": "1 of the papers was missing in the shoe and it looks used the box looks damaged and yeah idk",
+        "rating": 3.0,
+        "date": "September 1, 2025",
+        "author": "Vahab",
+        "verified_purchase": true
+      },
+      {
+        "title": "Que ses les meilleurs",
+        "text": "Nike,reste la meilleure compagnie de souliers au monde fiable et durable !",
+        "rating": 5.0,
+        "date": "June 8, 2025",
+        "author": "Pascal P.",
+        "verified_purchase": true
+      },
+      {
+        "title": "No regrets",
+        "text": "Boy this shoes for my husband birthday and he loved it",
+        "rating": 5.0,
+        "date": "April 5, 2025",
+        "author": "Stacey Ann brown",
+        "verified_purchase": true
+      },
+      {
+        "title": "Wow",
+        "text": "Tr\u00e8s bien",
+        "rating": 5.0,
+        "date": "January 2, 2025",
+        "author": "Carole S\u00e9guin",
+        "verified_purchase": true
+      },
+      {
+        "title": "width",
+        "text": "Nice lookin shoes but too narrow. Couldn't order wide fit.",
+        "rating": 3.0,
+        "date": "August 29, 2020",
+        "author": "David Williams",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

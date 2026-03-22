@@ -1,0 +1,48 @@
+{
+  "product_results": {
+    "asin": "B0CMB7T695",
+    "title": "Nike Mens Air Max Excee",
+    "brand": "Brand: Nike",
+    "rating": 4.4,
+    "reviews": 1436,
+    "extracted_price": 212.12
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes comfortable with great heel cushioning. They describe them as good quality school shoes that look great, though some mention they look and feel fake. Opinions vary on fit and durability, with customers having mixed experiences in these areas.",
+      "customer_reviews": {
+        "5 star": 74,
+        "4 star": 12,
+        "3 star": 5,
+        "2 star": 3,
+        "1 star": 6
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Ras",
+        "text": "Super",
+        "rating": 5.0,
+        "date": "January 14, 2026",
+        "author": "TRAORE",
+        "verified_purchase": true
+      },
+      {
+        "title": "Love these Nikes",
+        "text": "I love these Air Max!",
+        "rating": 5.0,
+        "date": "January 12, 2025",
+        "author": "Demonio",
+        "verified_purchase": true
+      },
+      {
+        "title": "Hope to consideration!",
+        "text": "Customer always hope the order product is up to date there is no defect . Unfortunately I encountered this time about small scratch . I am hoping the discount because this is a gift item and already used once.",
+        "rating": 2.0,
+        "date": "September 7, 2025",
+        "author": "Kalpana Bhandari",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

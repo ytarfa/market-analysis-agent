@@ -1,0 +1,56 @@
+{
+  "product_results": {
+    "asin": "B01L91BHFU",
+    "title": "Nike Men's Air Max 2017 Cool Grey/Anthracite-Dark Grey (849559 008)",
+    "brand": "Brand: Nike",
+    "rating": 4.5,
+    "reviews": 2265,
+    "extracted_price": 190.0
+  },
+  "reviews_information": {
+    "summary": {
+      "text": "Customers find these shoes comfortable, with one noting they felt great after walking sixty miles. The quality receives positive feedback, with customers describing them as great shoes with excellent quality. The appearance consistently impresses users, who say they look great and maintain a new appearance. However, durability presents concerns, as some customers report the shoes popped after three months and did not last long. Customers have varying experiences with the fit and air bubble durability aspects of the shoes.",
+      "customer_reviews": {
+        "5 star": 77,
+        "4 star": 10,
+        "3 star": 5,
+        "2 star": 1,
+        "1 star": 7
+      }
+    },
+    "authors_reviews": [
+      {
+        "title": "Nike shoes",
+        "text": "The shoes was very good,my son loves it",
+        "rating": 5.0,
+        "date": "February 2, 2026",
+        "author": "Minelva M. Abrogena",
+        "verified_purchase": true
+      },
+      {
+        "title": "Love them",
+        "text": "Love these shoes. Love the look and comfort. However, I wish they were less expensive, but I really had to have them.",
+        "rating": 5.0,
+        "date": "December 9, 2024",
+        "author": "Amazon Customer",
+        "verified_purchase": true
+      },
+      {
+        "title": "Price and quality",
+        "text": "Like the runners, they do fit a bit big, and now they are squeaky when walking, and really think they are overpriced on Amazon, you can find cheaper in stores.",
+        "rating": 4.0,
+        "date": "May 15, 2024",
+        "author": "vince",
+        "verified_purchase": true
+      },
+      {
+        "title": "Gift",
+        "text": "Was ordered for a gift for someone was to small and narrow",
+        "rating": 3.0,
+        "date": "June 25, 2024",
+        "author": "Was a gift for someone",
+        "verified_purchase": true
+      }
+    ]
+  }
+}

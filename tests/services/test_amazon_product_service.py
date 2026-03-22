@@ -4,10 +4,10 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from app.services.amazon_product_service import (
+    AmazonAuthorReview,
     AmazonProductResponse,
-    AuthorReview,
+    AmazonReviewsInformation,
     ProductInfo,
-    ReviewsInformation,
     SerpapiAmazonProductService,
     StarHistogram,
 )
@@ -119,7 +119,7 @@ def test_search_product_returns_amazon_product_response(
 
     assert isinstance(result, AmazonProductResponse)
     assert isinstance(result.product_info, ProductInfo)
-    assert isinstance(result.reviews_information, ReviewsInformation)
+    assert isinstance(result.reviews_information, AmazonReviewsInformation)
 
 
 def test_search_product_maps_product_info_correctly(
@@ -146,7 +146,7 @@ def test_search_product_maps_review_summary_correctly(
     service.client.search = MagicMock(return_value=MOCK_PRODUCT_RESPONSE)
 
     result: AmazonProductResponse = service.search_product("B0C4922P4M")
-    reviews: ReviewsInformation = result.reviews_information  # type: ignore[assignment]
+    reviews: AmazonReviewsInformation = result.reviews_information  # type: ignore[assignment]
 
     assert reviews.summary_text is not None
     assert "comfortable and supportive" in reviews.summary_text
@@ -173,12 +173,12 @@ def test_search_product_maps_author_reviews_correctly(
     service.client.search = MagicMock(return_value=MOCK_PRODUCT_RESPONSE)
 
     result: AmazonProductResponse = service.search_product("B0C4922P4M")
-    author_reviews: list[AuthorReview] = result.reviews_information.author_reviews  # type: ignore[union-attr, assignment]
+    author_reviews: list[AmazonAuthorReview] = result.reviews_information.author_reviews  # type: ignore[union-attr, assignment]
 
     assert len(author_reviews) == 8
-    assert all(isinstance(r, AuthorReview) for r in author_reviews)
+    assert all(isinstance(r, AmazonAuthorReview) for r in author_reviews)
 
-    first_review: AuthorReview = author_reviews[0]
+    first_review: AmazonAuthorReview = author_reviews[0]
     assert first_review.title == "Good fit, good support, and nice colour combinations."
     assert first_review.rating == 5.0
     assert first_review.author == "Margaret"

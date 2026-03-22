@@ -3,6 +3,7 @@ from typing import Any
 
 from pydantic import BaseModel
 
+from app.config import settings
 from app.services.serpapi_service import SerpapiService
 
 DOMAIN = "amazon.ca"
@@ -33,3 +34,9 @@ class SerpApiAmazonSearchService(AmazonSearchService, SerpapiService):
 
 class MockAmazonSearchService(AmazonSearchService):
     pass
+
+
+def get_amazon_search_service() -> AmazonSearchService:
+    if settings.serpapi_api_key:
+        return SerpApiAmazonSearchService()
+    return MockAmazonSearchService()

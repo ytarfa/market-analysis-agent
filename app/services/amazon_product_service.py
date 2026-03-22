@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod
 
 from pydantic import BaseModel, Field, model_validator
 
+from app.config import settings
 from app.services.serpapi_service import SerpapiService
 
 ENGINE = "amazon_product"
@@ -44,7 +45,7 @@ class StarHistogram(BaseModel):
     }
 
 
-class AuthorReview(BaseModel):
+class AmazonAuthorReview(BaseModel):
     title: str | None = None
     text: str | None = None
     rating: float | None = None
@@ -53,10 +54,10 @@ class AuthorReview(BaseModel):
     verified_purchase: bool | None = None
 
 
-class ReviewsInformation(BaseModel):
+class AmazonReviewsInformation(BaseModel):
     summary_text: str | None = None
     customer_reviews: StarHistogram | None = None
-    author_reviews: list[AuthorReview] | None = None
+    author_reviews: list[AmazonAuthorReview] | None = None
 
     @model_validator(mode="before")
     @classmethod
@@ -71,7 +72,7 @@ class ReviewsInformation(BaseModel):
 
 class AmazonProductResponse(BaseModel):
     product_info: ProductInfo
-    reviews_information: ReviewsInformation | None = None
+    reviews_information: AmazonReviewsInformation | None = None
 
     @model_validator(mode="before")
     @classmethod
@@ -99,9 +100,14 @@ class SerpapiAmazonProductService(AmazonProductService, SerpapiService):
             amazon_domain=DOMAIN,
             json_restrictor=",".join(AMAZON_PRODUCT_RESTRICTOR),
         )
-        print(results)
         return AmazonProductResponse.model_validate(results)
 
 
 class MockAmazonProductService(AmazonProductService):
     pass
+
+
+def get_amazon_product_service() -> AmazonProductService:
+    if settings.serpapi_api_key:
+        return SerpapiAmazonProductService()
+    return MockAmazonProductService()

@@ -42,6 +42,8 @@ class AmazonFetchReviewStrategy(FetchReviewStrategy):
     def fetch_reviews(self, query: str) -> list[Review]:
         max_products = settings.max_review_products
         search_results = self.amazon_search_service.search_product(query)
+        if not search_results:
+            return []
         asins: list[str] = [r.asin for r in search_results[:max_products]]
 
         reviews: list[Review] = []
@@ -54,14 +56,15 @@ class AmazonFetchReviewStrategy(FetchReviewStrategy):
         return reviews
 
     def _reviews_for_asin(self, asin: str) -> list[Review]:
-        response: AmazonProductResponse = self.amazon_product_service.search_product(
-            asin
+        response: AmazonProductResponse | None = (
+            self.amazon_product_service.search_product(asin)
         )
+
+        if not response or not response.reviews_information:
+            return []
 
         author_reviews: list[AmazonAuthorReview] | None = (
             response.reviews_information.author_reviews
-            if response.reviews_information
-            else None
         )
         if not author_reviews:
             return []

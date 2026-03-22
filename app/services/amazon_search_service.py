@@ -19,7 +19,7 @@ class AmazonSearchResult(BaseModel):
 
 class AmazonSearchService(ABC):
     @abstractmethod
-    def search_product(self, product_name: str) -> list[AmazonSearchResult]:
+    def search_product(self, product_name: str) -> list[AmazonSearchResult] | None:
         pass
 
 
@@ -45,13 +45,10 @@ class MockAmazonSearchService(AmazonSearchService):
     def __init__(self) -> None:
         self._cache: FileCache = FileCache(namespace="amazon_search")
 
-    def search_product(self, product_name: str) -> list[AmazonSearchResult]:
+    def search_product(self, product_name: str) -> list[AmazonSearchResult] | None:
         cached: dict[str, Any] | None = self._cache.read(product_name)
         if cached is None:
-            raise ValueError(
-                f"No cached data for {product_name!r}. "
-                "Run with a real API key first to populate the cache."
-            )
+            return None
         return [AmazonSearchResult.model_validate(r) for r in cached["organic_results"]]
 
 

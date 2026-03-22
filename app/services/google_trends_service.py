@@ -103,7 +103,7 @@ class GoogleTrendsResponse(BaseModel):
 
 class GoogleTrendsService(ABC):
     @abstractmethod
-    def search_trend(self, query: str, date: str) -> GoogleTrendsResponse:
+    def search_trend(self, query: str, date: str) -> GoogleTrendsResponse | None:
         pass
 
 
@@ -164,11 +164,11 @@ class MockGoogleTrendsService(GoogleTrendsService):
     def __init__(self) -> None:
         self._cache: FileCache = FileCache(namespace="google_trends")
 
-    def search_trend(self, query: str, date: str) -> GoogleTrendsResponse:
+    def search_trend(self, query: str, date: str) -> GoogleTrendsResponse | None:
         cache_key: str = f"{query}::{date}"
         cached: dict[str, Any] | None = self._cache.read(cache_key)
         if cached is None:
-            raise Exception("Google Trends cache wasn't hit...")
+            return None
         return GoogleTrendsResponse.model_validate(cached)
 
 

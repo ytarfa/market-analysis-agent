@@ -88,7 +88,7 @@ class AmazonProductResponse(BaseModel):
 
 class AmazonProductService(ABC):
     @abstractmethod
-    def search_product(self, asin: str) -> AmazonProductResponse:
+    def search_product(self, asin: str) -> AmazonProductResponse | None:
         pass
 
 
@@ -115,10 +115,10 @@ class MockAmazonProductService(AmazonProductService):
     def __init__(self) -> None:
         self._cache: FileCache = FileCache(namespace="amazon_products")
 
-    def search_product(self, asin: str) -> AmazonProductResponse:
+    def search_product(self, asin: str) -> AmazonProductResponse | None:
         cached: dict[str, Any] | None = self._cache.read(asin)
         if cached is None:
-            raise Exception("Product cache wasn't hit...")
+            return None
         return AmazonProductResponse.model_validate(cached)
 
 

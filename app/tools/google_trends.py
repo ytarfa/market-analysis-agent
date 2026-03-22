@@ -127,5 +127,9 @@ async def google_trends(
         Formatted trend data including interest over time and related queries.
     """
     service = get_google_trends_service()
-    response: GoogleTrendsResponse = service.search_trend(query=keyword, date=timeframe)
+    response: GoogleTrendsResponse | None = service.search_trend(
+        query=keyword, date=timeframe
+    )
+    if not response:
+        return ""
     return _format_response(response)

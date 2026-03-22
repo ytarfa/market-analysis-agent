@@ -55,44 +55,44 @@ data extracted by the researchers. Where appropriate, include Mermaid
 chart blocks in your report to visualize this data. Pick the chart type
 that best fits the data:
 
-- Use xychart with bar for comparisons across categories:
-    ```mermaid
-    xychart
-        title Price Comparison
-        x-axis ["Amazon", "Best Buy", "Apple"]
-        y-axis "USD"
+CHART SYNTAX RULES — violations will break rendering:
+- Every label that contains a space MUST be wrapped in double quotes.
+- Evey title that contains a special character MUST be wrapped in double quotes
+- Single-word labels do not need quotes but may have them.
+- Never add comments (-- ...) inside a chart block.
+- Do not invent numbers. Only use values present in <research>.
+
+CHART TYPE SELECTION:
+- Bar — comparisons across discrete categories:
+```mermaid
+    xychart-beta
+        title "Price Comparison"
+        x-axis ["Amazon", "Best Buy", "Apple Store"]
+        y-axis "USD" 0 --> 1200
         bar [999, 1049, 999]
-    ```
-
-- Use xychart with line for trends over time:
-    ```mermaid
-    xychart
-        title Search Interest Over Time
+```
+- Line — values changing over time:
+```mermaid
+    xychart-beta
+        title "Search Interest Over Time"
         x-axis ["Jan", "Feb", "Mar", "Apr"]
-        y-axis "Interest"
+        y-axis "Interest (0-100)" 0 --> 100
         line [72, 65, 80, 91]
-    ```
-
-- Use pie for proportional breakdowns:
-    ```mermaid
-    pie title Market Share
+```
+- Pie — proportional breakdowns (shares must sum to 100):
+```mermaid
+    pie title "Market Share"
         "Company A" : 45
         "Company B" : 30
         "Company C" : 25
-    ```
+```
+- You may overlay a bar and a line on one xychart-beta if they share
+  the same x-axis categories.
+- Only create a chart when visualization genuinely adds clarity.
+- Place each chart immediately after the prose it illustrates.
 
-Rules for charts:
-- Only create a chart when the data genuinely benefits from visualization.
-- Place each chart inline in the relevant report section, not in a
-  separate section at the end.
-- Always quote multi-word labels in xychart x-axis categories.
-- Do not invent numbers. Only use values from the <datasets> or
-  <research> sections.
-- You may combine multiple DataSeries into one chart if they share
-  the same categories.
-
-Rules:
-- Ground every claim in data from the <research> section.
+Additional rules:
+- Ground every claim in data from <research>.
 - If a section lacks data, say so explicitly rather than speculating.
 - Use specific numbers, ratings, and quotes when available.
 - Keep the tone professional but accessible.

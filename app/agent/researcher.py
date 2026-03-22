@@ -4,7 +4,6 @@ from typing import Annotated, Any, Literal, cast
 
 from langchain.chat_models import init_chat_model
 from langchain.tools import BaseTool
-from langchain_core.language_models import BaseChatModel
 from langchain_core.messages import AIMessage, BaseMessage, HumanMessage, ToolMessage
 from langgraph.graph import END, START, StateGraph
 from langgraph.graph.message import add_messages
@@ -35,17 +34,21 @@ class ResearcherState(BaseModel):
     )
 
 
-_base_llm: BaseChatModel = init_chat_model(
-    model=settings.model,
-    api_key=settings.anthropic_api_key,
-    max_tokens=settings.max_tokens,
-)
-
 _tools: list[BaseTool] = [web_search, fetch_reviews, google_trends]
 _tools_by_name: dict[str, BaseTool] = {t.name: t for t in _tools}
-_researcher_llm = _base_llm.bind_tools(_tools)
 
-_compress_llm = _base_llm.with_structured_output(CompressedResearch)
+_researcher_llm = init_chat_model(
+    model=settings.researcher_model,
+    temperature=settings.researcher_temperature,
+    api_key=settings.anthropic_api_key,
+    max_tokens=settings.researcher_max_tokens,
+).bind_tools(_tools)
+
+_compress_llm = init_chat_model(
+    model=settings.compress_research_model,
+    temperature=settings.compress_research_temperature,
+    api_key=settings.anthropic_api_key,
+).with_structured_output(CompressedResearch)
 
 
 def researcher_node(state: ResearcherState) -> dict[str, list[BaseMessage]]:

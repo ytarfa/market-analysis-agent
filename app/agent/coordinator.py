@@ -45,14 +45,17 @@ class CoordinatorState(BaseModel):
     )
 
 
-_base_llm = init_chat_model(
-    model=settings.model,
+_plan_llm = init_chat_model(
+    model=settings.plan_research_model,
+    temperature=settings.plan_research_temperature,
     api_key=settings.anthropic_api_key,
-    max_tokens=settings.max_tokens,
-)
+).with_structured_output(ResearchPlan)
 
-_plan_llm = _base_llm.with_structured_output(ResearchPlan)
-_sufficiency_llm = _base_llm.with_structured_output(ResearchComplete)
+_sufficiency_llm = init_chat_model(
+    model=settings.evaluate_sufficiency_model,
+    temperature=settings.evaluate_sufficiency_temperature,
+    api_key=settings.anthropic_api_key,
+).with_structured_output(ResearchComplete)
 
 _researcher_graph = build_researcher_subgraph()
 

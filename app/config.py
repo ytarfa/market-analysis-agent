@@ -23,9 +23,49 @@ class Settings(BaseSettings):
     # SerpApi
     serpapi_api_key: str | None = Field(default=None, alias="SERPAPI_API_KEY")
     max_review_products: int = Field(default=5, alias="MAX_REVIEW_PRODUCTS")
-    # Model config
-    model: str = Field(default="claude-sonnet-4-20250514", alias="MODEL")
-    max_tokens: int = Field(default=1024, alias="MAX_TOKENS")
+
+    # Models
+    generate_brief_model: str = Field(
+        default="claude-haiku-4-5-20251001", alias="GENERATE_BRIEF_MODEL"
+    )
+    generate_brief_temperature: float = Field(
+        default=0.0, alias="GENERATE_BRIEF_TEMPERATURE"
+    )
+
+    plan_research_model: str = Field(
+        default="claude-haiku-4-5-20251001", alias="PLAN_RESEARCH_MODEL"
+    )
+    plan_research_temperature: float = Field(
+        default=0.0, alias="PLAN_RESEARCH_TEMPERATURE"
+    )
+
+    researcher_model: str = Field(
+        default="claude-sonnet-4-20250514", alias="RESEARCHER_MODEL"
+    )
+    researcher_temperature: float = Field(default=0.0, alias="RESEARCHER_TEMPERATURE")
+    researcher_max_tokens: int = Field(default=1024, alias="RESEARCHER_MAX_TOKENS")
+
+    compress_research_model: str = Field(
+        default="claude-haiku-4-5-20251001", alias="COMPRESS_RESEARCH_MODEL"
+    )
+    compress_research_temperature: float = Field(
+        default=0.0, alias="COMPRESS_RESEARCH_TEMPERATURE"
+    )
+
+    evaluate_sufficiency_model: str = Field(
+        default="claude-sonnet-4-20250514", alias="EVALUATE_SUFFICIENCY_MODEL"
+    )
+    evaluate_sufficiency_temperature: float = Field(
+        default=0.0, alias="EVALUATE_SUFFICIENCY_TEMPERATURE"
+    )
+
+    final_report_model: str = Field(
+        default="claude-sonnet-4-20250514", alias="FINAL_REPORT_MODEL"
+    )
+    final_report_temperature: float = Field(
+        default=0.5, alias="FINAL_REPORT_TEMPERATURE"
+    )
+    final_report_max_tokens: int = Field(default=4096, alias="FINAL_REPORT_MAX_TOKENS")
 
     model_config = {"env_file": ".env", "populate_by_name": True}
 

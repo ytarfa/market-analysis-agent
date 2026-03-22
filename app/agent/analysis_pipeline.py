@@ -3,7 +3,6 @@ from __future__ import annotations
 from typing import Any, cast
 
 from langchain.chat_models import init_chat_model
-from langchain_core.language_models import BaseChatModel
 from langgraph.graph import END, START, StateGraph
 from langgraph.graph.state import CompiledStateGraph
 from pydantic import BaseModel, Field
@@ -35,13 +34,17 @@ class PipelineState(BaseModel):
     )
 
 
-_base_llm: BaseChatModel = init_chat_model(
-    model=settings.model,
+_brief_llm = init_chat_model(
+    model=settings.generate_brief_model,
+    temperature=settings.generate_brief_temperature,
     api_key=settings.anthropic_api_key,
-    max_tokens=settings.max_tokens,
-)
+).with_structured_output(ResearchBrief)
 
-_brief_llm = _base_llm.with_structured_output(ResearchBrief)
+_report_llm = init_chat_model(
+    model=settings.final_report_model,
+    temperature=settings.final_report_temperature,
+    api_key=settings.anthropic_api_key,
+)
 
 _coordinator_graph: CompiledStateGraph = build_research_coordinator()
 
@@ -104,7 +107,7 @@ def final_report_node(state: PipelineState) -> dict[str, str]:
 
     report: str = cast(
         str,
-        _base_llm.invoke(
+        _report_llm.invoke(
             [
                 {"role": "system", "content": FINAL_REPORT_PROMPT},
                 {

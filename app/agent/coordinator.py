@@ -1,3 +1,4 @@
+import asyncio
 from typing import Literal, cast
 
 from langchain.chat_models import init_chat_model
@@ -16,6 +17,7 @@ from app.schemas.research import (
     ResearchBrief,
     ResearchComplete,
     ResearchPlan,
+    ResearchTopic,
 )
 
 
@@ -59,6 +61,9 @@ _sufficiency_llm = init_chat_model(
 
 _researcher_graph = build_researcher_subgraph()
 
+_MAX_RETRIES = 3
+_BASE_DELAY = 10.0
+
 
 def plan_research_node(
     state: CoordinatorState,
@@ -86,6 +91,41 @@ def plan_research_node(
     return {"plan": plan, "iteration": state.iteration + 1}
 
 
+def _parse_researcher_output(
+    topic: ResearchTopic,
+    researcher_output: dict,
+) -> CompressedResearch:
+    compressed_data = researcher_output.get("compressed")
+    if compressed_data:
+        if isinstance(compressed_data, CompressedResearch):
+            return compressed_data
+        return CompressedResearch.model_validate(compressed_data)
+    return CompressedResearch(
+        topic_title=topic.title,
+        summary=f"Research on '{topic.title}' did not produce results.",
+        key_data_points=[],
+        confidence=0.0,
+    )
+
+
+async def _invoke_researcher_with_retry(
+    topic: ResearchTopic,
+    semaphore: asyncio.Semaphore,
+) -> dict:
+    async with semaphore:
+        for attempt in range(_MAX_RETRIES):
+            try:
+                return await _researcher_graph.ainvoke({"topic": topic.model_dump()})
+            except Exception as exc:
+                if "rate_limit" in str(exc).lower() or "429" in str(exc):
+                    delay = _BASE_DELAY * (2**attempt)
+                    await asyncio.sleep(delay)
+                else:
+                    raise
+        # Final attempt — let the exception propagate if it still fails
+        return await _researcher_graph.ainvoke({"topic": topic.model_dump()})
+
+
 async def spawn_researchers_node(
     state: CoordinatorState,
 ) -> dict[str, list[CompressedResearch]]:
@@ -93,31 +133,16 @@ async def spawn_researchers_node(
     if not plan:
         return {"research_results": state.research_results}
 
-    new_results: list[CompressedResearch] = []
+    semaphore = asyncio.Semaphore(settings.max_concurrent_researchers)
 
-    for topic in plan.topics:
-        researcher_input = {
-            "topic": topic.model_dump(),
-        }
+    researcher_outputs = await asyncio.gather(
+        *(_invoke_researcher_with_retry(topic, semaphore) for topic in plan.topics)
+    )
 
-        researcher_output = await _researcher_graph.ainvoke(researcher_input)
-
-        compressed_data = researcher_output.get("compressed")
-        if compressed_data:
-            if isinstance(compressed_data, CompressedResearch):
-                new_results.append(compressed_data)
-            else:
-                new_results.append(CompressedResearch.model_validate(compressed_data))
-        else:
-            # If researcher didn't produce compressed output —> create a fallback
-            new_results.append(
-                CompressedResearch(
-                    topic_title=topic.title,
-                    summary=f"Research on '{topic.title}' did not produce results.",
-                    key_data_points=[],
-                    confidence=0.0,
-                )
-            )
+    new_results: list[CompressedResearch] = [
+        _parse_researcher_output(topic, output)
+        for topic, output in zip(plan.topics, researcher_outputs)
+    ]
 
     return {"research_results": state.research_results + new_results}
 

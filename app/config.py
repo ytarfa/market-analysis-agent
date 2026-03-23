@@ -23,6 +23,9 @@ class Settings(BaseSettings):
     # SerpApi
     serpapi_api_key: str | None = Field(default=None, alias="SERPAPI_API_KEY")
     max_review_products: int = Field(default=5, alias="MAX_REVIEW_PRODUCTS")
+    max_concurrent_researchers: int = Field(
+        default=2, alias="MAX_CONCURRENT_RESEARCHERS"
+    )
 
     # Models
     generate_brief_model: str = Field(

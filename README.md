@@ -83,7 +83,21 @@ curl -X POST http://localhost:8000/api/analyze \
   -d '{"query": "iPhone 16 Pro"}'
 ```
 
-The response contains the research brief, individual research results, and the final Markdown report. Reports are also saved to the `reports/` directory.
+The response contains the research brief, individual research results, and the final Markdown report. Reports are also saved to the `reports/` directory with a UTC timestamp appended to the filename (e.g. `iphone_16_pro_20260323T142530Z.md`).
+
+> **Note:** Example reports can be found in the `reports/` directory.
+
+### Download a Report
+
+Reports can be downloaded by name via:
+
+```bash
+curl -OJ http://localhost:8000/api/reports/iphone_16_pro_20260323T142530Z.md
+```
+
+`GET /api/reports/{filename}` returns the Markdown file as an attachment. The exact filename is included in the `/analyze` response and visible in the `reports/` directory.
+
+> **Note:** Reports contain Mermaid charts. Not all Markdown viewers render Mermaid — [markdownviewer.pages.dev](https://markdownviewer.pages.dev/) is one that does.
 
 ## Cost
 

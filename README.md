@@ -133,17 +133,20 @@ Three-layer LangGraph architecture:
 2. **ResearchCoordinator**: decomposes the brief into topics, spawns researcher agents, checks if findings are sufficient, loops back if not.
 3. **ResearcherSubgraph**: each researcher runs a ReAct loop calling tools (web search, Amazon reviews, Google Trends) until it has enough data, then compresses findings into a summary.
 
-## Analysis Pipeline Diagram
+## Diagrams
 
-![Analysis Pipeline Diagram](images/analysis_pipeline_diagram.png)
-
-### Coordinator Diagram
-
-![Coordinator Diagram](images/coordinator_diagram.png)
-
-### Researcher Diagram
-
-![Researcher Diagram](images/researcher_diagram.png)
+<table>
+  <tr>
+    <td align="center"><strong>Analysis Pipeline</strong></td>
+    <td align="center"><strong>Coordinator</strong></td>
+    <td align="center"><strong>Researcher</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/analysis_pipeline_diagram.png" width="300" /></td>
+    <td><img src="images/coordinator_diagram.png" width="300" /></td>
+    <td><img src="images/researcher_diagram.png" width="300" /></td>
+  </tr>
+</table>
 
 
 ---

@@ -139,7 +139,7 @@ Three-layer LangGraph architecture:
 
 ### Coordinator Diagram
 
-![Coordinator Diagram](images/coordinator-diagram.png)
+![Coordinator Diagram](images/coordinator_diagram.png)
 
 ### Researcher Diagram
 

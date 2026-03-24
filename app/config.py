@@ -49,14 +49,14 @@ class Settings(BaseSettings):
     researcher_max_tokens: int = Field(default=1024, alias="RESEARCHER_MAX_TOKENS")
 
     compress_research_model: str = Field(
-        default="claude-sonnet-4-20250514", alias="COMPRESS_RESEARCH_MODEL"
+        default="claude-haiku-4-5-20251001", alias="COMPRESS_RESEARCH_MODEL"
     )
     compress_research_temperature: float = Field(
         default=0.0, alias="COMPRESS_RESEARCH_TEMPERATURE"
     )
 
     evaluate_sufficiency_model: str = Field(
-        default="claude-sonnet-4-20250514", alias="EVALUATE_SUFFICIENCY_MODEL"
+        default="claude-haiku-4-5-20251001", alias="EVALUATE_SUFFICIENCY_MODEL"
     )
     evaluate_sufficiency_temperature: float = Field(
         default=0.0, alias="EVALUATE_SUFFICIENCY_TEMPERATURE"

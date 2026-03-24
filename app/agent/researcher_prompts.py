@@ -29,9 +29,10 @@ structured summary of the findings.
 Rules:
 - topic_title should match the original research topic.
 - summary should be 2-4 paragraphs covering the key findings.
-- key_data_points should be a list of specific facts, figures, prices,
-  ratings, or statistics extracted from the tool results. Aim for 3-8
-  data points. Prefer numbers over qualitative statements.
+- key_data_points: return a JSON array of strings. Each string is one
+  specific fact, figure, or statistic from the tool results.
+  Example: ["Market size: $2.47B in 2023", "CAGR: 6.2% through 2030", "Leader: Brand X at 35% share"]
+  Aim for 3-8 items. Prefer numbers over qualitative statements.
 - confidence should reflect how much real data was found:
   0.0 = no useful data, tools all failed
   0.3 = sparse or indirect data

@@ -101,7 +101,7 @@ curl -OJ http://localhost:8000/api/reports/iphone_16_pro_20260323T142530Z.md
 
 ## Cost
 
-Running a single market analysis report can cost up to **~$1 USD** in API usage across Anthropic and search API calls. Keep this in mind when running multiple analyses.
+Running a single market analysis report can cost up to **~$1 USD** in API usage across Anthropic calls. Keep this in mind when running multiple analyses.
 
 ## Development
 

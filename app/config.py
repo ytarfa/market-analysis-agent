@@ -47,12 +47,17 @@ class Settings(BaseSettings):
     )
     researcher_temperature: float = Field(default=0.0, alias="RESEARCHER_TEMPERATURE")
     researcher_max_tokens: int = Field(default=1024, alias="RESEARCHER_MAX_TOKENS")
+    # Caps number of researcher ReAct loops
+    researcher_max_iterations: int = Field(default=4, alias="RESEARCHER_MAX_ITERATIONS")
 
     compress_research_model: str = Field(
         default="claude-haiku-4-5-20251001", alias="COMPRESS_RESEARCH_MODEL"
     )
     compress_research_temperature: float = Field(
         default=0.0, alias="COMPRESS_RESEARCH_TEMPERATURE"
+    )
+    compress_research_retry_limit: int = Field(
+        default=2, alias="COMPRESS_RESEARCH_RETRY_LIMIT"
     )
 
     evaluate_sufficiency_model: str = Field(

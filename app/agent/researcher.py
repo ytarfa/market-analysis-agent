@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import operator
 from typing import Annotated, Any, Literal, cast
 
 from langchain.chat_models import init_chat_model
@@ -20,8 +21,6 @@ from app.tools.fetch_reviews import fetch_reviews
 from app.tools.google_trends import google_trends
 from app.tools.web_search import web_search
 
-COMPRESS_RETRY_LIMIT = 2
-
 
 class ResearcherState(BaseModel):
     topic: ResearchTopic = Field(
@@ -34,6 +33,7 @@ class ResearcherState(BaseModel):
         default=None,
         description="Structured summary produced after the ReAct loop completes.",
     )
+    iteration: Annotated[int, operator.add] = 0
 
 
 _tools: list[BaseTool] = [web_search, fetch_reviews, google_trends]
@@ -53,7 +53,7 @@ _compress_llm = (
         api_key=settings.anthropic_api_key,
     )
     .with_structured_output(CompressedResearch)
-    .with_retry(stop_after_attempt=2)
+    .with_retry(stop_after_attempt=settings.compress_research_retry_limit)
 )
 
 
@@ -99,7 +99,7 @@ def researcher_node(state: ResearcherState) -> dict[str, list[BaseMessage]]:
 
 async def researcher_tools_node(
     state: ResearcherState,
-) -> dict[str, list[ToolMessage]]:
+) -> dict[str, list[ToolMessage] | int]:
     last_message: AIMessage = cast(AIMessage, state.messages[-1])
     results: list[ToolMessage] = []
 
@@ -110,7 +110,7 @@ async def researcher_tools_node(
             ToolMessage(content=str(observation), tool_call_id=tool_call["id"])
         )
 
-    return {"messages": results}
+    return {"messages": results, "iteration": 1}
 
 
 def compress_research_node(
@@ -143,6 +143,8 @@ def compress_research_node(
 def should_continue(
     state: ResearcherState,
 ) -> Literal["researcher_tools", "compress_research"]:
+    if state.iteration > settings.researcher_max_iterations:
+        return "compress_research"
     last_message: AIMessage = cast(AIMessage, state.messages[-1])
     if last_message.tool_calls:
         return "researcher_tools"
